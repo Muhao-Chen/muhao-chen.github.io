@@ -9,12 +9,18 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang is a Lecturer (Assistant Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has been investigating wireless security solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, ZigBee, etc, with a focus on the physical and MAC layers.
+Dr. Muhao Chen is a Postdoc Researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA. 
 
-He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
+His work mainly involves Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures.
+
+He received the PhD degree in Aerospace Engineering, Texas A&M University, College Station, USA in May 2021, where he  worked with Drs. Robert E. Skelton and Manoranjan Majji. 
+
+Before joining TAMU as a Ph.D. student, he graduated with M.S. and B.S. degrees from Huazhong University of Science and Technology University in 2016 and 2013.
+
+<! His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).>
 
 Please find more information from his 
-* [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
+* [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en){:target="_blank"}
 * [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
 * [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
 * [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile
