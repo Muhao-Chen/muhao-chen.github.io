@@ -5,77 +5,45 @@ permalink: /publication/
 author_profile: true
 toc: true
 ---
-His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
-
-* Our publication in the area of key generation from wireless channels is summarized at [here](/keygen/keygen-pub/)
-* Our publication in the area of radio frequency fingerprinting identification is summarized at [here](/rffi/rffi-pub/)
-
-Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of the paper.
-
+His citation profile in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup> denotes corresponding author.
 
-{% include toc %}
-
-# Book Chapter
-1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
+# Book Preparing
+1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
 
 # Preprint
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa
-,” [link](https://arxiv.org/abs/2107.02867){:target="_blank"}
+1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E., 2021. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. <u>arXiv preprint</u>. arXiv:2010.10710.
 
-# Journal Article
-1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Kailin Cao, and Aiqun Hu, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments,” _IEEE Communications Letters_, accepted.
-1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, accepted. [link](https://ieeexplore.ieee.org/document/9526766){:target="_blank"}
-1. **Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, accepted. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
-1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [link](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, vol. 39, no. 8, pp. 2604 - 2616, Aug. 2021. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
-1. Xintao Huan, Kyeong Soo Kim, and **Junqing Zhang**,“NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks,” _IEEE Transactions on Communications_, vol. 69, no. 7, pp. 4691 - 4703, Jul. 2021. [link](https://ieeexplore.ieee.org/document/9398669){:target="_blank"}
-1. Weitao Xu, **Junqing Zhang**, Shunqi Huang, Chengwen Luo, and Wei Li, “Key Generation for Internet of Things: A Contemporary Survey,”, _ACM Computing Surveys_, Article No: 14, Jan. 2021. [link](https://dl.acm.org/doi/10.1145/3429740){:target="_blank"}
-1. Guyue Li, Zheying Zhang, **Junqing Zhang**, and Aiqun Hu, “Encrypting Wireless Communications On the Fly Using OneTime Pad and Key Generation,” _IEEE Internet of Things Journal_, vol. 8, no. 1, pp. 357 - 369, Jan. 2021.  [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
-1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, vol. 7, no. 10, pp. 10581 - 10593, Oct. 2020. [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
-1. Guyue Li, Chen Sun, Eduard Jorswieck, **Junqing Zhang**, Aiqun Hu, and You Chen, “Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks,” _IEEE Transactions on Information Forensics and Security_, vol. 16, pp. 968 - 982, 2020. [link](https://ieeexplore.ieee.org/document/9205612){:target="_blank"} 
-1. **Junqing Zhang**, Guyue Li, Alan Marshall, Aiqun Hu, and Lajos Hanzo, “A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels,” _IEEE Access_, vol. 8, pp. 138406 - 138446, 2020. [link](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
-1. Henri Ruotsalainen, **Junqing Zhang**, and Stepan Grebeniuk, “Experimental Investigation on Wireless Key Generation for Low Power Wide Area Networks,” _IEEE Internet of Things Journal_, vol. 7, no. 3, pp. 1745 - 1755, Mar. 2020. [link](https://ieeexplore.ieee.org/document/8865100){:target="_blank"}
-1. Linning Peng, **Junqing Zhang**, Ming Liu and Aiqun Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,” _IEEE Transactions on Vehicular Technology_, vol. 69, no. 1, pp. 1091 - 1095, Jan. 2020 [link](https://ieeexplore.ieee.org/document/8888209){:target="_blank"}
-1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, vol. 26, no. 5, pp. 92 - 98, Oct. 2019. [link](https://ieeexplore.ieee.org/document/8715341){:target="_blank"}
-1. **Junqing Zhang**, Ming Ding, David Lopez-Perez, Alan Marshall, and Lajos Hanzo, “Design of an Efficient OFDMA-Based Multi-User Key Generation Protocol,” _IEEE Transactions on Vehicular Technology_, vol. 68, no. 9, pp. 8842 - 8852, Sept. 2019. [link](https://ieeexplore.ieee.org/document/8765327){:target="_blank"}
-1. **Junqing Zhang**, Ming Ding, Guyue Li, and Alan Marshall, “Key Generation Based on Large Scale Fading,” _IEEE Transactions on Vehicular Technology_, vol. 68, no. 8, pp. 8222 - 8226, Aug. 2019. [link](https://ieeexplore.ieee.org/document/8735939){:target="_blank"}
-1. Yuan Ding, Vincent Fusco, **Junqing Zhang**, and Wen-Qin Wang, “Time-modulated OFDM Directional Modulation Transmitters,” _IEEE Transactions on Vehicular Technology_, vol. 68, no. 8, pp. 8249 - 8253, Aug. 2019. [link](https://ieeexplore.ieee.org/document/8744399){:target="_blank"}
-1. Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, Bin Xiao, Aiqun Hu, “Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities,” _Entropy_, vol. 21, no. 5, 497, 2019. [link](https://www.mdpi.com/1099-4300/21/5/497){:target="_blank"}
-1. Linning Peng, Aiqun Hu, **Junqing Zhang**, Yu Jiang, Jiabao Yu, and Yan Yan, “Design of a hybrid RF fingerprint extraction and device classification scheme,” _IEEE Internet of Things Journal_, vol. 6, no. 1, pp. 349 – 360, 2019. [link](https://ieeexplore.ieee.org/document/8360937/){:target="_blank"}
-1. Linning Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120){:target="_blank"}
-1. **Junqing Zhang**, Alan Marshall, and Lajos Hanzo, “Channel-envelope differencing eliminates secret key correlation: LoRa-based key generation in low power wide area networks,” _IEEE Transactions on Vehicular Technology_, vol. 67, no. 12, pp. 12462-12466, Dec., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8519327/){:target="_blank"}
-1. Guyue Li, Aiqun Hu, Chen Sun and **Junqing Zhang**, “Constructing reciprocal channel coefficients for secret key generation in FDD systems,”  _IEEE Communications Letters_,  vol. 22, no. 12, pp. 2487 – 2490, Dec., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8490674)
-1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Guyue Li, “On radio frequency fingerprint identification for DSSS systems in low SNR scenarios,”  _IEEE Communications Letters_, vol. 22, no. 11, pp. 2326 -2329, Nov., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8469002){:target="_blank"}
-1. Guyue Li, Aiqun Hu, **Junqing Zhang**, Linning Peng, Chen Sun, and Daming Cao, “High-agreement uncorrelated secret key generation based on principal component analysis preprocessing,” _IEEE Transactions on Communications_, vol. 66, no. 7, pp. 3022 – 3034, Jul. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8314118){:target="_blank"}
-1. Yuanrui Zhang, Roger Woods, Youngwook Ko, Alan Marshall, and **Junqing Zhang**, “Security optimization of exposure region-based beamforming with a uniform circular array,” _IEEE Transactions on Communications_, vol. 66, no. 6, pp. 2630 – 2641, Jun. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8093669){:target="_blank"}
-1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Securing wireless communications of the Internet of Things from the physical layer, An overview,” _Entropy_, vol. 19, no. 8, 420, 2017. (Invited Paper) [link](https://www.mdpi.com/1099-4300/19/8/420){:target="_blank"}
-1. Huy Nguyen, **Junqing Zhang**, Nan Yang, Trung Q. Duong, Won-Jon Hwang, “Secure cooperative single carrier systems under unreliable backhaul and dense networks impact,” _IEEE Access_, vol. 5, pp. 18310 – 18324,  2017. [link](https://ieeexplore.ieee.org/abstract/document/7981320){:target="_blank"}
-1. **Junqing Zhang**, Biao He, Trung Q. Duong, and Roger Woods, “On the key generation from correlated wireless channels,” _IEEE Communications Letters_,  vol. 21, no. 4, pp. 961 — 964, Apr. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7809064){:target="_blank"}
-1. **Junqing Zhang**, Alan Marshall, Roger Woods, and Trung Q. Duong, “Design of an OFDM physical layer encryption scheme,” _IEEE Transactions on Vehicular Technology_, vol. 66, no. 3, pp. 2114 – 2127, Mar. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7475864){:target="_blank"}
-1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Retrodirective assisted secure wireless key establishment,” _IEEE Transactions on Communications_, vol. 65, no. 1, pp. 320 – 334, Jan. 2017. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7588176){:target="_blank"}
-1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048){:target="_blank"}
-1. **Junqing Zhang**, Alan Marshall, Roger Woods, and Trung Q. Duong, “Efficient key generation by exploiting randomness from channel responses of individual OFDM subcarriers,” _IEEE Transactions on Communications_, vol. 64, no. 6, pp. 2578 – 2588, Jun. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7448884){:target="_blank"}
-1. **Junqing Zhang**, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” _IEEE Access_, vol. 4, pp. 614- 626, Mar. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7393435){:target="_blank"}
-1. Jinghua Zhang, Phong Nguyen, **Junqing Zhang**, Emi Garcia, and Ngoc Phuc Le, “Impact of primary networks on the performance of energy harvesting cognitive radio networks,” _IET Communications_, vol. 10, no. 18, pp. 2559 – 2566, Dec. 2016. [link](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2016.0400){:target="_blank"}
-1. Nguyen-Son Vo, Binh Ha, Berk Canberk, and **Junqing Zhang**, “Green two-tiered wireless multimedia sensor systems: An energy, bandwidth, and quality optimization framework,” _IET Communications_, vol. 10, no. 18, pp. 2543 – 2550, Dec. 2016. [link](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2016.0406){:target="_blank"}
-1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
+1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E, 2020. Review of space habitat designs for long term space explorations. *Progress in Aerospace Sciences.*
+
+1. Su, X., **Chen, M.*** and Skelton, R.E., 2020. Electromagnetic Tensegrity Lunar Accelerator. *Aerospace Science and Technology*. 
+
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. dynamics based on finite element method. *Composite Structures*, XXX.
+
+# Journal Article 
+1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. Aerospace Science and Technology. 106, p.106147.
+
+1. **Chen, M.*** and Skelton, R.E., 2020. A general approach to minimal mass tensegrity. *Composite Structures.* p.112454.
+
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2020. Design of a new tensegrity cantilever structure. <u>Composite Structures</u>, p.112188.
+
+1. Goyal, R., **Chen, M.**, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE Robotics and Automation Letters</u>, 5(2), pp.1239-1246.
+
+1. **Chen, M.***, Liu, J. and Skelton, R.E., 2020. Design and control of tensegrity morphing airfoils. <u>Mechanics Research Communications</u>, 103, p.103480.
+
+1. Goyal, R., **Chen, M.**, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>, 4(42), p.1613.
 
 # Conference Paper
-1. Guyue Li, Haiyu Yang, **Junqing Zhang**, Aiqun Hu, and Hongbo Liu, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments”, in _Proc. IEEE INFOCOM_, 2022
-1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021
-1. Pengcheng Yin, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu,  “LTE Device Identification Based on RF Fingerprint with Multi-Channel Convolutional Neural Network,” in _Proc. IEEE GLOBECOM_, 2021, accepted.
-1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
-1. You Chen, Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, and Bin Xiao, “Beam-domain secret key generation for multi-user massive MIMO networks,” in _Proc. IEEE ICC_, Dublin, Ireland, June 2020. [link](https://ieeexplore.ieee.org/document/9149130/){:target="_blank"}
-1. Wei Li, Mounir Ghogho, **Junqing Zhang**, Des McLernon, Jing Lei and Syed Ali Raza Zaidi, “Design of an Energy-Efficient Multidimensional Secure Constellation for 5G Communications,” in _Proc. IEEE ICC Workshop on Wireless Physical Layer Security_, Shanghai, China, May 2019.
-1. Yun Wen, Makoto Yoshida, **Junqing Zhang**, Zheng Chu, Pei Xiao, and Rahim Tafazolli, “Machine Learning Based Attack Against Artificial Noise-aided Secure Communication,” in _Proc. IEEE ICC_, Shanghai, China, May 2019.
-1. Linning Peng, Guyue Li, **Junqing Zhang**, and Aiqun Hu, “Securing M2M Transmissions Using Nonreconciled Secret Keys Generated from Wireless Channels,” in _Proc. IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS)_, Abu Dhabi, Dec. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8644401){:target="_blank"}
-1. Yuan Ding, Vincent Fusco, and **Junqing Zhang**, “Distributed OFDM transmitter scheme for Internet of Things,” in _Proc. 12th European Conference on Antennas and Propagation (EuCAP)_, 2018. [link](https://digital-library.theiet.org/content/conferences/10.1049/cp.2018.0480){:target="_blank"}
-1. Guyue Li, Aiqun Hu, **Junqing Zhang**, and Bin Xiao, “Security analysis of a novel artificial randomness approach for fast key generation,” in _Proc. IEEE GLOBECOM_, Singapore, Dec. 2017. [link](https://ieeexplore.ieee.org/abstract/document/8254029){:target="_blank"}
-1. Yuan Ding, Vincent Fusco, and **Junqing Zhang**, “Phase error effects on distributed transmit beamforming for wireless communications,” in _Proc. 11th European Conference on Antennas and Propagation (EuCAP)_, Paris, France, Mar. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7928116){:target="_blank"}
-1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Secure wireless key establishment using retrodirective array,” in _Proc. IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS)_, Washington DC, USA, Dec. 2016. [link](https://ieeexplore.ieee.org/abstract/document/7849041){:target="_blank"}
-1. **Junqing Zhang**, Roger Woods, Trung Q. Duong, Alan Marshall, and Yuan Ding, “Experimental study on channel reciprocity in wireless key generation,” in _Proc. 17th IEEE International Workshop on Signal Processing Advances in Wireless Communications Special Session on Physical Layer Security for 5G_, Edinburgh, UK, Jul. 2016 (Invited Paper). [link](https://ieeexplore.ieee.org/abstract/document/7536825){:target="_blank"}
-1. **Junqing Zhang**, Roger Woods, Alan Marshall, and Trung Q. Duong, “Verification of key generation from individual OFDM subcarrier’s channel response,” in _Proc. IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS)_, San Diego, CA, USA, Dec. 2015, pp. 1–6. [link](https://ieeexplore.ieee.org/abstract/document/7414111){:target="_blank"}
-1. **Junqing Zhang**, Roger Woods, Alan Marshall, and Trung Q. Duong, “An effective key generation system using improved channel reciprocity,” in _Proc. 40th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, Brisbane, Australia, Apr. 2015, pp. 1727–1731. [link](https://ieeexplore.ieee.org/abstract/document/7178266/){:target="_blank"}
-1. **Junqing Zhang**, Alan Marshall, Roger Woods, and Trung Q. Duong, “Secure key generation from OFDM subcarriers’ channel responses,” in _Proc. IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS)_, Austin, Texas, USA, Dec. 2014, pp. 1302–1307. [link](https://ieeexplore.ieee.org/abstract/document/7063613){:target="_blank"}
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2020. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd International Conference on Composite Structures & 6th International Conference on Mechanics of Composites</u>. 
+
+1. **Chen, M.***, Shen, Y., Kim, Y., Majji, M., Skelton, R.E. and Brown, R.D., 2020. Life Support System for Artificial Gravity Space Habitat. *ASCE Earth & Space Conference*. 
+
+1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Deployable Tensegrity Lunar Tower. *ASCE Earth & Space Conference*. 
+  
+1. **Chen, M.**, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. *ASCE Earth & Space Conference*. 
+
+
+1. Longman, A., Skelton, R., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., **Chen, M.** and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. *In ASCEND 2020* (p. 4193).
+
+1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. *In 2018 AIAA SPACE and Astronautics Forum and Exposition*, p. 5109.
+
