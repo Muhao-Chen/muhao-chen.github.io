@@ -12,30 +12,25 @@ toc_max_header: 1
 ## Journalist Interview
 Wall street Journal Robert E. Skelton, Majji, and Muhao 
 
+
+* Robert E. Skelton, Manoranjan Majji, and Muhao Chen. Building A Growable Habitat for Sustainable Life in Space.
+
+please visit the [link](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html){:target="_blank"} for more information. Video link: [link](https://youtu.be/3573t1r9XRA).
+
+
 学校的 Robert Majji, Muhao 
 * **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
 
-# Invited Talk
-* Invited by Prof Zengmin Xia, from the University of Leicester to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
-* Invited by Prof Haijun Peng, at Dalian  Jiaotong University, China, 6th December 2021
-* Invited by Prof. Ani Luo, at Harbin Institudd of Engineering, China, June, 2020
-* Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
-* Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
-* Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug., 2019
-* Invited talk at Zhijiang Lab, China, 16th Aug., 2019
-* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19th July, 2019
-* Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
-* Invited talk at Joint Workshop of University of Liverpool-Xian Jiaotong University at University of Liverpool, UK, 24th June, 2019
-* Invited by Dr. An Liu at Zhejiang University, China, 4th Sept., 2018
-* IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
-* Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
-* Invited by Prof. Jie Xu at Guangdong University of Technology, China, 22nd Dec., 2017
-* Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr., 2017
-* Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec., 2016
-* Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec., 2016
-* * ASCE Earth & Space
+# Talks
+* International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August, 2021 
+* Invited by Prof. Zeyang Xia, from Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), July 2021
+* Invited by Prof. Haijun Peng, at Dalian University of Technology, China, July 2021
+* Invited by Prof. Ani Luo, at Harbin Institudd of Engineering, China, June, 2021
+* ASCE Earth & Space Conference, A Virtual Conference, 19th April, 2021
+* AIAA Ascent 
+
 
 
 # Poster Presentation
@@ -72,6 +67,5 @@ Texas A&M University Student Research Week (SRW), 2021
 * ASCE Earth & Space
 
 # Advisor
-High School Students Robot Competition by FRC (FIRST Robotics Competition)         2014-2015
-- Mentored the FRC Robotics Team to do the mechanical design and control
-- Led Wuhan Foreign Languages School team to the Championship in China
+High School Students Robot Competition by FRC (FIRST Robotics Competition), 2014-2015
+

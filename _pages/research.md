@@ -27,7 +27,6 @@ Secure communication will be achieved by using key generation and device authent
 <br />
 
 
-
 ### Key Generation from Wireless Channels
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 * [Key Generation Overview](/keygen/keygen-overview/)
