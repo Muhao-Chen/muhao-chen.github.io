@@ -1,18 +1,21 @@
 ---
 layout: archive
-title: "Funding And Awards"
-permalink: /funding-and-awards/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 ---
-# Ongoing Project
-* Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £251k, July 2021 to June 2023
 
+# Awards
+* AERO Travel Grant, 2018-2021
+* Challenge Finalist 2020 NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, Nov.2020
+* AERO Graduate Excellence Fellowship Award, May 2020
+* First Prize in National Marine Vehicle Design Competition, Jul.2014 & Jul.2015
+* National Scholarship for Graduate Students (the Highest Honor for Graduates), Dec.2014
+* First Prize in 6th National Contest on Energy Saving and Emission Reduction, Aug.2013
+* The Unique National Special Prize in Sunbird Cup Yacht Design Contest, Dec.2013 & 2014
+* Second Prize in 2013 National Virtual Instrument Contest, May 2013
+* Technological Innovation Star by School of NAOE, HUST, Oct.2012
+* National Encouragement Scholarship (10/200, Ministry of Education, China), Oct.2012
+* Frist Prize in 28th Hubei 12·9 Poetry and Prose Contest, Dec.2012
+* Gold Prize in Provincial 7th Challenge Cup University Competition, Jun.2012
 
-# Completed Project
-* Principal Investigator, Royal Society Research Grants, [Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning](/project-rffi-lora/), £19k, March 2019 to March 2020
-
-# Travel Grants
-* [UK-China University Consortium on Engineering Education and Research (UKCEER)](http://www.ukchinaengineering.com/){:target="_blank"} Mobility Grant for Early Career Researchers, Host: Professor Aiqun Hu in Southeast University, China, Aug., 2019, £3,000
-* British Council Travel Grant – The Researcher Links initiative in Turkey, Sept., 2017, £1,500
-* IEEE Signal Processing Society Travel Grants for ICASSP 2015
-* Queen’s University Belfast Emily Sarah Montgomery Travel Scholarship 2015
