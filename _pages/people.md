@@ -6,15 +6,15 @@ author_profile: true
 toc: true
 ---
 
-I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
+I am affiliated to the **Tensegrity Lab** and **Land Air & Space Robotics (LASR) Laboratory** at Texas A&M University, College Station. 
 
-# PDRA
-* Mr. Chen Chen. Research topic: key generation from wireless channel. Starting in January 2022
+**Tensegrity Lab** seeks to develop new analytical tools to merge structure design, control design, integrated with signal processing resource design. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that also allow minimal control energy, within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to autonomously build tensegrity structures in space. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at impact on the moon or mars. Using these techniques, we have performed feasibility studies for truck bumpers for the Ford Motor company. We have created design methods for high rise buildings that can survive any earthquake with a specified energy bound. These studies employ data-based as well as model-based control methods. Faculty supervisor: Robert Skelton
 
-# PhD Students
-## Main Supervisor
-* Mr. Guanxiong Shen, co-supervision with Prof Alan Marshall (Nov., 2019 to present). Research topic: Radio frequency fingerprinting identification
-* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (September 2020 to present). Research topic: Device free wireless sensing
-* Miss Jie Ma, co-supervision with Prof Alan Marshall (July 2021 to present). Research topic: Radio frequency fingerprinting identification
-* Miss Yijia Guo, co-supervision with Prof Yao-Win Peter Hong, National Tsing Hua University (November 2021 to present). Research topic: Radio frequency fingerprinting identification
+**Land Air & Space Robotics laboratory (LASR) Laboratory** is a robotics facility operated by the Department of Aerospace Engineering at Texas A&M University. The lab conducts research in robotic sensing and control with an aim to enhance the fields of proximity operations, human-robot interaction, stereo vision, swarm robotics and autonomous aerial vehicles. Faculty supervisor: Manoranjan Majji
+
+# Students Mentored
+## Co-supervision with Dr. Skelton
+* Mr. Chris Plantz, M.S. in Ocean Engineering (2019 - 2021). Thesis topic: Design and Analysis of A Robotic Tensergity Dolphin.
+
+
 

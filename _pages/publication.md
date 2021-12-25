@@ -34,16 +34,27 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 1. Goyal, R., **Chen, M.**, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>, 4(42), p.1613.
 
 # Conference Paper
-1. Ma, S., **Chen, M.*** and Skelton, R.E., 2020. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd International Conference on Composite Structures & 6th International Conference on Mechanics of Composites</u>. 
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd International Conference on Composite Structures & 6th International Conference on Mechanics of Composites</u>. 
 
-1. **Chen, M.***, Shen, Y., Kim, Y., Majji, M., Skelton, R.E. and Brown, R.D., 2020. Life Support System for Artificial Gravity Space Habitat. *ASCE Earth & Space Conference*. 
-
-1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Deployable Tensegrity Lunar Tower. *ASCE Earth & Space Conference*. 
+1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. *ASCE Earth & Space Conference*. 
   
-1. **Chen, M.**, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. *ASCE Earth & Space Conference*. 
-
+1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. *ASCE Earth & Space Conference*. 
 
 1. Longman, A., Skelton, R., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., **Chen, M.** and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. *In ASCEND 2020* (p. 4193).
 
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. *In 2018 AIAA SPACE and Astronautics Forum and Exposition*, p. 5109.
+
+# Patents
+1. Khaled, M., Srinivasan, S., **Chen, M.**, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review
+1. Plantz, C.L., **Chen, M.**, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation
+1. **Chen, M.**, Majji, M. and Skelton, R.E. Tensegrity Morphing Airfoil. U.S. Patent. In preparation
+1. **Chen, M.**, Li, X., Gong, C., Xia, L. and Zhou, L. A kind of data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015.
+1. **Chen, M.**, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, Mar. 02, 2016.
+1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, Aug. 26, 2015.
+
+# Thesis and Disseration
+- [PhD] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm.   
+- [MS] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.   
+- [BS] **Chen, M.**. Study on the Performance of Submarine Emergency Surfacing.
+
 
