@@ -11,30 +11,27 @@ toc_max_header: 1
 # Public Engagement
 ## Journalist Interview
 
-* Robert E. Skelton, Manoranjan Majji, and Muhao Chen. Building A Growable Habitat for Sustainable Life in Space. Some of the links are as follows:
-- Wall street Journal
+Robert E. Skelton, Manoranjan Majji, and Muhao Chen. Building A Growable Habitat for Sustainable Life in Space. Some of the links are as follows:
+- Wall Street Journal
+
+<!https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html>
 
 please visit the [link](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html){:target="_blank"} for more information. Video link: [link](https://youtu.be/3573t1r9XRA).
 
 
-学校的 Robert Majji, Muhao 
-* **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
-
-
-
 # Talks
-* International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August, 2021 
-* Invited by Prof. Zeyang Xia, from Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), July 2021
+* International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August, 2021. 
+* Invited by Prof. Zeyang Xia, from Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), July 2021.
 * Invited by Prof. Haijun Peng, at Dalian University of Technology, China, July 2021
-* Invited by Prof. Ani Luo, at Harbin Institudd of Engineering, China, June, 2021
-* ASCE Earth & Space Conference, A Virtual Conference, 19th April, 2021
-* AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, 17th September, 2018
+* Invited by Prof. Ani Luo, at Harbin Institudd of Engineering, China, June, 2021.
+* ASCE Earth & Space Conference, A Virtual Conference, 19th April, 2021.
+* AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, 17th September, 2018.
 
 
-# Poster Presentation
-* NASA's 2021 Moon to Mars Ice & Prospecting Challenge. Hampton, VA from September 23-25, 2021. 
-* TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. 10th April, 2021.
-* TAMU Physics & Engineering Festival. Growth Adaptable Space Habitat. 6th April, 2019.
+# Poster
+* NASA's 2021 Moon to Mars Ice & Prospecting Challenge. Hampton, VA, September 23, 2021. 
+* TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, 10th April, 2021.
+* TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, 6th April, 2019.
 
 
 # Editorship 
