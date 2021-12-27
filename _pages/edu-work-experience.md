@@ -5,40 +5,21 @@ permalink: /edu-work-experience/
 author_profile: true
 ---
 
-# Qualification
-* PhD in Electronics and Electrical Engineering, Queen’s University Belfast
-* Fellow of the Higher Education Academy (FHEA)
+# Appointment
+* May 2021 to Present 
+* Institution: Departmet of Aerospace Engineering, Texas A&M University, College Station, US
 
+# Education
+## Ph.D. in Aerospace Engineering
+* Sept., 2016 to May. 2021
+* Dissertation: Soft Robotics by Integrating Structure, Materials, Fluids, Control Design, and Signal Processing Using the Tensegrity Paradigm    
+* Institution: Texas A&M University, College Station, US
+* Supervisors: Prof. Robert E. Skelton and Prof. Manoranjan Majji 
 
-# Work Experience
-## Lecturer (Assistant Professor)
-* June 2020 to present
-* Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
+## M.S. in Design and Manufacture of Ships and Marine Structures
+* Sept., 2013 to Jul. 2016
+* Institution: Huazhong University of Science and Technology University, China
 
-## Tenure Track Fellow (Assistant Professor)
-* Feb. 2018 to May 2020
-* Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
-
-## Research Fellow
-* Feb. 2016 to Jan. 2018
-* Institution: School of Electronics, Electrical Engineering And Computer Science, Queen’s University Belfast, UK
-
-# Education Background
-## Doctor of Philosophy in Electronics and Electrical Engineering
-* Oct., 2012 to Jan. 2016
-* Thesis Title: Key Generation and Physical Layer Encryption for Secure Wireless Communications
-* Institution: Center for Wireless Innovation, The Institute of Electronics, Communications and Information Technology (ECIT), Queen’s University Belfast, UK
-* Supervisors
-  * Prof. Roger Woods (Principal Supervisor)
-  * Dr. Trung Q. Duong (Secondary Supervisor)
-  * Prof. Alan Marshall (External Supervisor, University of Liverpool)
-* Funding Body: Funded via a prestigious full University International Studentship as part of an international project (WiPhyLoc8) involving Rice University, USA and University College Dublin, Ireland.
-
-## Master of Engineering in Electrical Engineering
-* Sept., 2009 to Jan. 2012
-* Institution: Tianjin University, China
-* Supervisor: Prof. Chao Wang
-
-## Bachelor of Engineering in Electrical Engineering
-* Sept., 2005 to Jul. 2009
-* Institution: Tianjin University, China
+## B.S. in Naval Architecture and Ocean Engineering / Minor: English
+* Sept., 2009 to Jul. 2013
+* Institution: Huazhong University of Science and Technology University, China

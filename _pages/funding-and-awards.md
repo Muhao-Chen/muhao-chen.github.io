@@ -18,4 +18,3 @@ author_profile: true
 * National Encouragement Scholarship (10/200, Ministry of Education, China), Oct.2012
 * Frist Prize in 28th Hubei 12·9 Poetry and Prose Contest, Dec.2012
 * Gold Prize in Provincial 7th Challenge Cup University Competition, Jun.2012
-
