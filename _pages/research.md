@@ -29,23 +29,48 @@ equilibrium. Of course, this would require much less control effort.
 The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is that whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. My research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems. 
 
 -----
-## Tensegrity Systems
-* Tensergity solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported. 
-* Statics: Form-finding algorithms, structure topology optimization,  minimal mass design subject to local and global failures.
-* Dynamics: FEM analysis, modal analysis, structure redundancy, and robustness.
-* Control: Data-based, model-based nonlinear and linear control, covariance control, optimal sensor & actuator selection for nonlinear and linear models. 
-* Experiments: Joint design, 
+## Integrating Structure & Control Design    
+* Objective: Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy and robustness)
+* Critical problems: Nonlinear and linear structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, the integrated disciplines by solving LMIs (linear matrix inequality)
 
------
+## Robotics
+* Design: Lightweight structure design, deployment planning, acuation statergy 
+* Control: Data-based & model-based nonlinear and linear control, covariance control, obstacle avoidance and path planning
+* Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simuation model
+
+
+## Tensegrity Systems
+* Tensergity solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
+* Statics: Form-finding algorithms, structure topology optimization,  minimal mass design subject to local and global failures
+* Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
+* Applications: Wings and hydrofoils, space habitat, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
+
+## Dynamical Systems Theory
+* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics and modal analysis      
+* Structure redundancy, uncertainty and robustness, FSI dynamics 
+
+
 ## Space Systems
 
 ### Space Habitat Design
+
+## Fluid-Structure Interaction
+* Biommic structure design
+* Fluid structure dynamics, 
+* acuation stratergy and control
+* Applictaions: cheap shelters, fish and hydrofoils, ect.   
+
+
 
 <br />
 <img align="center" width="800" src="{{ site.url }}/images/system_overview.png" alt="...">
 <br />
 
-### Moon & Mars  Habitat Design
+### Moon & Mars Mining
+
+https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
+
+Industrial discussion: Patterson-UTI
 
 
 
