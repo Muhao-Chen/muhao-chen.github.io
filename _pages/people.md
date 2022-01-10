@@ -17,7 +17,7 @@ Director: [Dr. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles
 ### Students Mentored (Co-supervision with Dr. Skelton)
 * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept.2019 - Jun.2021), Texas A&M Univeristy, College Station, TX. Research topic: Design and Analysis of A Robotic Tensergity Dolphin.
 * Mr. Jason Liu, MEng in Ocean Engineering (Sept.2017 - Dec.2020), Texas A&M Univeristy, College Station, TX. Research topic: Dynamics, Control, and Animation of The deployable Tensegrity Structures. 
-* Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec.2019), Texas A&M Univeristy, College Station, TX. Research topic: Desigan and Conytrol of Robotic Tensergity Airfoils.
+* Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec.2019), Texas A&M Univeristy, College Station, TX. Research topic: Desigan and Conytrol of Tensergity Morphing Airfoils.
 
 
 
