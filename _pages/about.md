@@ -13,6 +13,15 @@ Muhao Chen, PhD, is currently a Postdoc Researcher at the Department of Aerospac
 
 His work mainly involves Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures.
 
+## Work Experience
+
+Postdoc Reseacher
+May 2021 - Present
+Research Asistant 
+Sept.2012 - Jul.2016
+National Instruments, Shanghai, China, Jul.2013-Jan.2015                                                     
+Assistant Application Engineer & LabVIEW Club, HUST, President            
+
 ## Education 
 
 PhD, Aerospace Engineering, Texas A&M University, College Station, USA. Advisors: Drs. Robert E. Skelton and Manoranjan Majji, 2021  
