@@ -12,18 +12,16 @@ toc: true
 Muhao Chen, PhD, is currently a Postdoc Researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA. 
 
 His work mainly involves Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures.
+
 ---
 
 ## Work Experience
 
 Postdoc Reseacher, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, May 2021 - Present
+Assistant Application Engineer & LabVIEW Club, HUST, President, National Instruments, China, Jul.2013-Jan.2015  
+<!--Research Asistant, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, Sept.2016 - May 2021-->
+<!--Research Asistant, Department of Naval Architecture and Ocean Engineering, Huazhong Univeristy of Sci. & Tech. (HUST), China, Sept.2012 - Jul.2016-->
 
-<!Research Asistant, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, Sept.2016 - May 2021>
-
-<!Research Asistant, Department of Naval Architecture and Ocean Engineering, Huazhong Univeristy of Sci. & Tech. (HUST), China, Sept.2012 - Jul.2016>
-
-Assistant Application Engineer & LabVIEW Club, HUST, President, National Instruments, China, Jul.2013-Jan.2015                                                     
-           
 
 ## Education 
 
