@@ -20,9 +20,6 @@ equilibrium. Of course, this would require much less control effort.
 * Space Systems
 * Fluid-Structure Interaction
 
-<br />
-<img align="center" width="800" src="{{ site.url }}/images/WordCloudResearch.png" alt="...">
-<br />
 
 ## Research Topics
 
@@ -62,10 +59,6 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 
 
-<br />
-<img align="center" width="800" src="{{ site.url }}/images/system_overview.png" alt="...">
-<br />
-
 ### Moon & Mars Mining
 
 https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
@@ -73,23 +66,13 @@ https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
 Industrial discussion: Patterson-UTI
 
 
-
-
-
-<br />
-<img align="center" width="800" src="{{ site.url }}/images/keygen/keygen_model.png" alt="...">
-<br />
-
-
-
-
-
-<br />
+<!-- <br />
 <img align="center" width="800" src="{{ site.url }}/images/rffi/RFF_identification_procedure.png" alt="...">
-<br />
+<br />-->
+
 
 
 ## Research Demonstration
-We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
+<!--We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.-->
 
 
