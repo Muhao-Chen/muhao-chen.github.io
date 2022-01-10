@@ -12,8 +12,8 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Opportunities"
-    url: /opportunities/
+<!--  - title: "Opportunities"-->
+<!--    url: /opportunities/-->
 
 
   - title: "Awards"
