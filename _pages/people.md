@@ -13,6 +13,3 @@ Director: [Dr. Robert Skelton](https://bobskelton.github.io/)
 
 **[Land Air & Space Robotics laboratory (LASR) Laboratory](https://lasr.tamu.edu/)** is a robotics facility operated by the Department of Aerospace Engineering at Texas A&M University. The lab conducts research in robotic sensing and control with an aim to enhance the fields of proximity operations, human-robot interaction, stereo vision, swarm robotics and autonomous aerial vehicles.      
 Director: [Dr. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html)   
-
-
-
