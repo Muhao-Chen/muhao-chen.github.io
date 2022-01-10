@@ -84,13 +84,13 @@ google_analytics: UA-138327029-1
 author:
   name             : "Muhao Chen"
   avatar           : "profile.png"
-  bio              : "XXX A passionate wireless security researcher at University of Liverpool"
+  bio              : "A positive and energetic researcher."
   location         : "College Station, TX, USA"
   employer         : "Texas A&M University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en&authuser=1"
   email            : muhaochen@tamu.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/Muhao-Chen-2"
+  researchgate     : "https://www.researchgate.net/profile/Muhao-Chen-2"
   uri              :
   bitbucket        :
   codepen          :
