@@ -8,10 +8,10 @@ toc: true
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup> denotes corresponding author.
 
-# Book Preparing
+## Book Preparing
 1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
 
-# Preprints
+## Preprints
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2021. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)
 
 1. Ma, S., **Chen, M.***, and Skelton, R., 2021. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. Submitted. (arXiv preprint arXiv:2110.09898)
@@ -29,7 +29,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 
 
-# Journal Articles 
+## Journal Articles 
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>, p.114838.
 
 1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p.100692.
@@ -46,7 +46,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 1. Goyal, R.*, **Chen, M.**, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613.
 
-# Conference Papers
+## Conference Papers
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August, 2021. 
 
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>, International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.
@@ -59,7 +59,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
-# Patents
+## Patents
 1. Khaled, M., Srinivasan, S., **Chen, M.**, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review.
 
 1. Plantz, C.L., **Chen, M.**, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation
@@ -71,7 +71,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, Aug. 26, 2015.
 
-# Thesis and Disseration
+## Thesis and Disseration
 - [PhD] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
 
 - [MS] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
