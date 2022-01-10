@@ -10,7 +10,7 @@ A misconception is that “The best system is made from the best components”. 
 shape based on their knowledge in fluid dynamics, then the control engineer came and break the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify shape not by pushing against a reference equilibrium but by modifying the 
 equilibrium. Of course, this would require much less control effort.
 
-{% include toc %}
+<!--{% include toc %}-->
 
 # Research Keywords
 * Integrating Structure & Control Design    
