@@ -9,6 +9,8 @@ toc_max_header: 1
 <!--{% include toc h_min = 1%}-->
 
 <!--# Public Engagement-->
+
+
 ## News, Demonstrations, and Journalist Interviews
 
 Building A Growable Habitat for Sustainable Life in Space      
@@ -26,7 +28,7 @@ NASA Moon to Mars Ice and Prospecting Challenge
 - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html) and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez), 25th Jan. 2021    
 (Event participants: Profs. Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Drs. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Mr. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh,  Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez)
 
-# Talks
+## Talks
 * International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, 23rd Aug. 2021    
 * Invited by Prof. Zeyang Xia from Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Jul. 2021   
 * Invited by Prof. Haijun Peng from Dalian University of Technology, China, Jul. 2021   
@@ -36,15 +38,15 @@ NASA Moon to Mars Ice and Prospecting Challenge
 * AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, 17th Sept. 2018
 
 
-# Poster
+## Poster
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, 23rd Sept. 2021   
 * TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, 10th Apr. 2021 
 * TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, 6th Apr. 2019   
 
-# Editorship
+## Editorship
 Editorial Committee, [ASCE Texas Section](https://www.texasce.org/), 2021-Present
 
-# Reviewer
+## Reviewer
 
 **Journal**
 
@@ -64,8 +66,8 @@ Editorial Committee, [ASCE Texas Section](https://www.texasce.org/), 2021-Presen
 * AIAA ASCEND  
 * ASCE Earth & Space Conference   
 
-# Judge
+## Judge
 Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021  
 
-# Advisor
+## Advisor
 International High School Students Robot Competition by FRC ([FIRST Robotics Competition](https://www.firstinspires.org/)), 2014-2015   
