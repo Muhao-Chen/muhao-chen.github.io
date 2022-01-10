@@ -6,17 +6,11 @@ author_profile: true
 toc: true
 ---
 Huazhong Univeristy of Science and Technology   
-## From Beginners to Master in Virtual Instruments
-* Fall 2011 and Spring 2012 
+### From Beginners to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ)
+* Fall 2011 and Spring 2012   
+### Class Adviser
+* Setp. 2013 - Jul. 2016, Class 1301, Naval Architecture and Ocean Enginerring 
 
-# ELEC192 Mathematics B for Electrical Engineers
-* Semester 2, 2018 - present 
-* Year 1
-
-# ELEC340 Final Year Project
-* 2018 - present 
-* Year 3
-* Please click [here](/teaching-fyp/){:target="_blank"} for the final year projects that I am supervising and have supervised.
 
 Texas A&M Univeristy, College Station
 ### Students Mentored (Co-supervision with Dr. Skelton)
