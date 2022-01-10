@@ -9,7 +9,6 @@ redirect_from:
 toc: true
 ---
 
-## About Me
 Muhao Chen, PhD, is currently a Postdoc Researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA. His work mainly involves Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures.
 
 ## Education 
