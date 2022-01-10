@@ -7,7 +7,7 @@ toc: true
 ---
 
 ### Huazhong University of Science and Technology, China   
-- From Beginners to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012   
+- From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012   
 - Class Adviser, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
 
 
