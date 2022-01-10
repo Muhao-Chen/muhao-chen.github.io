@@ -6,8 +6,8 @@ author_profile: true
 toc: true
 ---
 
-A misconception is that “The best system is made from the best components”. That is certainly not true. Often, we gain more in integrating two disciplines than making exceptional improvements in one discipline. For example, in the airplane wing, aerodynamics engineers first designed the best
-shape based on their knowledge in fluid dynamics, then the control engineer came and break the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify shape not by pushing against a reference equilibrium but by modifying the 
+A misconception is that “The best system is made from the best components.” That is certainly not true. Often, we gain more in integrating two disciplines than making exceptional improvements in one discipline. For example, in the airplane wing, aerodynamics engineers first designed the best
+shape based on their knowledge in fluid dynamics, then the control engineer came and broke the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify shape not by pushing against a reference equilibrium but by modifying the 
 equilibrium. Of course, this would require much less control effort.
 
 <!--{% include toc %}-->
@@ -30,13 +30,13 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 -----
 ### Integrating Structure & Control Design    
-* Objective: Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy and robustness)
+* Objective: Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy, and robustness)
 * Critical problems: Nonlinear and linear structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, the integrated disciplines by solving LMIs (linear matrix inequality)
 
 ### Robotics
-* Design: Lightweight structure design, deployment planning, acuation statergy 
-* Control: Data-based & model-based nonlinear and linear control, covariance control, obstacle avoidance and path planning
-* Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simuation model
+* Design: Lightweight structure design, deployment planning, actuation strategy 
+* Control: Data-based & model-based nonlinear and linear control, covariance control, obstacle avoidance, and path planning
+* Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simulation model
 
 
 ### Tensegrity Systems
@@ -46,8 +46,8 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Applications: Wings and hydrofoils, space habitat, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
 
 ### Dynamical Systems Theory
-* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics and modal analysis      
-* Structure redundancy, uncertainty and robustness, FSI dynamics 
+* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics, and modal analysis      
+* Structure redundancy, uncertainty, and robustness, FSI dynamics 
 
 
 ### Space Systems
@@ -56,9 +56,9 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ### Fluid-Structure Interaction
 * Biommic structure design
-* Fluid structure dynamics, 
-* acuation stratergy and control
-* Applictaions: cheap shelters, fish and hydrofoils, ect.   
+* Fluid-structure dynamics, 
+* actuation strategy and control
+* Applications: cheap shelters, fish and hydrofoils, etc.   
 
 
 

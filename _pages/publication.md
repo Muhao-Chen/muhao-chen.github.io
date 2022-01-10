@@ -5,7 +5,7 @@ permalink: /publication/
 author_profile: true
 toc: true
 ---
-His citation profile in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
+His citation profile is in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup> denotes corresponding author.
 
 ## Book Preparing
@@ -47,7 +47,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 1. Goyal, R.*, **Chen, M.**, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613.
 
 ## Conference Papers
-1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August, 2021. 
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August 2021. 
 
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>, International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.
 
@@ -67,15 +67,13 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 1. **Chen, M.**, Li, X., Gong, C., Xia, L. and Zhou, L. A kind of data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015.
 
-1. **Chen, M.**, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, Mar. 02, 2016.
+1. **Chen, M.**, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, 02 March 2016.
 
-1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, Aug. 26, 2015.
+1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, 26 August 2015.
 
-## Thesis and Disseration
+## Thesis and Dissertation
 - [PhD] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
 
 - [MS] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
 
 - [BS] **Chen, M.**. Study on the Performance of Submarine Emergency Surfacing.
-
-
