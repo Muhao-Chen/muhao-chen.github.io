@@ -12,7 +12,7 @@ toc_max_header: 1
 ## News, Demonstrations, and Journalist Interviews
 
 Building A Growable Habitat for Sustainable Life in Space      
-- [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), 21st Sept. 2020.      
+- [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), 21st Sept. 2020      
 - [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), 26th Jul. 2019 
 - [TAMU Engineering, News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), 5th Feb. 2019 
 - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), 17 May 2018   
@@ -37,9 +37,9 @@ NASA Moon to Mars Ice and Prospecting Challenge
 
 
 # Poster
-* NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, 23rd Sept. 2021.    
-* TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, 10th Apr. 2021.  
-* TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, 6th Apr. 2019.
+* NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, 23rd Sept. 2021   
+* TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, 10th Apr. 2021 
+* TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, 6th Apr. 2019   
 
 # Editorship
 Editorial Committee, [ASCE Texas Section](https://www.texasce.org/), 2021-Present
