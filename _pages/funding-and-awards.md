@@ -5,7 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Awards
 * AERO Travel Grant, 2018-2021
 * Challenge Finalist 2020 NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, Nov.2020
 * AERO Graduate Excellence Fellowship Award, May 2020
