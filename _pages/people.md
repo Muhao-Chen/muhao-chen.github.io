@@ -16,8 +16,7 @@ Faculty supervisor: Robert Skelton
 Researc Website:     
 Faculty supervisor: Manoranjan Majji   
 
-# Students Mentored
-## Co-supervision with Dr. Skelton
+### Students Mentored (Co-supervision with Dr. Skelton)
 * Mr. Chris Plantz, M.S. in Ocean Engineering (2019 - 2021). Thesis topic: Design and Analysis of A Robotic Tensergity Dolphin.
 * Mr. Jason Liu, MEng in Ocean Engineering (2017 - 2020). Research topic: Design and Analysis of A Robotic Tensergity Dolphin.
 * Mr. Xiaolong Bai, MEng in Aerospace Engineering (2017 - 2020). Research topic: Design and Analysis of A Robotic Tensergity Dolphin.
