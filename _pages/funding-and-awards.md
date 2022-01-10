@@ -7,7 +7,7 @@ author_profile: true
 
 * AERO Travel Grant, 2018-2021
 * Challenge Finalist 2020 NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, Nov.2020
-* AERO Graduate Excellence Fellowship Award, May 2020
+* AERO Graduate Excellence Fellowship Award, Spring and Fall 2020
 * First Prize in National Marine Vehicle Design Competition, Jul.2014 & Jul.2015
 * National Scholarship for Graduate Students (the Highest Honor for Graduates), Dec.2014
 * First Prize in 6th National Contest on Energy Saving and Emission Reduction, Aug.2013
