@@ -37,10 +37,12 @@ equilibrium. Of course, this would require much less control effort. </div>
 
 
 ### Tensegrity Systems
+<div style="text-align: justify">
 * Tensergity solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
 * Statics: Form-finding algorithms, structure topology optimization,  minimal mass design subject to local and global failures
 * Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
 * Applications: Wings and hydrofoils, space habitat, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
+</div>
 
 ### Dynamical Systems Theory
 * Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics, and modal analysis      
