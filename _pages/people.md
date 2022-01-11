@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-<div style="text-align: cenjustify;" markdown="1">
+<div style="text-align: justify;" markdown="1">
 
 
 I am affiliated to the **[Tensegrity Lab](https://engineering.tamu.edu/aerospace/profiles/skelton-robert.html)** and **[Land Air & Space Robotics (LASR) Laboratory](https://lasr.tamu.edu/)** at Texas A&M University, College Station, TX. 
