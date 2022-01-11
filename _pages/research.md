@@ -27,8 +27,8 @@ equilibrium. Of course, this would require much less control effort. </div>
 
 -----
 ### Integrating Structure & Control Design    
-* Objective: Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy, and robustness)
-* Critical problems: Nonlinear and linear structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, the integrated disciplines by solving LMIs (linear matrix inequality)
+* Objective: <div style="text-align: justify"> Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy, and robustness) </div>
+* Critical problems: <div style="text-align: justify"> Nonlinear and linear structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, the integrated disciplines by solving LMIs (linear matrix inequality) </div>
 
 ### Robotics
 * Design: Lightweight structure design, deployment planning, actuation strategy 
