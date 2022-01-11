@@ -6,6 +6,9 @@ author_profile: true
 toc: true
 ---
 
+<div style="text-align: justify;" markdown="1">
+
+
 ### Huazhong University of Science and Technology, China   
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012   
 - Class Adviser, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
@@ -17,3 +20,4 @@ toc: true
     * Mr. Jason Liu, MEng in Ocean Engineering (Sept.2017 - Dec.2020), Texas A&M University, College Station, TX. Research topic: Dynamics, Control, and Animation of The deployable Tensegrity Structures. 
     * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec.2019), Texas A&M University, College Station, TX. Research topic: Design and Control of Tensegrity Morphing Airfoils.
 
+</div>
