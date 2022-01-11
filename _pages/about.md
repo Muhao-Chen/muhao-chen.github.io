@@ -16,7 +16,7 @@ toc: true
 
 ## Work Experience
 
-<div style="text-align: justify"> Postdoc Researcher, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, May 2021 - Present </div>
+<div style="text-align: justify"> Postdoc Researcher, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, USA, May 2021 - Present </div>
 <div style="text-align: justify"> Assistant Application Engineer & LabVIEW Club, HUST, President, National Instruments, China, Jul.2013-Jan.2015 </div>
 
 <!--Research Assistant, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, Sept.2016 - May 2021-->
