@@ -5,11 +5,17 @@ permalink: /publication/
 author_profile: true
 toc: true
 ---
+
+<div style="text-align: justify;" markdown="1">
+
+
 His citation profile is in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup> denotes corresponding author.
 
 ## Book Preparing
 1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
+
+
 
 ## Preprints
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2021. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)
@@ -77,3 +83,5 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 - [MS] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
 
 - [BS] **Chen, M.**. Study on the Performance of Submarine Emergency Surfacing.
+
+</div>
