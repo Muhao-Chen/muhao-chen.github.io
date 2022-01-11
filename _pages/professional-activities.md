@@ -10,6 +10,8 @@ toc_max_header: 1
 
 <!--# Public Engagement-->
 
+<div style="text-align: justify;" markdown="1">
+
 
 ## News, Demonstrations, and Journalist Interviews
 - Building A Growable Habitat for Sustainable Life in Space      
@@ -70,3 +72,6 @@ toc_max_header: 1
 
 ## Advisor
 * International High School Students Robot Competition by FRC ([FIRST Robotics Competition](https://www.firstinspires.org/)), 2014-2015   
+
+
+</div>
