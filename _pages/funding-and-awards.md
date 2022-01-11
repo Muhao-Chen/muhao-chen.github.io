@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+<div style="text-align: justify;" markdown="1">
+
+
 * AERO Travel Grant, 2018-2021
 * Challenge Finalist 2020 NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, Nov.2020
 * AERO Graduate Excellence Fellowship Award, Spring and Fall 2020
@@ -17,3 +20,5 @@ author_profile: true
 * National Encouragement Scholarship (10/200, Ministry of Education, China), Oct.2012
 * Frist Prize in 28th Hubei 12·9 Poetry and Prose Contest, Dec.2012
 * Gold Prize in Provincial 7th Challenge Cup University Competition, Jun.2012
+
+</div>
