@@ -30,7 +30,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 -----
 ### Integrating Structure & Control Design    
-* Objective: Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy, and robustness) </div>
+* Objective: Using the least amount of resources (structure mass, damper, control energy, cost of sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control accuracy, redundancy, and robustness)   
 * Critical problems: Nonlinear and linear structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, the integrated disciplines by solving LMIs (linear matrix inequality) 
 
 ### Robotics
