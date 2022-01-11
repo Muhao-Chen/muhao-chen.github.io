@@ -22,8 +22,9 @@ equilibrium. Of course, this would require much less control effort.
 
 
 ## Research Topics
+<div style="text-align: justify"> The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is that whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. My research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  </div>
 
-The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is that whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. My research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems. 
+
 
 -----
 ### Integrating Structure & Control Design    
