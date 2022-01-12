@@ -36,8 +36,8 @@ toc_max_header: 1
 * Invited by Prof. Zeyang Xia from Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Jul. 2021   
 * Invited by Prof. Haijun Peng from Dalian University of Technology, China, Jul. 2021   
 * Invited by Prof. Ani Luo from Harbin Institute of Engineering, China, Jun. 2021   
-* International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). A Virtual Conference. University of Porto, Portugal. 3rd Sept. 2020   
 * ASCE Earth & Space Conference, A Virtual Conference, 19th Apr. 2021
+* International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). A Virtual Conference. University of Porto, Portugal. 3rd Sept. 2020   
 * AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, 17th Sept. 2018
 
 
