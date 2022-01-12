@@ -47,7 +47,6 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ### Space Systems
 #### Space Habitat Design
-
 #### Moon & Mars Mining 
 [Tensegrity Rig](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
 )
@@ -75,7 +74,12 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ## Research Demonstrations
 
-### 
+### Rigid Body Tensegrity
+(with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
+
+
+### Deployable Cable Domes 
+(with Drs. Shuo Ma, Xingfei Yuan, and Robert E. Skelton)
 
 <!--We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.-->
 
