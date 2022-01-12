@@ -77,6 +77,10 @@ The existing design approaches mainly deal with what is sufficient rather than n
 ### Rigid Body Tensegrity
 (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
 
+<br />
+<img align="center" width="800" src="{{ site.url }}/images/tenseg_images/ball.png" alt="...">
+<br />
+
 
 ### Deployable Cable Domes 
 (with Drs. Shuo Ma, Xingfei Yuan, and Robert E. Skelton)
