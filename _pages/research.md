@@ -63,9 +63,10 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 
 
-### Moon & Mars Mining
+### Moon & Mars Mining 
+[Tensegrity Rig](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
+)
 
-https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
 
 Industrial discussion: Patterson-UTI
 
