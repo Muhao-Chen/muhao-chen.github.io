@@ -75,7 +75,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 ## Research Demonstrations
 
 ### Tensegrity Drilling Rig
-(with Arturo Lopez Nava Jr.,Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Drs. Eduardo Gildin, Robert E. Skelton)
+(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
