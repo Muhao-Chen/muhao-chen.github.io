@@ -89,6 +89,8 @@ The existing design approaches mainly deal with what is sufficient rather than n
 ### Deployable Cable Domes 
 (with Drs. Shuo Ma, Xingfei Yuan, and Robert E. Skelton)
 
+<figure><img src="{{ site.url }}/images/rffi/dome.png" width="800"/></figure>
+
 <!--We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.-->
 
 
