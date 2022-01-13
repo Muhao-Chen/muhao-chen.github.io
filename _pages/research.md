@@ -43,6 +43,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics with arbitrary shapes objects, and modal analysis      
 * Structure redundancy, uncertainty, and robustness, FSI dynamics 
 
+
 ### Space Systems
 * Lightweight and deployable structure solutions to the deep space explorations    
 * Applications: space habitat design, Moon & Mars towers, drilling rigs, antennas, etc.
@@ -69,15 +70,17 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ## Research Demonstrations
 
+### Automated Drilling Rig
+(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+
+<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+
+
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 (with Anthony Longman, Drs. Raman Goyal, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
 
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
-### Automated Drilling Rig
-(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
-
-<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
 ### Rigid Body Tensegrity
 (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
