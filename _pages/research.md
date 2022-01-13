@@ -43,19 +43,14 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics with arbitrary shapes objects, and modal analysis      
 * Structure redundancy, uncertainty, and robustness, FSI dynamics 
 
-
-
 ### Space Systems
-#### Space Habitat Design
-#### Moon & Mars Mining 
-[Tensegrity Rig](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez
-)
+* Lightweight and deployable structure solutions to the deep space explorations    
+Applications: Space Habitat Design, Moon & Mars towers, drilling rigs, antennas, etc.
+
 
 ### Fluid-Structure Interaction
-* Biommic structure design
-* Fluid-structure dynamics
-* actuation strategy and control
-* Applications: cheap shelters, fish and hydrofoils, etc.   
+* Fluid-structure dynamics, structure under extreme fluid loading conditions, biomimetic structure designs, soft actuation strategy, and control
+* Applications: rescue shelters, fish and hydrofoils, etc.
 
 
 <!--A misconception is that “The best system is made from the best components.” That is certainly not true. Often, we gain more in integrating two disciplines than making exceptional improvements in one discipline. For example, in the airplane wing, aerodynamics engineers first designed the best shape based on their knowledge in fluid dynamics, then the control engineer came and broke the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify shape not by pushing against a reference equilibrium but by modifying the equilibrium. Of course, this would require much less control effort. -->
