@@ -10,7 +10,7 @@ toc: true
 
 
 ## Research Goal
-The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is that whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  
+The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  
 
 ## Research Keywords
 * Integrating Structure & Control Design    
@@ -20,15 +20,15 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Space Systems
 * Fluid-Structure Interaction
 
-## Reseach Topics
+## Research Topics
 
 -----
 ### Integrating Structure & Control Design    
 * Objective: Using the least amount of resources (structure mass, damper, control energy, sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control objective, accuracy, redundancy, and robustness)   
-* Critical problems: Nonlinear and linearized structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, theoreies of integrated disciplines  
+* Critical problems: Nonlinear and linearized structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, theories of integrated disciplines  
 
 ### Robotics
-* Design: Lightweight structure design, deployment planning, actuation and sensoring strategy 
+* Design: Lightweight structure design, deployment planning, actuation, and sensing strategy 
 * Control: Data-based & model-based nonlinear and linear control, covariance control, obstacle avoidance, and path planning
 * Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simulation model
 
@@ -40,7 +40,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Applications: Wings and hydrofoils, space habitat, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
 
 ### Dynamical Systems Theory
-* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics with arbitary shapes objects, and modal analysis      
+* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics with arbitrary shapes objects, and modal analysis      
 * Structure redundancy, uncertainty, and robustness, FSI dynamics 
 
 
@@ -74,10 +74,10 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ## Research Demonstrations
 
-### Growable Space Habitat with 1G Artifcial Gravity in Deep Space
+### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 (with Anthony Longman, Drs. Raman Goyal, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
 
-
+<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 ### Automated Drilling Rig
 (with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
