@@ -40,7 +40,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Applications: Wings and hydrofoils, space habitat, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
 
 ### Dynamical Systems Theory
-* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics, and modal analysis      
+* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics with arbitary shapes objects, and modal analysis      
 * Structure redundancy, uncertainty, and robustness, FSI dynamics 
 
 
