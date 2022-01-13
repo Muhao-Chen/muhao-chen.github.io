@@ -77,13 +77,16 @@ The existing design approaches mainly deal with what is sufficient rather than n
 ### Rigid Body Tensegrity
 (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
 
+<figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
+
 <!--
 <br />
 <img align="center" width="400" src="{{ site.url }}/images/rffi/ball.png" alt="...">
 <br />-->
 
+<!--
 <figure class="half">
-    <img src="{{ site.url }}/images/rffi/ball.png" width="200"/><img src="{{ site.url }}/images/rffi/spine.png" width="200"/></figure>
+    <img src="{{ site.url }}/images/rffi/ball.png" width="200"/><img src="{{ site.url }}/images/rffi/spine.png" width="200"/></figure>-->
     
 
 ### Deployable Cable Domes 
