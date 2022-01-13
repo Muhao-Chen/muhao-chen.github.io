@@ -74,6 +74,11 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ## Research Demonstrations
 
+### Tensegrity Drilling Rig
+(with Arturo Lopez Nava Jr.,Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Drs. Eduardo Gildin, Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+
 ### Rigid Body Tensegrity
 (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
 
