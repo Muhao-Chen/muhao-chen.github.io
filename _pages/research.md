@@ -53,7 +53,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ### Fluid-Structure Interaction
 * Biommic structure design
-* Fluid-structure dynamics, 
+* Fluid-structure dynamics
 * actuation strategy and control
 * Applications: cheap shelters, fish and hydrofoils, etc.   
 
