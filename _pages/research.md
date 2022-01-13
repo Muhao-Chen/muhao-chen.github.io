@@ -74,6 +74,11 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ## Research Demonstrations
 
+### Growable Space Habitat with 1G Artifcial Gravity in Deep Space
+(with Anthony Longman, Drs. Raman Goyal, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
+
+
+
 ### Automated Drilling Rig
 (with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
