@@ -78,7 +78,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
 
 <br />
-<img align="center" width="100" src="{{ site.url }}/images/rffi/ball.png" alt="...">
+<img align="center" width="400" src="{{ site.url }}/images/rffi/ball.png" alt="...">
 <br />
 
 
