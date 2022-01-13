@@ -24,8 +24,8 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 -----
 ### Integrating Structure & Control Design    
-* Objective: Using the least amount of resources (structure mass, damper, control energy, sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control objective, accuracy, redundancy, and robustness)   
-* Critical problems: Nonlinear and linearized structure dynamics and control, fluid-structure interaction (FSI), resource allocation algorithms, theories of integrated disciplines  
+* Objective: Using the least amount of resources (structure mass, damper, control energy, sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control objective, accuracy bound, safety and redundancy, and robustness)   
+* Critical problems: Nonlinear and linearized dynamics and control, resource allocation algorithms, theories of integrated disciplines  
 
 ### Robotics
 * Design: Lightweight structure design, deployment planning, actuation, and sensing strategy 
@@ -45,7 +45,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 ### Space Systems
 * Lightweight and deployable structure solutions to the deep space explorations    
-Applications: Space Habitat Design, Moon & Mars towers, drilling rigs, antennas, etc.
+* Applications: space habitat design, Moon & Mars towers, drilling rigs, antennas, etc.
 
 
 ### Fluid-Structure Interaction
