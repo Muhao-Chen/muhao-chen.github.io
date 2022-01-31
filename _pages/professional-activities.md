@@ -60,6 +60,7 @@ toc_max_header: 1
 * ACM Transactions on Knowledge Discovery from Data   
 * Journal of Engineering Computations   
 * Acta Mechanica et Automatica   
+* ASME Open Journal of Engineering 
 * European Journal of Mechanics / A Solids   
 
 **Conference**
