@@ -40,12 +40,9 @@ We appreciate your interest in our research. We are open and willing to answer a
 </table>
 
 
-
-
-
 ### Tensegrity Foil Design & Analysis Software (TensegFoil)
 
-TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the NACA airfoil database. 2). Study structure statics, i.e., prestress, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
+TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the NACA airfoil database. 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
 
 ### Tensegrity Structure Toolboxes (TensegBox)
