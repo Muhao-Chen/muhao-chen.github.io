@@ -45,7 +45,7 @@ TensegFoil allows one to conduct the following studies. 1). Design tensegrity mo
 
 ### Tensegrity Structure Toolboxes (TensegBox)
 
-TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [Adams](https://www.mscsoftware.com/product/adams), [FreeCAD](https://www.freecadweb.org/), [ANSYS](https://www.ansys.com/), [MuJoCo](https://mujoco.org/), etc. 
+TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [Adams](https://www.mscsoftware.com/product/adams), [FreeCAD](https://www.freecadweb.org/), [ANSYS](https://www.ansys.com/), [MuJoCo](https://mujoco.org/), etc. Some demos are shown below. 
 
 
 
