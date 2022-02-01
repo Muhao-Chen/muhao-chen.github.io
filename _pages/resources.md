@@ -15,6 +15,15 @@ We appreciate your interest in our reseach. We are open and willing to answer an
 
 [MOTES](https://github.com/Muhao-Chen/Modeling_of_Tensegrity_Structures_MOTES) provides two categories for the analysis of any tensegrity structure. Firstly, static analysis provides the minimum mass of the tensegrity structure by optimizing tensile forces in the strings and compressive forces in the bars in the absence of external forces (self-equilibrium state), and in the presence of given external forces. Secondly, the dynamic analysis uses a second-order matrix differential equation to simulate the dynamics of any complexity of the tensegrity structures. This dynamic model assumes the bars to be rigid and strings to exhibit linear elastic behavior.
 
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/habitat_membrane.png" width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/Telescope.png" width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/plate.png" width="200"/></figure></td>
+</tr>
+</table>
+
+
 
 # Tensegrity Finite Element Method ([TsgFEM](https://github.com/Muhao-Chen/Tensegrity_Finite_Element_Method_TsgFEM))
 
