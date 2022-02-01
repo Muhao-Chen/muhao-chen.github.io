@@ -43,14 +43,9 @@ We appreciate your interest in our research. We are open and willing to answer a
 TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoils based on the NACA database. 2). Study structure statics, i.e., prestress, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
 
-### Toolboxes for Modeling, Statics, Dynamics, Control, Animation, and HPRC Toolboxes for Any Tensegrity Structures (TensegBox)
-- Modeling: 1). Provides various building blocks and structures. 2). Modeling of complex tensegrity structures in a very short time
-- Statics
-- Dynamics
-- Control
-- Animation
-- HPRC (High Performance Research Computing)
- 
+### Toolboxes for Tensegrity Structures (TensegBox)
+
+TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as RFEM, Adams, FreeCAD, ANSYS, MuJoCo, etc. 
 
 
 
