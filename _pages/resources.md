@@ -11,7 +11,7 @@ toc: true
 We appreciate your interest in our reseach. We are open and willing to answer any question and appreciate your help in improving the software. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Modeling of Tensegrity Structures ([MOTES](https://github.com/Muhao-Chen/Modeling_of_Tensegrity_Structures_MOTES))
+### Modeling of Tensegrity Structures ([MOTES](https://github.com/Muhao-Chen/Modeling_of_Tensegrity_Structures_MOTES))
 
 [MOTES](https://github.com/Muhao-Chen/Modeling_of_Tensegrity_Structures_MOTES) provides two categories for the analysis of any tensegrity structure. Firstly, static analysis provides the minimum mass of the tensegrity structure by optimizing tensile forces in the strings and compressive forces in the bars in the absence of external forces (self-equilibrium state), and in the presence of given external forces. Secondly, the dynamic analysis uses a second-order matrix differential equation to simulate the dynamics of any complexity of the tensegrity structures. This dynamic model assumes the bars to be rigid and strings to exhibit linear elastic behavior. Some demos are shown below. 
 
@@ -29,7 +29,7 @@ We appreciate your interest in our reseach. We are open and willing to answer an
 
 
 
-# Tensegrity Finite Element Method ([TsgFEM](https://github.com/Muhao-Chen/Tensegrity_Finite_Element_Method_TsgFEM))
+### Tensegrity Finite Element Method ([TsgFEM](https://github.com/Muhao-Chen/Tensegrity_Finite_Element_Method_TsgFEM))
 
 [TsgFEM](https://github.com/Muhao-Chen/Tensegrity_Finite_Element_Method_TsgFEM) allows one to do the following studies, but not limited to the listed items. For statics, 1). Conducting structure equilibrium configuration, prestress design, and stiffness studies. 2). Performing prestress and mechanism modes analysis. 3). Checking stiffness, stability, and robustness in terms of prestress, materials, and geometric information of the structure. 4). Conducting studies on form-finding of tensegrity systems. 5). Simulating the forced motion of structures. 6). Studying the feasibility of pseudo-static deployment trajectories. For dynamics: 1). Rigid body dynamics with acceptable errors by setting relatively high stiffness for bars. 2). FEM dynamics simulation with elastic or plastic deformations in the presence of various kinds of boundary conditions, such as fix any nodes in any direction, apply static or dynamic external forces (i.e., gravitational force, some specified forces, or arbitrary seismic vibrations). 3). Modal analysis, including natural frequency and corresponding modes. 4). An interface towards structural control by a compact state-space form of a linear model. Some demos are shown below. 
 
@@ -40,5 +40,6 @@ We appreciate your interest in our reseach. We are open and willing to answer an
 <td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="200"/></figure></td>
 </tr>
 </table>
+
 <!--<td><figure><img src="{{ site.url }}/images/rffi/crane.gif" width="200"/></figure></td>-->
 </div>
