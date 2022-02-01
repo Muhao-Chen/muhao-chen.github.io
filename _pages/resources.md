@@ -40,12 +40,12 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 ### Tensegrity Foil Design & Analysis Software (TensegFoil)
 
-TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the NACA airfoil database. 2). Study structure statics, i.e., prestress, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
+TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the NACA airfoil database. 2). Study structure statics, i.e., prestress, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
 
 ### Tensegrity Structure Toolboxes (TensegBox)
 
-TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [Adams](https://www.mscsoftware.com/product/adams), [FreeCAD](https://www.freecadweb.org/), [ANSYS](https://www.ansys.com/), [MuJoCo](https://mujoco.org/), etc. Some demos are shown below. 
+TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as [Adams](https://www.mscsoftware.com/product/adams), [ANSYS](https://www.ansys.com/), [FreeCAD](https://www.freecadweb.org/), [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [MuJoCo](https://mujoco.org/), etc. Some demos are shown below. 
 
 
 
