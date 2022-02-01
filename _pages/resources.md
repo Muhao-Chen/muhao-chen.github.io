@@ -6,6 +6,8 @@ author_profile: true
 toc: true
 ---
 
+<div style="text-align: justify;" markdown="1">
+
 We appreciate your interest in our reseach. We are open and willing to answer any question and appreciate your help in improving the software. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
@@ -25,3 +27,4 @@ We appreciate your interest in our reseach. We are open and willing to answer an
 </tr>
 </table>
 
+</div>
