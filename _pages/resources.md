@@ -19,7 +19,7 @@ We appreciate your interest in our reseach. We are open and willing to answer an
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/habitat_membrane.png" width="200"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/Telescope.png" width="200"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/plate.png" width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/plate.jpg" width="200"/></figure></td>
 </tr>
 </table>
 
