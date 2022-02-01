@@ -24,9 +24,8 @@ We appreciate your interest in our reseach. We are open and willing to answer an
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="200"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="200"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/crane.gif" width="200"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="200"/></figure></td>
 </tr>
 </table>
-
+<!--<td><figure><img src="{{ site.url }}/images/rffi/crane.gif" width="200"/></figure></td>-->
 </div>
