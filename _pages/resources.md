@@ -44,6 +44,8 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the [NACA airfoil database](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1). 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
+<figure><img src="{{ site.url }}/images/rffi/tensegfoil.png" width="200"/></figure>
+
 <!--
 <table>
 <tr>
@@ -55,6 +57,7 @@ TensegFoil allows one to conduct the following studies. 1). Design tensegrity mo
 </tr>
 </table>-->
 
+<!--
 <table>
 <tr>
 <td>
@@ -64,7 +67,7 @@ TensegFoil allows one to conduct the following studies. 1). Design tensegrity mo
 </td>
 </tr>
 </table>
-
+-->
 ### Tensegrity Structure Toolboxes (TensegBox)
 
 TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as [Adams](https://www.mscsoftware.com/product/adams), [ANSYS](https://www.ansys.com/), [FreeCAD](https://www.freecadweb.org/), [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [MuJoCo](https://mujoco.org/), etc. Some demos are shown below. 
