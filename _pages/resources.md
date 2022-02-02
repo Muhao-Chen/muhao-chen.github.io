@@ -49,7 +49,7 @@ TensegFoil allows one to conduct the following studies. 1). Design tensegrity mo
 <td>
 <figure><img src="{{ site.url }}/images/rffi/foil_complex.png" width="200"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/morph_air.gif" width="200"/></figure>
-<figure><img src="{{ site.url }}/images/rffi/morph_fluid.gif" width="200"/></figure></tr>
+<figure><img src="{{ site.url }}/images/rffi/morph_fluid.gif" width="200"/></figure>
 </td>
 </tr>
 </table>
