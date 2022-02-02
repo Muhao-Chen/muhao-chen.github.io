@@ -44,6 +44,17 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 TensegFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the [NACA airfoil database](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1). 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
+<table>
+<tr>
+<td>
+<figure><img src="{{ site.url }}/images/rffi/foil_complex.png" width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/morph_air.gif" width="200"/></figure>
+<figure><img src="{{ site.url }}/images/rffi/morph_fluid.gif" width="200"/></figure></tr>
+</td>
+</tr>
+</table>
+
+
 
 ### Tensegrity Structure Toolboxes (TensegBox)
 
