@@ -77,7 +77,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
-(with Anthony Longman, Drs. Raman Goyal, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
+(with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
 
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
