@@ -81,9 +81,13 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
+### Electromagnetic Lunar Launcher
+(with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/propulsion.png" width="800"/></figure>
 
 ### Rigid Body Tensegrity
-(with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
+(with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
 
