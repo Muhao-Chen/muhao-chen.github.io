@@ -87,6 +87,11 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
 
+### Deployable Cable Net
+(with Dr. Shuo Ma, Kai Lu, Xinzhu Zhou)
+
+<figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
+
 <!--
 <br />
 <img align="center" width="400" src="{{ site.url }}/images/rffi/ball.png" alt="...">
