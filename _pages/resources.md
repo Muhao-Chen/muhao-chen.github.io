@@ -68,6 +68,14 @@ TensegFoil allows one to conduct the following studies. 1). Design tensegrity mo
 </tr>
 </table>
 -->
+
+### Tensegrity with Arbitrary Shape of Rigid Bodies (TsgRgd)
+
+TsgRgd allows one to 1). Conduct structure equilibrium configuration, prestress design, and stiffness studies. 2). Perform prestress and mechanism modes analysis. 3). Check stiffness, stability, and robustness in terms of the structure's prestress, materials, and geometric information. 4). Conduct studies on form-finding of rigid body tensegrity systems. 5). Simulate the forced motion of structures. 6) Study the feasibility of pseudo-static deployment trajectories. It is also shown that the rigid body tensegrity system yields to the pure string-bar one without rigid bodies. Some demos are shown below.
+
+<figure><img src="{{ site.url }}/images/rffi/tensegfoil.png" width="200"/></figure>
+
+
 ### Tensegrity Structure Toolboxes (TensegBox)
 
 TensegBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a very short amount of time. We also provide interfaces to other CAE software such as [Adams](https://www.mscsoftware.com/product/adams), [ANSYS](https://www.ansys.com/), [FreeCAD](https://www.freecadweb.org/), [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [MuJoCo](https://mujoco.org/), [SolidWorks](https://www.solidworks.com/), etc. Some demos are shown below. 
