@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to develop and offer more and more tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to rethink and study structures more fundamentally.
+The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to rethink and study structures more fundamentally.
 
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
 
