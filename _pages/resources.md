@@ -8,10 +8,9 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-We would like to develop and offer more and more tools to help engineers design more efficient structures.
+The distinction between strcuture design, materials, and control are becoming increasingly blurred, and one structure with more functionalities are being of greater needs. So, we would like to develop and offer more and more tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to rethink and study structures in a more fundamental way.
 
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
-
 
 We appreciate your interest in our research. We are open and willing to answer any question and appreciate your help in improving the software. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
