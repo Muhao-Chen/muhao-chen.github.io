@@ -32,10 +32,10 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="100"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="200"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/Jansen.gif" width="200"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="100" height="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="200" height="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/Jansen.gif" width="200" height="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="100" height="200"/></figure></td>
 </tr>
 </table>
 
