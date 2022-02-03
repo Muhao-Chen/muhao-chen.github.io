@@ -8,6 +8,8 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
+We would like to develop and offer more and more tools to help engineers design more efficient structures.
+
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
 
 
