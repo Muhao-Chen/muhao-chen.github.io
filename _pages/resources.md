@@ -8,6 +8,9 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
+<td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
+
+
 We appreciate your interest in our research. We are open and willing to answer any question and appreciate your help in improving the software. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
