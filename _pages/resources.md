@@ -81,7 +81,7 @@ TsgRgd allows one to 1). Conduct structure equilibrium configuration, prestress 
 
 ### Tensegrity System Fluid Structure Interaction (TsgFSI)
 
-TsgFSI allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluids. 2). Ideal, in-incompressible, nonviscous flow on the structure surface. 3). Structure with skin in fluids. Some demos are shown below.
+TsgFSI allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluids. 2). Ideal, in-incompressible, nonviscous flow on the structure surface. 3). Dynamics of structure with skin in fluids. Some demos are shown below.
 
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
