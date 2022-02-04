@@ -87,7 +87,7 @@ TsgFSI allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluid
 
 ### Tensegrity System Control Software (TsgCtrl)
 
-TsgCtrl has the following control options. 1). Nonlinear model-based control for nonlinear dynamics. 2). Linear model-based control. 3). Q-Markov Data-based Control. 4). Model-based and data-based LQG controller. 5). Central pattern generator (CPG) control. 6). Sensor and actuator selection algorithm. 7) Covariance control law. 8). Information architecture. Some demos are shown below.
+TsgCtrl has the following control options. 1). Nonlinear model-based control for nonlinear dynamics. 2). Linear model-based control. 3). Q-Markov Data-based Control. 4). Model-based and data-based LQG controller. 5). Central pattern generator (CPG) control. 6). Sensor and actuator selection algorithm. 7) Covariance control law. 8). Information architecture (design pool of control energy, budget, and performance). Some demos are shown below.
 
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
