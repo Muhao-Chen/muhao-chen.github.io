@@ -87,8 +87,7 @@ TsgFSI is a general software for FSI studies. It allows one to 1). Conduct study
 
 ### Clustered Tensegrity Structure Statics, Dynamics, and Control (CtsSdc)
 
-CTS can significantly reduce the number of actuators and sensors, offering scalable actuation energy, simplifying the assembly process, especially for soft robots and large-span deployable structures. 
-CtsSdc allows one to conduct statics, dynamics, control, and clustering strategies for any clustered tensegrity structures. Some demos are shown below.
+Clustered Tensegrity Structure (CTS) can significantly reduce the number of actuators and sensors, offering scalable actuation energy, simplifying the assembly process, especially for soft robots and large-span deployable structures. CtsSdc allows one to conduct statics, dynamics, control, and clustering strategies for any clustered tensegrity structures. Some demos are shown below.
 
 ### Control Toolbox for Structures and Robotics (CtrlBox)
 
