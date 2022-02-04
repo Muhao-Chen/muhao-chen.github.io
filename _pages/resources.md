@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. **So, we would like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structures more fundamentally.**
+The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to **develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structures more fundamentally.**
 
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
 
@@ -73,17 +73,22 @@ TsgFoil is software designed for foil-related studies, such as airfoil, airplane
 </table>
 -->
 
-### Tensegrity with Arbitrary Shape of Rigid Bodies (TsgRgd)
+### Tensegrity with Arbitrary Shape of Rigid Bodies Software (TsgRgd)
 
 TsgRgd allows one to 1). Conduct structure equilibrium configuration, prestress design, and stiffness studies. 2). Perform prestress and mechanism modes analysis. 3). Check stiffness, stability, and robustness regarding the structure prestress, materials, and geometric information. 4). Conduct studies on form-finding of rigid body tensegrity systems. 5). Simulate the forced motion of structures. 6) Study the feasibility of pseudo-static deployment trajectories. It is also shown that the rigid body tensegrity system yields to the pure string-bar one without rigid bodies. Some demos are shown below.
 
 <figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>
 
-### Tensegrity System Fluid Structure Interaction (TsgFSI)
+### Tensegrity System Fluid-Structure Interaction Software (TsgFSI)
 
-TsgFSI allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluids. 2). Ideal, in-incompressible, nonviscous flow on the structure surface. 3). Dynamics of structure with skin in fluids. Some demos are shown below.
+TsgFSI is a general software for FSI studies. It allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluids. 2). Ideal, in-incompressible, nonviscous flow on the structure surface. 3). Dynamics of structure with skin in fluids. Some demos are shown below.
 
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
+
+### Clustered Tensegrity Structure (CTS) Statics, Dynamics, and Control (CtsSdc)
+
+CTS can significantly reduce the number of actuators and sensors, offering scalable actuation energy, simplifying the assembly process, especially for soft robots and large-span deployable structures. 
+CtsSdc allows one to conduct statics, dynamics, control, and clustering strategies for any clustered tensegrity structures. Some demos are shown below.
 
 ### Control Toolbox for Structures and Robotics (CtrlBox)
 
