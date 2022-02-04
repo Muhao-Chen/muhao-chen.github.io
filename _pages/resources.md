@@ -8,11 +8,11 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to **develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structures more fundamentally.**
+The boundary between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to **develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structures more fundamentally.**
 
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
 
-We appreciate your interest in our research. We are open and willing to answer any question and appreciate your help improving the software. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
+We appreciate your interest in our research. We are open and willing to answer any question and appreciate your help improving the software. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at [http://mozilla.org/MPL/2.0/](http://mozilla.org/MPL/2.0/).
 
 
 ### Modeling of Tensegrity Structures ([MOTES](https://github.com/Muhao-Chen/Modeling_of_Tensegrity_Structures_MOTES))
