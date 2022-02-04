@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to rethink and study structures more fundamentally.
+The distinction between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. **So, we would like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structures more fundamentally.**
 
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
 
@@ -46,7 +46,7 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 ### Tensegrity Foil Design & Analysis Software (TsgFoil)
 
-TsgFoil allows one to conduct the following studies. 1). Design tensegrity morphing airfoil and wings based on the [NACA airfoil database](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1). 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Structure and fluid dynamics. 4). Nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
+TsgFoil is software designed for foil-related studies, such as airfoil, airplane wings, hydrofoil, fish, manta ray, etc. One can 1). Design tensegrity morphing airfoil and wings based on the [NACA airfoil database](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1). 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Perform structure and fluid dynamics. 4). Do nonlinear and linear, model-based and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
 <figure><img src="{{ site.url }}/images/rffi/tensegfoil.png" width="200"/></figure>
 
@@ -87,14 +87,14 @@ TsgFSI allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluid
 
 ### Tensegrity System Control Software (TsgCtrl)
 
-TsgCtrl has the following control options. 1). Nonlinear model-based control for nonlinear dynamics. 2). Linear model-based control. 3). Q-Markov Data-based Control. 4). Model-based and data-based LQG controller. 5). Central pattern generator (CPG) control. 6). Sensor and actuator selection algorithm. 7) Covariance control law. 8). Information architecture (design pool of control energy, budget, and performance). Some demos are shown below.
+TsgCtrl has the following control options. 1). Nonlinear model-based control for nonlinear dynamics. 2). Linear model-based control. 3). Q-Markov Data-based Control. 4). Model-based and data-based LQG controller. 5). Central pattern generator (CPG) controller. 6). Optimal sensor and actuator selection algorithms for nonlinear and linear models. 7) Covariance control law. 8). Information architecture (design pool of control energy, budget, and performance). Some demos are shown below.
 
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
 
 ### Tensegrity Structure Toolboxes (TsgBox)
 
-TsgBox allows one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a concise amount of time. We also provide interfaces to other CAE software such as [Adams](https://www.mscsoftware.com/product/adams), [ANSYS](https://www.ansys.com/), [FreeCAD](https://www.freecadweb.org/), [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [MuJoCo](https://mujoco.org/), [SolidWorks](https://www.solidworks.com/), etc. Some demos are shown below. 
+TsgBox can help one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a concise amount of time. We also provide interfaces to other CAE software such as [Adams](https://www.mscsoftware.com/product/adams), [ANSYS](https://www.ansys.com/), [FreeCAD](https://www.freecadweb.org/), [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [MuJoCo](https://mujoco.org/), [SolidWorks](https://www.solidworks.com/), etc. Some demos are shown below. 
 
 
 
