@@ -100,6 +100,6 @@ CtrlBox has the following control options: active control and passive control fo
 
 TsgBox can help one to model, run HPRC (High-Performance Research Computing), get statics, dynamics, and control reports, and generate animations of tensegrity structures in a concise amount of time. We also provide interfaces to other CAE software such as [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/), [Adams](https://www.mscsoftware.com/product/adams), [ANSYS](https://www.ansys.com/), [FreeCAD](https://www.freecadweb.org/), [RFEM](https://www.dlubal.com/en-US/products/rfem-fea-software/what-is-rfem), [MuJoCo](https://mujoco.org/), [SolidWorks](https://www.solidworks.com/), [ZW3D](https://www.zwsoft.com/product/zw3d), etc. As for the hardware realization, we include a set of class-k joint designs and 3D printing techniques for various hard & soft filaments and photosensitive resin materials, for example, from [Flashforge](https://www.flashforge.com/product-detail/flashforge-hunter-dlp-3d-printer-dental-impression-jewelry-printing). Some demos are shown below. 
 
+<td><figure><img src="{{ site.url }}/images/rffi/tsgbox.png" width="200"/></figure></td>
 
-<!--<td><figure><img src="{{ site.url }}/images/rffi/crane.gif" width="200"/></figure></td>-->
 </div>
