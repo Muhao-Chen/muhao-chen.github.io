@@ -109,6 +109,7 @@ CtrlBox has the following control options: active control and passive control fo
 <table>
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/FoilCtrl.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/tail.gif" width="100"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/CableDomeCtrl.gif" width="100"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/arm.gif" width="100"/></figure></td>
 </tr>
