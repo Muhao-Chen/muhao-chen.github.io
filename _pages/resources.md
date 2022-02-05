@@ -83,6 +83,17 @@ TsgRgd allows one to 1). Conduct structure equilibrium configuration, prestress 
 
 TsgFSI is a general software for FSI studies. It allows one to 1). Conduct study of nonlinear tensegrity dynamics in fluids. 2). Ideal, in-incompressible, nonviscous flow on the structure surface. 3). Dynamics of structure with skin in fluids. Some demos are shown below.
 
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land1.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land2.gif" width="100px" height="100px"/></figure></td>
+</tr>
+</table>
+
+
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
 ### Clustered Tensegrity Structure Statics, Dynamics, and Control (CtsSdc)
