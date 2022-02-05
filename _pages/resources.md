@@ -89,6 +89,8 @@ TsgFSI is a general software for FSI studies. It allows one to 1). Conduct study
 
 Clustered Tensegrity Structure (CTS) can significantly reduce the number of actuators and sensors, offering scalable actuation energy, simplifying the assembly process, especially for soft robots and large-span deployable structures. CtsSdc allows one to conduct statics, dynamics, control, and clustering strategies for any clustered tensegrity structures. Some demos are shown below.
 
+<figure><img src="{{ site.url }}/images/rffi/ctssdc.png" width="200"/></figure>
+
 ### Control Toolbox for Structures and Robotics (CtrlBox)
 
 CtrlBox has the following control options: active control and passive control for structures and robotics. 1). Structure passive control for disturbance rejection and construction material selection. 2). Nonlinear model-based control for nonlinear dynamics. 3). Linear model-based covariance control. 4). Q-Markov Data-based Control. 5). Model-based and data-based LQG controller. 6). Central pattern generator (CPG) controller. 7). Optimal sensor and actuator selection algorithms for nonlinear and linear models. 7) Information architecture (design pool of control energy, budget, and performance). Some demos are shown below.
