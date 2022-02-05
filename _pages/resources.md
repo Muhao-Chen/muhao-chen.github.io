@@ -106,6 +106,14 @@ Clustered Tensegrity Structure (CTS) can significantly reduce the number of actu
 
 CtrlBox has the following control options: active control and passive control for structures and robotics. 1). Structure passive control for disturbance rejection and construction material selection. 2). Nonlinear model-based control for nonlinear dynamics. 3). Linear model-based covariance control. 4). Q-Markov Data-based Control. 5). Model-based and data-based LQG controller. 6). Central pattern generator (CPG) controller. 7). Optimal sensor and actuator selection algorithms for nonlinear and linear models. 7) Information architecture (design pool of control energy, budget, and performance). Some demos are shown below.
 
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/FoilCtrl.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/CableDomeCtrl.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/arm.gif"/></figure></td>
+</tr>
+</table>
+
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
 
