@@ -85,11 +85,11 @@ TsgFSI is a general software for FSI studies. It allows one to 1). Conduct study
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/land1.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/land2.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land1.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land2.gif"/></figure></td>
 </tr>
 </table>
 
