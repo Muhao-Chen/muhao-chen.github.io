@@ -85,11 +85,11 @@ TsgFSI is a general software for FSI studies. It allows one to 1). Conduct study
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/land1.gif"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/land2.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif"width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif"width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif"width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land1.gif"width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land2.gif"width="200"/></figure></td>
 </tr>
 </table>
 
@@ -108,9 +108,9 @@ CtrlBox has the following control options: active control and passive control fo
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/FoilCtrl.gif"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/CableDomeCtrl.gif"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/arm.gif"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/FoilCtrl.gif"width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/CableDomeCtrl.gif"width="200"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/arm.gif"width="200"/></figure></td>
 </tr>
 </table>
 
