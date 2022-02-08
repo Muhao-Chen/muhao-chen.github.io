@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-The boundaries between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. So, we would like to **develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally.**
+The boundaries between structure design, materials, and control are becoming increasingly blurred, and structures with more functionalities are of more significant need. However, the existing commercial packages have a lot of limitations. For example, it requires much effort and experience to do the geometric modeling of the bar-string network in popular CAE software such as SolidWorks, Catia, Creo, Ansys, etc. And Adams, Ansys, and Abaqus cannot handle the statics and dynamics studies of the clustered cable problems. Moreover, one can hardly integrate structure and control design without looking into the math and codes between the different disciplines. Yet, the bottom layer codes are not provided by the commercial software. Plus, we have to look into the insight of each member and let our ideas drive the research path instead of accommodating the tools. Thus, we are trying to work as hard as possible to get all the software available to help engineers and students.
 
 <td><figure><img src="{{ site.url }}/images/rffi/plane_rocket_sub.png" width="200"/></figure></td>
 
