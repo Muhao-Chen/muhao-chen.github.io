@@ -13,7 +13,7 @@ toc: true
 The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  
 
 
-We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes are in the [Software](D:\Dropbox\Github\muhao-chen.github.io\_pages\resources.md) page. 
+We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes are in the [Software](https://muhao-chen.github.io/resources/) page. 
 
 
 ## Research Keywords
