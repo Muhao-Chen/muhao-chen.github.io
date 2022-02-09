@@ -104,7 +104,7 @@ Clustered Tensegrity Structure (CTS) can significantly reduce the number of actu
 
 ### Structure Passive Control and Robustness Design subject to Extreme Environments Toolbox (PsvRbst)
 
-PsvRbst allows one to conduct structure passive control and robustness study of any engineering structures subject to extreme environmental events, such as strong wind, heavy rains/snows, large ocean currents, violent earthquakes, giant tsunamis, and significant impact loads. PsvRbst can help engineers do structure passive control for disturbance rejection and construction material selection by designing the structure's mass, stiffness, and damper in an integrated approach. Some demos are shown below.
+PsvRbst allows one to conduct structure passive control and robustness study of any engineering structures subject to extreme environmental events, such as strong wind, heavy rains/snows, large ocean currents, violent earthquakes, giant tsunamis, and significant impact loads. That is, the disturbance signal can be in any form. PsvRbst can help engineers do structure passive control for disturbance rejection and construction material selection by designing the structure's mass, stiffness, and damper in an integrated approach. Some demos are shown below.
 
 
 ### Control Toolbox for Structures and Robotics (CtrlBox)
