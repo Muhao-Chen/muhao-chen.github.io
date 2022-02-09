@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                   : "Muhao Chen"
 title_separator          : "-"
 name                     : &name "Muhao Chen"
-description              : &description "A passionate wireless security researcher"
+description              : &description "A positive and energetic researcher."
 url                      : https://muhao-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Muhao-Chen/muhao-chen.github.io"
@@ -78,7 +78,8 @@ analytics:
     tracking_id          :
 
 # Google Analytics
-google_analytics: UA-138327029-1
+google_analytics: G-E35J5R8V6N
+# google_analytics: UA-138327029-1
 
 # Site Author
 author:
