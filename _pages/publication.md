@@ -22,7 +22,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 
 1. Ma, S., **Chen, M.***, and Skelton, R., 2021. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. Submitted. (arXiv preprint arXiv:2110.09898)
 
-1. Ma, S., **Chen, M.***, and Skelton, R.E., 2021. The Equilibrium, Form-Finding, and Stability Analysis of Tensegrity Systems with Rigid Bodies. <u>Computers & Structures</u>. Submitted
+1. Ma, S., **Chen, M.***, and Skelton, R.E., 2021. The Equilibrium, Form-Finding, and Stability Analysis of Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Submitted
 
 1. Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2021. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. Revision. (hal.archives-ouvertes.fr/hal-03266625).
 
