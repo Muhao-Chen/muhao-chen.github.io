@@ -75,7 +75,7 @@ We would also like to develop and offer more and more software and tools to help
 ## Research Demonstrations
 
 ### Automated Drilling Rig
-(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Dr. Mohamed S Khaled, Dr. Enrique Z Losoya, Profs. Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
