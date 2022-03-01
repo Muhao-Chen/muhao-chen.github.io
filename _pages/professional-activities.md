@@ -18,18 +18,18 @@ toc_max_header: 1
 - NASA Moon to Mars Ice and Prospecting Challenge
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html) and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez), 25th Jan. 2021    
     (Event participants: Profs. Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Drs. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Mr. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh,  Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez)
-    
-- Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization       
-    - [Model Demonstration](https://livestream.com/viewnow/niac2019/videos/196913328), NIAC Symposium, Huntsville, AL, 24th Sept.  2019     
-    (Event participants: Drs. Joel Sercel, Manoranjan Majji, Muhao Chen. Mr. Ali H. Khowaja)  
-    
+   
 - Building A Growable Habitat for Sustainable Life in Space      
     - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), 21st Sept. 2020      
     - [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), 26th Jul. 2019 
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), 5th Feb. 2019 
     - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), 17th May 2018   
     (Event participants: Profs. Robert E. Skelton, Manoranjan Majji. Drs. Muhao Chen, Raman Goyal, Joel Sercel, Jane Shevtsov, and Mr. Anthony Longman)
-
+    
+- Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization       
+    - [Model Demonstration](https://livestream.com/viewnow/niac2019/videos/196913328), NIAC Symposium, Huntsville, AL, 24th Sept.  2019     
+    (Event participants: Drs. Joel Sercel, Manoranjan Majji, Muhao Chen. Mr. Ali H. Khowaja)  
+ 
  
 
 
