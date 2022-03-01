@@ -34,7 +34,7 @@ toc_max_header: 1
 
 
 ## Talks
-* Invited by Porf. Xiaodong Feng, Shaoxing University, 26th Feb. 2022
+* Invited by Porf. Xiaodong Feng, College of Civil Engineering, Shaoxing University, 26th Feb. 2022
 * Invited by Halliburton Company, Houston, TX, 30th Sept. 2021
 * Invited by Patterson-UTI Energy, Inc., Houston, TX, 9th Sept. 2021
 * International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, 23rd Aug. 2021    
