@@ -30,6 +30,7 @@ toc_max_header: 1
     (Event participants: Profs. Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Drs. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Mr. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh,  Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez)
 
 ## Talks
+* Invited by Porf. Xiaodong Feng, Shaoxing University, 26th Feb. 2022
 * Invited by Halliburton Company, Houston, TX, 30th Sept. 2021
 * Invited by Patterson-UTI Energy, Inc., Houston, TX, 9th Sept. 2021
 * International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, 23rd Aug. 2021    
