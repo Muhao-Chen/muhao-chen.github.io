@@ -34,7 +34,7 @@ We would also like to develop and offer more and more software and tools to help
 ### Robotics
 * Design: Lightweight structure design, deployment planning, actuation, and sensing strategy 
 * Control: Data-based & model-based nonlinear and linear control, covariance control, obstacle avoidance, and path planning
-* Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simulation model
+* Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simulation model, finite precision simulation
 
 
 ### Tensegrity Systems
