@@ -31,9 +31,9 @@ toc_max_header: 1
     (Event participants: Drs. Joel Sercel, Manoranjan Majji, Muhao Chen. Mr. Ali H. Khowaja)  
  
  
-
-
 ## Talks
+* Invited by Porf. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, 6th April. 2022
+* International Forum of Excellent Young Talents in Engineering Sciences, Peking University, 8th March. 2022
 * Invited by Porf. Xiaodong Feng, College of Civil Engineering, Shaoxing University, 26th Feb. 2022
 * Invited by Halliburton Company, Houston, TX, 30th Sept. 2021
 * Invited by Patterson-UTI Energy, Inc., Houston, TX, 9th Sept. 2021
