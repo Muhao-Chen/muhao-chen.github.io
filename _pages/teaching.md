@@ -15,7 +15,7 @@ toc: true
     * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec.2019), Texas A&M University, College Station, TX. Research topic: Design and Control of Tensegrity Morphing Airfoils
 
 - Students Mentoring (Co-supervision with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
-    * Mr. Rawad Yazbeck (Jan.2022 - Present), Ph.D. in Mechanical Engineering, Texas A&M University at Qatar, Research topic: Tensergity Statics and Dynamics, Minimal Mass Design, and Experiments
+    * Mr. Rawad Yazbeck (Jan.2022 - Present), Ph.D. in Mechanical Engineering, Texas A&M University at Qatar, Research topic: Tensergity Statics and Dynamics, Minimal Mass Design and Experiments
 
 ### Huazhong University of Science and Technology, China   
 - Class Advisor, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
