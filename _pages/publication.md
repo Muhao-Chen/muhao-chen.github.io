@@ -48,6 +48,10 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
 ## Submitted Papers
+1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>SES: Society of Engineering Sciences</u>. 
+
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS: International Association for Shell and Spatial Structures</u> 
+
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)
 
 1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. The Equilibrium, Form-Finding, and Stability Analysis of Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision
@@ -73,7 +77,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, 26 August 2015.
 
 ## Thesis and Dissertation
-- [Ph.D。] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
+- [Ph.D.] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
 
 - [M.S.] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
 
