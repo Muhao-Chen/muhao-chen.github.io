@@ -48,11 +48,11 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
 ## Submitted Papers
-1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2021. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)
+1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)
 
-1. Ma, S., **Chen, M.***, and Skelton, R.E., 2021. The Equilibrium, Form-Finding, and Stability Analysis of Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision
+1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. The Equilibrium, Form-Finding, and Stability Analysis of Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision
 
-1. Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2021. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. Revision. (hal.archives-ouvertes.fr/hal-03266625).
+1. Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. Revision. (hal.archives-ouvertes.fr/hal-03266625).
 
 1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted. (arXiv preprint arXiv:2010.10710)
 
@@ -73,10 +73,10 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, 26 August 2015.
 
 ## Thesis and Dissertation
-- [PhD] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
+- [Ph.D。] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
 
-- [MS] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
+- [M.S.] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
 
-- [BS] **Chen, M.**. Study on the Performance of Submarine Emergency Surfacing.
+- [B.S.] **Chen, M.**. Study on the Performance of Submarine Emergency Surfacing.
 
 </div>
