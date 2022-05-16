@@ -35,7 +35,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. Goyal, R.*, **Chen, M.**, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613.
 
 ## Conference Papers
-1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference 2020/21, 23 August 2021. 
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u> Annual Symposium and Spacial Structures Conference 2020/21, 23 August 2021. 
 
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>, International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.
 
