@@ -13,7 +13,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 <sup>*</sup> denotes corresponding author.
 
 ## Book Preparing
-1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
+1. **Chen, M.**, Goyal, R., Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
 
 ## Journal Articles 
 1. Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. Accepted.
