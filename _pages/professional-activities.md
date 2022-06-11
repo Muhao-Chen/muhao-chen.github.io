@@ -67,7 +67,7 @@ toc_max_header: 1
 * Acta Mechanica et Automatica   
 * ASME Open Journal of Engineering 
 * European Journal of Mechanics / A Solids   
-* Journal of Engineering Structures
+* Engineering Structures
 * IEEE Robotics and Automation Letters
 
 **Conference**
