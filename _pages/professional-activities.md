@@ -71,6 +71,7 @@ toc_max_header: 1
 * IEEE Robotics and Automation Letters
 
 **Conference**
+* 2022 International Symposium on Robotics Research (ISRR)
 * IEEE International Conference on Robotics and Automation (ICRA)  
 * American Control Conference (ACC)  
 * AIAA SciTech Forum and Exposition  
