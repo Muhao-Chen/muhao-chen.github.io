@@ -50,7 +50,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
 ## Submitted Papers
-1. **Liu, Q.***, Chen, M. and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>nternational Journal of Mechanical Sciences</u>. Submitted.
+1. **Liu, Q.***, Chen, M. and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>International Journal of Mechanical Sciences</u>. Submitted.
 
 1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>.
 
