@@ -10,7 +10,7 @@ toc: true
 
 
 His citation profile is in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
-<sup>*</sup> Corresponding author.
+<sup>*</sup>Corresponding author.
 
 ## Book Preparing
 1. **Chen, M.**, Goyal, R., Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
