@@ -37,6 +37,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
 ## Submitted Papers
+1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>International Journal of Mechanical Sciences</u>. Submitted.
 1. **Liu, Q.***, Chen, M. and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>International Journal of Mechanical Sciences</u>. Submitted.
 1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>.
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS: International Association for Shell and Spatial Structures</u> 
@@ -44,7 +45,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)
 1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. The Equilibrium, Form-Finding, and Stability Analysis of Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision
 1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted. (arXiv preprint arXiv:2010.10710)
-1. Ma, S., **Chen, M.***, and Skelton, R., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. Accepted. (github.com/Muhao-Chen)
+1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. Revision. (github.com/Muhao-Chen)
 1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. Submitted. (arXiv preprint arXiv:2106.11443)
 
 ## Patents
