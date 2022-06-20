@@ -37,18 +37,21 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
 ## Submitted Papers
+- Journal Articles 
 1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Computers & Structures</u>. 
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures.
 1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>International Journal of Mechanical Sciences</u>. Submitted.
-1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Accepted
-1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
-1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium, Stability, and Form-Finding of Rigid Body Tensegrity Systems. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
 1. Ma, S., Chen, Y., **Chen, M.*** and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Computers & Structures</u>. Submitted.
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)   
 1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision
 1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted. (arXiv preprint arXiv:2010.10710)
 1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. Revision. (github.com/Muhao-Chen)
 1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. Submitted. (arXiv preprint arXiv:2106.11443)
+- Conference Papers
+1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Accepted
+1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
+1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium, Stability, and Form-Finding of Rigid Body Tensegrity Systems. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
+
 
 ## Patents
 1. Khaled, M., Srinivasan, S., **Chen, M.**, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review.
