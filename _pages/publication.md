@@ -37,11 +37,12 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
 
 ## Submitted Papers
+1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Computers & Structures</u>. 
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures.
 1. **Liu, Q.***, Chen, M. and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>International Journal of Mechanical Sciences</u>. Submitted.
 1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Accepted
-1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS: International Association for Shell and Spatial Structures</u>. Accepted
-1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium, Stability, and Form-Finding of Rigid Body Tensegrity Systems. <u>IASS: International Association for Shell and Spatial Structures</u>. Accepted
+1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
+1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium, Stability, and Form-Finding of Rigid Body Tensegrity Systems. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
 1. Ma, S., Chen, Y., **Chen, M.*** and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Computers & Structures</u>. Submitted.
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)   
 1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision
