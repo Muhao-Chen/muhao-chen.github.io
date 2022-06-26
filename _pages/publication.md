@@ -48,10 +48,10 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. Revision. (github.com/Muhao-Chen)
 1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. Submitted. (arXiv preprint arXiv:2106.11443)
 - Conference Papers
-1. **Chen, M.***, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Non-linear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. 
-1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Accepted
-1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
-1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium, Stability, and Form-Finding of Rigid Body Tensegrity Systems. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. Accepted
+1. **Chen, M.***, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Non-linear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. September 29th - October 1st, 2022 in Cetara (Amalfi Coast) - Salerno, Italy.
+1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 16-19, 2022, College Station, Texas, USA. Accepted
+1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022, Beijing, China. Accepted
+1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium, Stability, and Form-Finding of Rigid Body Tensegrity Systems. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022, Beijing, China. Accepted
 
 
 ## Patents
