@@ -43,9 +43,9 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures.
 1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. Submitted.
 1. Ma, S., Chen, Y., **Chen, M.*** and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Computers & Structures</u>. Submitted.
-1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. (https://hal.archives-ouvertes.fr/hal-03287826/)   
-1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted. (arXiv preprint arXiv:2010.10710)
-1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. Submitted. (arXiv preprint arXiv:2106.11443)
+1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.
+1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted.
+1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. Submitted.
 - Conference Papers
 1. **Chen, M.***, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Non-linear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. September 29th - October 1st, 2022 in Cetara (Amalfi Coast) - Salerno, Italy.
 1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 16-19, 2022, College Station, Texas, USA. Accepted
