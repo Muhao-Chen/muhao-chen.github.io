@@ -38,9 +38,9 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 
 ## Submitted Papers
 - Journal Articles 
+1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
 1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. Revision.
 1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engibeering Structures</u>. Submitted.
-1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
 1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
 1. Ma, S., Chen, Y., **Chen, M.*** and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Computers & Structures</u>. Submitted.
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.
