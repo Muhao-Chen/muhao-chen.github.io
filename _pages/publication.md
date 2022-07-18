@@ -39,6 +39,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 
 ## Submitted Papers
 - Journal Articles 
+1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
 1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engibeering Structures</u>. Submitted.
 1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
