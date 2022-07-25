@@ -39,6 +39,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 
 ## Submitted Papers
 - Journal Articles 
+1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>.
 1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification.
 1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
