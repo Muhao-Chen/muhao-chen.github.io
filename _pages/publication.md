@@ -39,9 +39,6 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 
 ## Submitted Papers
 - Journal Articles 
-1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>.
-1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification.
-1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
 1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engibeering Structures</u>. Submitted.
 1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.
@@ -49,6 +46,10 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.
 1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted.
 1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. Submitted.
+<!-- 1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification.
+1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
+1. **Chen, M.*** and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.
+1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. -->
 - Conference Papers
 1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Non-linear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. September 29th - October 1st, 2022 in Cetara (Amalfi Coast) - Salerno, Italy. Accepted.
 1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 16-19, 2022, College Station, Texas, USA. Accepted
