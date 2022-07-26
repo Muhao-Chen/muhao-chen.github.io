@@ -56,9 +56,6 @@ toc_max_header: 1
 
 ## Reviewer
 
-**Book**
-* CRC Press
-
 **Journal**
 
 * IEEE/ASME Transactions on Mechatronics   
@@ -82,6 +79,9 @@ toc_max_header: 1
 * AIAA SciTech Forum and Exposition  
 * AIAA ASCEND  
 * ASCE Earth & Space Conference   
+
+**Book**
+* CRC Press
 
 ## Judge
 * Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021  
