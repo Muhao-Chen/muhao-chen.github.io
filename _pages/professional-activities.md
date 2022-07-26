@@ -59,7 +59,8 @@ toc_max_header: 1
 **Journal**
 
 * IEEE/ASME Transactions on Mechatronics   
-* Journal of Mechanisms and Robotics: ASME   
+* Journal of Mechanisms and Robotics: ASME  
+* Aircraft Engineering and Aerospace Technology 
 * Journal of the Astronautical Sciences   
 * International Journal of Numerical Methods for Heat and Fluid Flow  
 * ACM Transactions on Knowledge Discovery from Data   
