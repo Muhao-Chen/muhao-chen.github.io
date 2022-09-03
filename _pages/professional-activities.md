@@ -32,9 +32,9 @@ toc_max_header: 1
  
  
 ## Talks
-* Invited by Porf. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, 6th Apr. 2022
+* Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, 6th Apr. 2022
 * International Forum of Excellent Young Talents in Engineering Sciences, Peking University, 8th Mar. 2022
-* Invited by Porf. Xiaodong Feng, College of Civil Engineering, Shaoxing University, 26th Feb. 2022
+* Invited by Prof. Xiaodong Feng, College of Civil Engineering, Shaoxing University, 26th Feb. 2022
 * Invited by Halliburton Company, Houston, TX, 30th Sept. 2021
 * Invited by Patterson-UTI Energy, Inc., Houston, TX, 9th Sept. 2021
 * International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, 23rd Aug. 2021    
