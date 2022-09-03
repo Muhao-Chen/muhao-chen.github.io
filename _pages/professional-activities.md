@@ -69,6 +69,7 @@ toc_max_header: 1
 * ASME Open Journal of Engineering 
 * ASCE Journal of Structural Engineering
 * European Journal of Mechanics / A Solids   
+* Experimental Techniques
 * Engineering Structures
 * IEEE Robotics and Automation Letters
 
