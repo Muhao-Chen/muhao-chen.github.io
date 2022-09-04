@@ -41,10 +41,10 @@ We would also like to develop and offer more and more software and tools to help
 * Tensergity solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
 * Statics: Form-finding algorithms, structure topology optimization, minimal mass design subject to local and global failures
 * Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
-* Applications: Wings and hydrofoils, space habitat, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
+* Applications: Wings and hydrofoils, space habitats, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
 
 ### Dynamical Systems Theory
-* Multibody dynamics, rigid and non-rigid body nonlinear and linearized dynamics with arbitrary shape objects, and modal analysis      
+* Multibody dynamics, rigid and non-rigid body, nonlinear and linearized dynamics with arbitrary shape objects, and modal analysis      
 * Structure redundancy, uncertainty, and robustness, FSI dynamics 
 
 
@@ -58,7 +58,7 @@ We would also like to develop and offer more and more software and tools to help
 * Applications: rescue shelters, fish and hydrofoils, etc.
 
 
-<!--A misconception is that “The best system is made from the best components.” That is certainly not true. Often, we gain more in integrating two disciplines than making exceptional improvements in one discipline. For example, in the airplane wing, aerodynamics engineers first designed the best shape based on their knowledge in fluid dynamics, then the control engineer came and broke the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify shape not by pushing against a reference equilibrium but by modifying the equilibrium. Of course, this would require much less control effort. -->
+<!--A misconception is that "The best system is made from the best components." That is certainly not true. Often, we gain more in integrating two disciplines than in making exceptional improvements in one discipline. For example, aerodynamics engineers first designed the best shape in the airplane wing based on their knowledge of fluid dynamics. The control engineer came and broke the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify shape not by pushing against a reference equilibrium but by modifying the equilibrium. Of course, this would require much less control effort. -->
 
 <!--{% include toc %}-->
 
@@ -101,7 +101,7 @@ We would also like to develop and offer more and more software and tools to help
 
 
 ### Deployable Clustered Cable Nets
-(with Dr. Shuo Ma, Kai Lu, Xinzhu Zhou)
+(with Dr. Shuo Ma, Kai Lu, and Xinzhu Zhou)
 
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
