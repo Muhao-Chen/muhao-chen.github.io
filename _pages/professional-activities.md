@@ -32,6 +32,8 @@ toc_max_header: 1
  
  
 ## Talks
+* The annual symposium of the International Association for Shell and Spatial Structures(IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), 19th Sept. 2022    
+* Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, Sept 9th, 2022
 * Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, 6th Apr. 2022
 * International Forum of Excellent Young Talents in Engineering Sciences, Peking University, 8th Mar. 2022
 * Invited by Prof. Xiaodong Feng, College of Civil Engineering, Shaoxing University, 26th Feb. 2022
