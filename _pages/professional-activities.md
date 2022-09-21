@@ -65,7 +65,8 @@ toc_max_header: 1
 * Aircraft Engineering and Aerospace Technology 
 * Journal of the Astronautical Sciences   
 * International Journal of Numerical Methods for Heat and Fluid Flow  
-* ACM Transactions on Knowledge Discovery from Data   
+* ACM Transactions on Knowledge Discovery from Data  
+* International Journal of Physical Sciences 
 * Journal of Engineering Computations   
 * Acta Mechanica et Automatica   
 * ASME Open Journal of Engineering 
