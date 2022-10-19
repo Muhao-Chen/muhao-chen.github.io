@@ -23,7 +23,7 @@ We would also like to develop and offer more and more software and tools to help
 * Dynamics and Control Theory    
 * Space Systems and Infrastructures
 
-## Research Topics
+## Research Interests
 
 -----
 ### Integrating Structure & Control Design    
