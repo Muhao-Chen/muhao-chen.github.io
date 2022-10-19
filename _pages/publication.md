@@ -38,6 +38,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. 
 1. Longman, A.*, Skelton, R., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., **Chen, M.** and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. (p. 4193).
 1. **Chen, M.***, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.
+1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 17, 2022, College Station, Texas, USA. 
 
 ## Submitted Papers
 - Journal Articles 
@@ -57,7 +58,6 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 - Conference Papers
 1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. 18 June - 22 June 2023, in Rome, Italy. Submitted.
 1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Nonlinear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. 29 September - 01 October 2022, in Cetara (Amalfi Coast) - Salerno, Italy. Accepted.
-1. **Chen, M.***, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 16-19, 2022, College Station, Texas, USA. Accepted
 
 
 
