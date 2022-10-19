@@ -54,10 +54,14 @@ toc_max_header: 1
 * TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, 10th Apr. 2021 
 * TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, 6th Apr. 2019   
 
-## Editorship
-* Editorial Committee, [ASCE Texas Section](https://www.texasce.org/), 2021-Present
 
-## Peer Reviews
+## Selected Services
+• Editorial Committee, [ASCE Texas Section](https://www.texasce.org/) 2021 - present
+• Judge, Texas A&M University Student Research Week (SRW) 2021 - 2022
+• Advisor, FIRST Robotics Competition (FRC) 2014 - 2015
+
+
+## Referee
 
 *Journal: IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics,
 Journal of Mechanisms and Robotics: ASME, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, International
@@ -68,13 +72,6 @@ European Journal of Mechanics/A Solids, Engineering Structures, CRC Press
 
 *Conference: International Symposium on Robotics Research (ISRR), IEEE International Conference on Robotics and Automation (ICRA), American Control Conference (ACC), AIAA SciTech
 Forum and Exposition, AIAA ASCEND, ASCE Earth & Space Conference
-
-
-## Judge
-* Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021  
-
-## Advisor
-* International High School Students Robot Competition by FRC ([FIRST Robotics Competition](https://www.firstinspires.org/)), 2014-2015   
 
 
 </div>
