@@ -32,7 +32,7 @@ toc_max_header: 1
  
  
 ## Talks
-* The 2022 Annual Technical Meeting of the Society of Engineering Science (SES). College Station, Texas, USA. 17th Oct. 17 2022
+* The 2022 Annual Technical Meeting of the Society of Engineering Science (SES). College Station, Texas, USA. 17th Oct. 17, 2022
 * The annual symposium of the International Association for Shell and Spatial Structures(IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), 19th Sept. 2022
 * Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, 9th Sept. 2022
 * Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, 6th Apr. 2022
@@ -59,34 +59,16 @@ toc_max_header: 1
 
 ## Peer Reviews
 
-**Journal**
+*Journal: IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics,
+Journal of Mechanisms and Robotics: ASME, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, International
+Journal of Numerical Methods for Heat and Fluid Flow, International Journal of Physical Sciences, 
+ACM Transactions on Knowledge Discovery from Data, Journal of Engineering Computations,
+Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques, ASCE Journal of Structural Engineering, 
+European Journal of Mechanics/A Solids, Engineering Structures, CRC Press
 
-* IEEE/ASME Transactions on Mechatronics   
-* Journal of Mechanisms and Robotics: ASME  
-* Aircraft Engineering and Aerospace Technology 
-* Journal of the Astronautical Sciences   
-* International Journal of Numerical Methods for Heat and Fluid Flow  
-* ACM Transactions on Knowledge Discovery from Data  
-* International Journal of Physical Sciences 
-* Journal of Engineering Computations   
-* Acta Mechanica et Automatica   
-* ASME Open Journal of Engineering 
-* ASCE Journal of Structural Engineering
-* European Journal of Mechanics / A Solids   
-* Experimental Techniques
-* Engineering Structures
-* IEEE Robotics and Automation Letters
+*Conference: International Symposium on Robotics Research (ISRR), IEEE International Conference on Robotics and Automation (ICRA), American Control Conference (ACC), AIAA SciTech
+Forum and Exposition, AIAA ASCEND, ASCE Earth & Space Conference
 
-**Conference**
-* 2022 International Symposium on Robotics Research (ISRR)
-* IEEE International Conference on Robotics and Automation (ICRA)  
-* American Control Conference (ACC)  
-* AIAA SciTech Forum and Exposition  
-* AIAA ASCEND  
-* ASCE Earth & Space Conference   
-
-**Book**
-* CRC Press
 
 ## Judge
 * Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021  
