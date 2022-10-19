@@ -23,6 +23,7 @@ We would also like to develop and offer more and more software and tools to help
 * Dynamics and Control Theory    
 * Space Systems and Infrastructures
 
+<!--
 ## Research Interests
 
 -----
@@ -53,7 +54,7 @@ We would also like to develop and offer more and more software and tools to help
 * Lightweight and deployable structure solutions for the deep space explorations    
 * Applications: space habitat design, Moon & Mars towers, drilling rigs, antennas, etc.
 
-
+-->
 
 <!--A misconception is that "The best system is made from the best components." That is certainly not true. Often, we gain more in integrating two disciplines than in making exceptional improvements in one discipline. For example, aerodynamics engineers first designed the best shape in the airplane wing based on their knowledge of fluid dynamics. The control engineer came and broke the beautiful shape for control objectives. This is certainly not the right way. A systematic approach would be to modify the shape not by pushing against a reference equilibrium but by modifying the equilibrium. Of course, this would require much less control effort. -->
 
