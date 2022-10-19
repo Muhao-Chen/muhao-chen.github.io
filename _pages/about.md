@@ -19,6 +19,7 @@ toc: true
 
 <!--
  Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures. </div>
+ 
 -->
 
 
