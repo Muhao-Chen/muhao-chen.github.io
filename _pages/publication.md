@@ -51,7 +51,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. Su, X., **Chen, M.***, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2022. <u>Acta Astronautica</u>. Submitted.
 1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2022. <u>Mechanical Systems and Signal Processing. </u>
 1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. Data-Based and Model-Based Control of Tensegrity Morphing Airfoils. 2022. <u>Enginnering Structures.</u>
-1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. 
+1. **Chen, M.***, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. 
 
 <!-- 1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
 1. **Chen, M.*** and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
