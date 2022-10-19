@@ -10,7 +10,17 @@ toc: true
 ---
 
 <div style="text-align: justify"> Muhao Chen, Ph.D., is currently a Postdoc Researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA.  </div>
-<div style="text-align: justify"> His work mainly involves Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures. </div>
+<div style="text-align: justify"> His work mainly involves:
+
+* Integrating Structure and Control Design for Modeling and Control of Complex Systems
+* Deployable Automated Systems for Deep Space Explorations and Air, Land, and Underwater Applications
+* Lightweight Infrastructures for Long-term Earth/Planetary Explorations 
+
+
+<!--
+ Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures. </div>
+-->
+
 
 ---
 
@@ -29,14 +39,14 @@ toc: true
 <div style="text-align: justify"> M.S., Design and Manufacture of Ships and Marine Structures, Huazhong University of Science and Technology University, China, 2016 </div>
 <div style="text-align: justify"> B.S., Naval Architecture and Ocean Engineering/Minor: English, Huazhong University of Science and Technology University, China, 2013 </div>
 
-
+<!--
 ## Research Interest
 * Integrating Structure & Control Design    
 * Robotics & Lightweight automated system
 * Tensegrity and Origami Systems
 * Dynamics and Control Theory    
 * Space Systems and Infrastructures
-
+-->
 
 ## Contact
 Email: muhaochen at tamu.edu  
