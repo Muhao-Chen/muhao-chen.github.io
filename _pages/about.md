@@ -30,13 +30,12 @@ toc: true
 <div style="text-align: justify"> B.S., Naval Architecture and Ocean Engineering/Minor: English, Huazhong University of Science and Technology University, China, 2013 </div>
 
 
-## Research Area
-* Integrating Structure & Control Design
-* Robotics
-* Tensegrity Systems
-* Dynamical Systems Theory
-* Space Systems
-* Fluid-Structure Interaction
+## Research Interest
+* Integrating Structure & Control Design    
+* Robotics & Lightweight automated system
+* Tensegrity and Origami Systems
+* Dynamics and Control Theory    
+* Space Systems and Infrastructures
 
 
 ## Contact
