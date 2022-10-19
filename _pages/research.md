@@ -18,7 +18,7 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Keywords
 * Integrating Structure & Control Design    
-* Robotics
+* Robotics & Lightweight automated system
 * Tensegrity and Origami Systems
 * Dynamical Systems Theory    
 * Space Systems
@@ -31,7 +31,7 @@ We would also like to develop and offer more and more software and tools to help
 * Objective: Using the least amount of resources (structure mass, damper, control energy, sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control objective, accuracy bound, safety and redundancy, and robustness)   
 * Critical problems: Nonlinear and linearized dynamics and control, resource allocation algorithms, theories of integrated disciplines  
 
-### Robotics
+### Robotics & Lightweight automated system (i.e., by tensegrity, origami)
 * Design: Lightweight structure design, deployment planning, actuation, and sensing strategy 
 * Control: Data-based & model-based nonlinear and linear control, covariance control, obstacle avoidance, and path planning
 * Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simulation model, finite precision simulation
