@@ -19,7 +19,7 @@ We would also like to develop and offer more and more software and tools to help
 ## Research Keywords
 * Integrating Structure & Control Design    
 * Robotics
-* Tensegrity Systems
+* Tensegrity and Origami Systems
 * Dynamical Systems Theory    
 * Space Systems
 * Fluid-Structure Interaction
@@ -37,10 +37,10 @@ We would also like to develop and offer more and more software and tools to help
 * Signal processing: optimal sensor & actuator selection algorithm for nonlinear and linear systems, optimal simulation model, finite precision simulation
 
 
-### Tensegrity Systems
-* Tensergity solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
+### Tensegrity and Origami Systems
+* Tensergity and Origami solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
 * Statics: Form-finding algorithms, structure topology optimization, minimal mass design subject to local and global failures
-* Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
+* Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, origami, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
 * Applications: Wings and hydrofoils, space habitats, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
 
 ### Dynamical Systems Theory
@@ -49,7 +49,7 @@ We would also like to develop and offer more and more software and tools to help
 
 
 ### Space Systems
-* Lightweight and deployable structure solutions to the deep space explorations    
+* Lightweight and deployable structure solutions for the deep space explorations    
 * Applications: space habitat design, Moon & Mars towers, drilling rigs, antennas, etc.
 
 
