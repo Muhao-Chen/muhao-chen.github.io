@@ -66,7 +66,7 @@ toc_max_header: 1
 * Journal: IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics,
 Journal of Mechanisms and Robotics: ASME, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, International
 Journal of Numerical Methods for Heat and Fluid Flow, International Journal of Physical Sciences, 
-ACM Transactions on Knowledge Discovery from Data, Journal of Engineering Computations,
+ACM Transactions on Knowledge Discovery from Data, Wireless Communications and Mobile Computing, Journal of Engineering Computations,
 Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques, ASCE Journal of Structural Engineering, 
 European Journal of Mechanics/A Solids, Engineering Structures, CRC Press
 
