@@ -12,8 +12,6 @@ toc: true
 His citation profile is in [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup>Corresponding author.
 
-## Book Preparing
-1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
 
 ## Journal Articles 
 1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p.114618.
@@ -59,6 +57,8 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 - Conference Papers
 1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. 18 June - 22 June 2023, in Rome, Italy. Submitted.
 
+## Book Preparing
+1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
 
 
 ## Patents
@@ -70,7 +70,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, 26 August 2015.
 
 ## Thesis and Dissertation
-- [Ph.D.] **Chen, M.**. Soft Robotics by Integrating Structure, Materials, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
+- [Ph.D.] **Chen, M.**. Soft Robotics by Integrating Structure, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
 - [M.S.] **Chen, M.**. Development of Noise and Vibration Signal Processing System for Ship Tests.  
 - [B.S.] **Chen, M.**. Study on the Performance of Submarine Emergency Surfacing.
 
