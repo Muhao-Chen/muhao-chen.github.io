@@ -27,10 +27,11 @@ toc_max_header: 1
     (Event participants: Profs. Robert E. Skelton, Manoranjan Majji. Drs. Muhao Chen, Raman Goyal, Joel Sercel, Jane Shevtsov, and Mr. Anthony Longman)
     
 - Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization       
-    - [Model Demonstration](https://livestream.com/viewnow/niac2019/videos/196913328), NIAC Symposium, Huntsville, AL, 24th Sept.  2019     
+    - [Model Demonstration], NIAC Symposium, Huntsville, AL, 24th Sept.  2019     
     (Event participants: Drs. Joel Sercel, Manoranjan Majji, Muhao Chen. Mr. Ali H. Khowaja)  
  
  <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
+ <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
  
 ## Talks
 * The 2022 Annual Technical Meeting of the Society of Engineering Science (SES). College Station, Texas, USA. 17th Oct. 17, 2022
