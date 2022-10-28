@@ -16,7 +16,7 @@ toc_max_header: 1
 ## News, Demonstrations, and Journalist Interviews
 
 - NASA Moon to Mars Ice and Prospecting Challenge
-    - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html) and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez), 25th Jan. 2021    
+    - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), 25th Jan. 2021    
     (Event participants: Profs. Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Drs. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Mr. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh,  Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez)
    
 - Building A Growable Habitat for Sustainable Life in Space      
@@ -30,6 +30,7 @@ toc_max_header: 1
     - [Model Demonstration](https://livestream.com/viewnow/niac2019/videos/196913328), NIAC Symposium, Huntsville, AL, 24th Sept.  2019     
     (Event participants: Drs. Joel Sercel, Manoranjan Majji, Muhao Chen. Mr. Ali H. Khowaja)  
  
+ <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
  
 ## Talks
 * The 2022 Annual Technical Meeting of the Society of Engineering Science (SES). College Station, Texas, USA. 17th Oct. 17, 2022
