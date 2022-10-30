@@ -14,6 +14,7 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 
 
 ## Journal Articles 
+1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p 115712.
 1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p.114618.
 1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>, 7(74), 3390.
 1. Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>, p.111785.
@@ -44,7 +45,6 @@ His citation profile is in [Google Scholar](https://scholar.google.com/citations
 1. **Chen, M.***, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. Revision
 1. **Chen, M.***, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Accepted.
 1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engineering Structures</u>. Submitted.
-1. Liu, Q.*, **Chen, M.** and Skelton, R.E., 2022. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. Accepted.
 1. Ma, S., Chen, Y., **Chen, M.*** and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. Submitted.
 1. **Chen, M.***, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.
 1. Shen, Y., **Chen, M.***, Majji, M. and Skelton, R.E. 2022. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted.
