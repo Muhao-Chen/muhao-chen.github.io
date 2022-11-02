@@ -10,12 +10,16 @@ toc: true
 
 ### Texas A&M University, College Station, TX, U.S.
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
-    * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021), Texas A&M University, College Station, TX. Research topic: Design and Analysis of A Robotic Tensergity Dolphin
-    * Mr. Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020), Texas A&M University, College Station, TX. Research topic: Dynamics, Control, and Animation of The deployable Tensegrity Structures 
-    * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019), Texas A&M University, College Station, TX. Research topic: Design and Control of Tensegrity Morphing Airfoils
+    * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
+    Research topic: Design and Analysis of A Robotic Tensergity Dolphin
+    * Mr. Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)     
+    Research topic: Dynamics, Control, and Animation of The deployable Tensegrity Structures 
+    * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)      
+     Research topic: Design and Control of Tensegrity Morphing Airfoils
 
 - Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
-    * Mr. Rawad Yazbeck, Ph.D. in Mechanical Engineering (Jan. 2022 - Present), Texas A&M University at Qatar, Doha, Qatar. Research topic: Tensergity Statics, Dynamics, Minimal Mass Design, and Experiments
+    * Mr. Rawad Yazbeck, Ph.D. in Mechanical Engineering (Jan. 2022 - Present)      
+    Research topic: Tensergity Statics, Dynamics, Minimal Mass Design, and Experiments
 
 ### Huazhong University of Science and Technology, China   
 - Class Advisor, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
