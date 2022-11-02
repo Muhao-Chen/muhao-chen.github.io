@@ -18,7 +18,7 @@ We would also like to develop and offer more and more software and tools to help
 ## Research Interests
  * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
  * Lightweight Automated System (i.e., by Tensegrity, Origami) for Space, Land, Air, and Ocean Applications
- * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor/Actuator Selections
+ * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor & Actuator Selections
  * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-time Control) Systems
 
 <!--
