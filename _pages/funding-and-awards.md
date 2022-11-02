@@ -15,7 +15,7 @@ author_profile: true
 * National Scholarship for Graduate Students (the Highest Honor for Graduates, China), Dec.2014
 * First Prize in 6th National Contest on Energy Saving and Emission Reduction, Aug.2013
 * The Unique National Special Prize in Sunbird Cup Yacht Design Contest, Dec.2013 & 2014
-* Second Prize in 2013 National Virtual Instrument Contest, May 2013
+* Second Prize in the 2013 National Virtual Instrument Contest, May 2013
 * Technological Innovation Star by School of NAOE, HUST, Oct.2012
 * National Encouragement Scholarship (Ministry of Education, China), Oct.2012
 * Frist Prize in 28th Hubei 12·9 Poetry and Prose Contest, Dec.2012
