@@ -19,7 +19,7 @@ toc: true
 1. Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>, 7(74), 3390.
 1. Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>, p.111785.
 1. Ma, S., **Chen, M.***, and Skelton, R., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>, 264, p.114391.
-1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p.100692.
+1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p.100692.
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>, p.114838.
 1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. <u>Aerospace Science and Technology</u>. 106, p.106147.
 1. **Chen, M.*** and Skelton, R.E., 2020. A general approach to minimal mass tensegrity. <u>Composite Structures</u>. p.112454.
@@ -31,7 +31,7 @@ toc: true
 ## Conference Papers
 1. Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022, Beijing, China. 
 1. Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022, Beijing, China. 
-1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u> Annual Symposium and Spacial Structures Conference 2020/21, 23 August 2021. 
+1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u> Annual Symposium and Spacial Structures Conference 2020/21, August 23, 2021. 
 1. Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>, International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.
 1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. 
 1. **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. 
@@ -55,7 +55,7 @@ toc: true
 <!-- 1. Shen, Y.*, **Chen, M.**, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
 1. **Chen, M.*** and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 - Conference Papers
-1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. 18 June - 22 June 2023, in Rome, Italy. Submitted.
+1. **Chen, M.**, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - June 22, 2023, in Rome, Italy. Submitted.
 
 ## Book Preparing
 1. **Chen, M.**, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. New York: Springer. In preparation. (A textbook for undergraduate and graduate students)
@@ -66,8 +66,8 @@ toc: true
 1. Plantz, C.L., **Chen, M.**, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation
 1. **Chen, M.**, Majji, M. and Skelton, R.E. Tensegrity Morphing Airfoil. U.S. Patent. In preparation.
 1. **Chen, M.**, Li, X., Gong, C., Xia, L., and Zhou, L. A kind of data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015.
-1. **Chen, M.**, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, 02 March 2016.
-1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, 26 August 2015.
+1. **Chen, M.**, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, March 02, 2016.
+1. **Chen, M.**, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, August 26, 2015.
 
 ## Thesis and Dissertation
 - [Ph.D.] **Chen, M.**. Soft Robotics by Integrating Structure, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
