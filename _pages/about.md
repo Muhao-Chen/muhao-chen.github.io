@@ -9,6 +9,9 @@ redirect_from:
 toc: true
 ---
 
+<div style="text-align: justify;" markdown="1">
+
+
 <!--<div style="text-align: justify">  </div> -->
 Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA. 
 
