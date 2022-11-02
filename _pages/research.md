@@ -72,6 +72,10 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
+
+### Mass-Efficient Double-Helix Tensegrity
+(with Drs. Manoranjan Majji and Robert E. Skelton)
+
 ### Dynamic Reference Tracking and Obstacle Avoidance based on Reinforcement Learning  
 (with Dr. Robert E. Skelton)
 
