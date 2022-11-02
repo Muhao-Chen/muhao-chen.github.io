@@ -92,9 +92,10 @@ We would also like to develop and offer more and more software and tools to help
 </tr>
 </table>
 
+<!--
 ### Integrated Tensegrity and Origami Systems  
 (with Drs. Shuo Ma and Robert E. Skelton)
-
+-->
 
 ### Mass Efficient Double-Helix Tensegrity and Origami
 (with Drs. Manoranjan Majji and Robert E. Skelton)
