@@ -11,6 +11,7 @@ toc: true
 
 <!--<div style="text-align: justify">  </div> -->
 Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA. 
+
 His research can be found on the [Research](https://muhao-chen.github.io/research/) page.
 
 
