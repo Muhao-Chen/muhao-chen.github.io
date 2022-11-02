@@ -18,10 +18,10 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Keywords
 * Integrating Structure & Control Design    
-* Robotics & Lightweight automated system
+* Robotics & Lightweight Automated System
 * Tensegrity and Origami Systems
-* Dynamics and Control Theory    
-* Space Systems and Infrastructures
+* Space Systems and Deployable Infrastructures
+* Dynamics & Control Theory, Reinforcement Learning    
 
 <!--
 ## Research Interests
