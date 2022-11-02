@@ -13,8 +13,7 @@ toc: true
 
 
 <!--<div style="text-align: justify">  </div> -->
-Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA.     
-His research can be found on the [Research](https://muhao-chen.github.io/research/) page.
+Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. His research can be found on the [Research](https://muhao-chen.github.io/research/) page.
 
 
 
@@ -64,7 +63,5 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 ## Contact
 Email: muhaochen at tamu.edu  
 Tel: +1 979-985-8285  
-Department of Aerospace Engineering  
-Texas A&M University, College Station  
-H.R. Bright Building, 400 Bizzell St,   
-College Station, TX 77843, USA
+Department of Aerospace Engineering, Texas A&M University, College Station  
+H.R. Bright Building, 400 Bizzell St, College Station, TX 77843, USA
