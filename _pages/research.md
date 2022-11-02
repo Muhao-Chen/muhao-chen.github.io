@@ -15,13 +15,20 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes can be found on the [Software](https://muhao-chen.github.io/resources/) page. 
 
+## Research Interests
+• Integrating structure and control design for modeling and control of complex deployable systems
+• Lightweight automated system (i.e., by tensegrity, origami) for space/land/air/ocean applications
+• Robotics, learning algorithms, system identification, model reduction, sensor/actuator selections
+• Data-driven control, path planning, finite bit computing of high-dimensional (FEM/FSI) systems
 
+<!--
 ## Research Keywords
 * Integrating Structure & Control Design    
 * Robotics & Lightweight Automated System
 * Tensegrity and Origami Systems
 * Space Systems and Deployable Infrastructures
 * Dynamics & Control Theory, Reinforcement Learning    
+--> 
 
 <!--
 ## Research Interests
