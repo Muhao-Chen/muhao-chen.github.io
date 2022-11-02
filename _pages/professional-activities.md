@@ -59,8 +59,8 @@ toc_max_header: 1
 
 ## Selected Services
 * Editorial Committee, ASCE Texas Section ([TexASCE](https://www.texasce.org/)) 2021 - present
-* Judge, Texas A&M University Student Research Week (SRW) 2021 - 2022
-* Advisor, FIRST Robotics Competition (FRC) 2014 - 2015
+* Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)) 2021 - 2022
+* Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)) 2014 - 2015
 
 
 ## Referee
