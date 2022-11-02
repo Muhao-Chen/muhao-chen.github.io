@@ -77,10 +77,10 @@ We would also like to develop and offer more and more software and tools to help
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/Jansen.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="50px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/T2D1_circling.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/T2D1_tracing_obstacle_avoidance.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism_pointing.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism_obstacle_avoidance.gif" width="50px" height="100px"/></figure></td>
 </tr>
 </table>
 
