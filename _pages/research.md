@@ -125,7 +125,7 @@ We would also like to develop and offer more and more software and tools to help
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
-### Deployable Lightweiht Tensegrity Cable Net Roof
+### Deployable Lightweiht Tensegrity Cable Net
 (with Drs. Shuo Ma and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
