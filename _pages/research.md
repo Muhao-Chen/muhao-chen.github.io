@@ -72,6 +72,19 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
+### Dynamic Reference Tracking and Obstacle Avoidance based on Reinforcement Learning  
+(with Dr. Robert E. Skelton)
+
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/Jansen.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="50px" height="100px"/></figure></td>
+</tr>
+</table>
+
+
 ### Automated Drilling Rig
 (with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Dr. Mohamed S Khaled, Dr. Enrique Z Losoya, Profs. Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
