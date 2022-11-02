@@ -108,9 +108,6 @@ We would also like to develop and offer more and more software and tools to help
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
 
-### Deployable Tensegrity Roof with Covers
-(with Drs. Shuo Ma and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 ### Model-Based and Data-Based Shape Control of Tensegrity Structures
 (with Dr. Robert E. Skelton)
@@ -122,6 +119,15 @@ We would also like to develop and offer more and more software and tools to help
 <td><figure><img src="{{ site.url }}/images/rffi/arm.gif" width="100"/></figure></td>
 </tr>
 </table>
+
+### Deployable Tensegrity Roof with Covers
+(with Drs. Shuo Ma and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
+
+
+### Deployable Lightweiht Tensegrity Cable Net Roof
+(with Drs. Shuo Ma and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
