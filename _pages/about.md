@@ -32,11 +32,11 @@ His research can be found on the [Research](https://muhao-chen.github.io/researc
 
 ## Work Experience
 
-Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, USA     
+Department of Aerospace Engineering, Texas A&M Univerisity - College Station    
 Postdoctoral Researcher, May 2021 - Present
 
 National Instruments Corporation   
-Assistant Application Engineer & LabVIEW Club, HUST, President, Jul.2013 - Jan.2015 
+Assistant Application Engineer & LabVIEW Club, HUST, President, Jul. 2013 - Jan. 2015 
 
 
 <!--Research Assistant, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, Sept.2016 - May 2021-->
@@ -50,7 +50,7 @@ Ph.D., Aerospace Engineering. Advisors: Drs. Robert E. Skelton and Manoranjan Ma
 
 Huazhong University of Science and Technology University, China    
 M.S., Design and Manufacture of Ships and Marine Structures, 2016      
-B.S., Naval Architecture and Ocean Engineering/Minor: English,  2013
+B.S., Naval Architecture and Ocean Engineering / Minor: English,  2013
 
 <!--
 ## Research Interest
@@ -63,7 +63,7 @@ B.S., Naval Architecture and Ocean Engineering/Minor: English,  2013
 
 ## Contact
 Email: muhaochen at tamu.edu  
-Tel: +1 979 985 8285  
+Tel: +1 979-985-8285  
 Department of Aerospace Engineering  
 Texas A&M University, College Station  
 H.R. Bright Building, 400 Bizzell St,   
