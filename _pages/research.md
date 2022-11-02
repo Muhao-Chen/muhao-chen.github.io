@@ -88,7 +88,7 @@ We would also like to develop and offer more and more software and tools to help
 </tr>
 </table>
 
-### Mass Efficient Double-Helix Tensegrity
+### Mass Efficient Double-Helix Tensegrity and Origami
 (with Drs. Manoranjan Majji and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
 
