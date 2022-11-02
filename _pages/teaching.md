@@ -9,7 +9,7 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### Texas A&M University, College Station, TX, U.S.
-- Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://engineering.tamu.edu/aerospace/profiles/skelton-robert.html))
+- Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept.2019 - Jun.2021), Texas A&M University, College Station, TX. Research topic: Design and Analysis of A Robotic Tensergity Dolphin
     * Mr. Jason Liu, MEng in Ocean Engineering (Sept.2017 - Dec.2020), Texas A&M University, College Station, TX. Research topic: Dynamics, Control, and Animation of The deployable Tensegrity Structures 
     * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec.2019), Texas A&M University, College Station, TX. Research topic: Design and Control of Tensegrity Morphing Airfoils
