@@ -13,7 +13,7 @@ toc: true
     * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
     Research topic: Design and Analysis of A Robotic Tensergity Dolphin
     * Mr. Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)     
-    Research topic: Dynamics, Control, and Animation of The deployable Tensegrity Structures 
+    Research topic: Dynamics, Control, and Animation of Deployable Tensegrity Structures 
     * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)      
      Research topic: Design and Control of Tensegrity Morphing Airfoils
 
