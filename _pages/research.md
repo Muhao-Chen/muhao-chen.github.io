@@ -129,6 +129,7 @@ We would also like to develop and offer more and more software and tools to help
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
 
 ### Double-Helix Tensegrity Spherical Planetary Lander
+(with Dr. Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
