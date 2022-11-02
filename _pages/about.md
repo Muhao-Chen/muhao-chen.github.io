@@ -35,7 +35,7 @@ toc: true
 
 ## Education 
 
-<div style="text-align: justify"> Ph.D., Aerospace Engineering, Texas A&M University, College Station, USA. Advisors: Drs. [Robert E. Skelton](https://bobskelton.github.io/) and [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html), May 2021  </div>
+<div style="text-align: justify"> Ph.D., Aerospace Engineering, Texas A&M University, College Station, USA. Advisors: Drs. Robert E. Skelton and Manoranjan Majji, May 2021  </div>
 <div style="text-align: justify"> M.S., Design and Manufacture of Ships and Marine Structures, Huazhong University of Science and Technology University, China, 2016 </div>
 <div style="text-align: justify"> B.S., Naval Architecture and Ocean Engineering/Minor: English, Huazhong University of Science and Technology University, China, 2013 </div>
 
