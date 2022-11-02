@@ -48,7 +48,7 @@ Assistant Application Engineer & LabVIEW Club, HUST, President, Jul. 2013 - Jan.
 Texas A&M University, College Station, USA. May 2021    
 Ph.D., Aerospace Engineering. Advisors: Drs. Robert E. Skelton and Manoranjan Majji, 
 
-Huazhong University of Science and Technology University, China    
+Huazhong University of Science and Technology    
 M.S., Design and Manufacture of Ships and Marine Structures, 2016      
 B.S., Naval Architecture and Ocean Engineering / Minor: English,  2013
 
