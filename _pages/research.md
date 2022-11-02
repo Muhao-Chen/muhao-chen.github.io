@@ -72,11 +72,11 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
+### Integrated Tensegrity and Origami Systems  
+(with Drs. Shuo Ma and Robert E. Skelton)
 
-### Mass-Efficient Double-Helix Tensegrity
-(with Drs. Manoranjan Majji and Robert E. Skelton)
 
-### Dynamic Reference Tracking and Obstacle Avoidance based on Reinforcement Learning  
+### Dynamic Reference Tracking and Obstacle Avoidance Based on Reinforcement Learning  
 (with Dr. Robert E. Skelton)
 
 <table>
@@ -87,6 +87,9 @@ We would also like to develop and offer more and more software and tools to help
 <td><figure><img src="{{ site.url }}/images/rffi/prism_obstacle_avoidance.gif" width="50px" height="100px"/></figure></td>
 </tr>
 </table>
+
+### Mass-Efficient Double-Helix Tensegrity
+(with Drs. Manoranjan Majji and Robert E. Skelton)
 
 
 ### Automated Drilling Rig
