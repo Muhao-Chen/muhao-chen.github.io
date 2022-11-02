@@ -101,15 +101,16 @@ We would also like to develop and offer more and more software and tools to help
 (with Drs. Manoranjan Majji and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
 
-### Deployable Tensegrity Roof with Covers
-(with Drs. Shuo Ma and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
-
 
 ### Automated Drilling Rig
 (with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Dr. Mohamed S Khaled, Dr. Enrique Z Losoya, Profs. Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+
+
+### Deployable Tensegrity Roof with Covers
+(with Drs. Shuo Ma and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
