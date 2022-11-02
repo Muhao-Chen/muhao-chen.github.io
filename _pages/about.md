@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-<div style="text-align: justify"> Muhao Chen, Ph.D., is currently a Postdoc Researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA.  </div>
+<div style="text-align: justify"> Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station, USA.  </div>
 <div style="text-align: justify"> His work mainly involves:</div>
 * Integrating Structure and Control Design for Modeling and Control of Complex Systems
 * Deployable Automated Systems 
@@ -26,7 +26,7 @@ toc: true
 
 ## Work Experience
 
-<div style="text-align: justify"> Postdoc Researcher, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, USA, May 2021 - Present </div>
+<div style="text-align: justify"> Postdoctoral Researcher, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, USA, May 2021 - Present </div>
 <div style="text-align: justify"> Assistant Application Engineer & LabVIEW Club, HUST, President, National Instruments, China, Jul.2013 - Jan.2015 </div>
 
 <!--Research Assistant, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, Sept.2016 - May 2021-->
