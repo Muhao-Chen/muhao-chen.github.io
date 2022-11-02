@@ -112,6 +112,17 @@ We would also like to develop and offer more and more software and tools to help
 (with Drs. Shuo Ma and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
+### Model-Based and Data-Based Shape Control of Tensegrity Structures
+(with Dr. Robert E. Skelton)
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/morph_air.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/tail.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/CableDomeCtrl.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/arm.gif" width="100"/></figure></td>
+</tr>
+</table>
+
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
