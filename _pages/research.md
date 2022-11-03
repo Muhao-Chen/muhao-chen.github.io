@@ -120,6 +120,17 @@ We would also like to develop and offer more and more software and tools to help
 </tr>
 </table>
 
+### Tensegrity Sphere Locomotion
+(with Dr. Robert E. Skelton)
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/curve_front.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/curve_side.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/slope_front.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/slope_side.gif" width="100"/></figure></td>
+</tr>
+</table>
+
 ### Deployable Tensegrity Roof with Covers
 (with Drs. Shuo Ma and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
