@@ -19,7 +19,8 @@ toc: true
 
 - Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
     * Mr. Rawad Yazbeck, Ph.D. in Mechanical Engineering (Jan. 2022 - Present)      
-    Research topic: Tensergity Statics, Dynamics, Minimal Mass Design, and Experiments
+    Research topic: Statics, Dynamics, Wave Propagation Behaviour, and Bandgaps Analysis for Tensergity Structures
+
 
 ### Huazhong University of Science and Technology   
 - Class Advisor, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
