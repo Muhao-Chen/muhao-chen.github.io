@@ -79,6 +79,7 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
+Our reseach mainly focuses on the three topics: 
  * Topic 1: Integrating Structure and Control Design
  * Topic 2: Deployable Automated Systems
  * Topic 3: Lightweight Infrastructures
