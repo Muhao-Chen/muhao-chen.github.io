@@ -80,7 +80,7 @@ We would also like to develop and offer more and more software and tools to help
 ## Research Demonstrations
 
 
-### Dynamic Reference Tracking and Obstacle Avoidance Based on Reinforcement Learning  
+### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 (with Dr. Robert E. Skelton)
 
 <table>
