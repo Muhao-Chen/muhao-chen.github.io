@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-### Texas A&M University, College Station, TX, U.S.
+### Texas A&M University, College Station, TX
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
     Research topic: Design and Analysis of A Robotic Tensergity Dolphin
@@ -21,14 +21,14 @@ toc: true
     * Mr. Rawad Yazbeck, Ph.D. in Mechanical Engineering (Jan. 2022 - Present)      
     Research topic: Tensergity Statics, Dynamics, Minimal Mass Design, and Experiments
 
-### Huazhong University of Science and Technology, China   
+### Huazhong University of Science and Technology   
 - Class Advisor, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
     * Awarded excellent class and individual
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012 
     * Awarded national excellent LabView Club and individual
 
 
-### Wuhan Foreign Languages School (Public High School), China
+### Wuhan Foreign Languages School (Public High School)
 - Advisor of the FRC Robotics Team 
     - Mentored mechanical design, DAQ, and control
     - The school team won the national championship
