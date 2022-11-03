@@ -111,7 +111,14 @@ PsvRbst allows one to conduct structure passive control and robustness study of 
 
 CtrlBox has the following options for active control of deployable structures and robotics. 1). Nonlinear model-based control for nonlinear dynamics. 2). Linear model-based covariance control. 3). Q-Markov Data-based Control. 4). Model-based and data-based LQG controller. 5). Central pattern generator (CPG) controller. 6). Optimal sensor and actuator selection algorithms for nonlinear and linear models. 7) Information architecture (design pool of control energy, budget, and performance). Some demos are shown below.
 
-
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/curve_front.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/curve_side.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/slope_front.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/slope_side.gif" width="100"/></figure></td>
+</tr>
+</table>
 
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
