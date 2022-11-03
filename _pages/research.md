@@ -79,6 +79,10 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
+ * Topic 1: Integrating Structure and Control Design
+ * Topic 2: Deployable Automated Systems
+ * Topic 3: Lightweight Infrastructures
+
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 (with Dr. Robert E. Skelton)
