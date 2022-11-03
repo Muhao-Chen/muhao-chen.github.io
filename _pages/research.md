@@ -120,20 +120,15 @@ We would also like to develop and offer more and more software and tools to help
 </tr>
 </table>
 
+<!--
 ### Locomotion of A Tensegrity Spherical Robot 
 (with Dr. Robert E. Skelton)
-<table>
-<tr>
-<td><figure><img src="{{ site.url }}/images/rffi/curve_front.gif" width="100"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/curve_side.gif" width="100"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/slope_front.gif" width="100"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/slope_side.gif" width="100"/></figure></td>
-</tr>
-</table>
+-->
 
-### Deployable Tensegrity Roof with Covers
-(with Drs. Shuo Ma and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
+### Growable Space Habitat with 1G Artificial Gravity in Deep Space
+(with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
+
+<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
 ### Deployable Lightweight Tensegrity Cable Net
@@ -141,10 +136,10 @@ We would also like to develop and offer more and more software and tools to help
 <figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
 
-### Growable Space Habitat with 1G Artificial Gravity in Deep Space
-(with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
+### Deployable Tensegrity Roof with Covers
+(with Drs. Shuo Ma and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
-<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 ### Electromagnetic Lunar Launcher
 (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton)
