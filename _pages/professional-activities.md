@@ -34,7 +34,7 @@ toc_max_header: 1
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
  
 ## Talks
-* The 2022 Annual Technical Meeting of the Society of Engineering Science (SES). College Station, Texas, USA. 17th Oct. 17, 2022
+* The 2022 Annual Technical Meeting of the Society of Engineering Science (SES). College Station, TX, 17th Oct, 2022
 * The annual symposium of the International Association for Shell and Spatial Structures (IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), 19th Sept. 2022
 * Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, 9th Sept. 2022
 * Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, 6th Apr. 2022
