@@ -166,7 +166,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 ### Deployable Clustered Cable Nets
-(with Kai Lu, Xinzhu Zhou, and Dr. Shuo Ma)
+(with Kai Lu, Xinzhu Zhou, Drs. Shuo Ma and Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
