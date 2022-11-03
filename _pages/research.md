@@ -120,6 +120,7 @@ We would also like to develop and offer more and more software and tools to help
 </tr>
 </table>
 
+
 <!--
 ### Locomotion of A Tensegrity Spherical Robot 
 (with Dr. Robert E. Skelton)
@@ -134,6 +135,12 @@ We would also like to develop and offer more and more software and tools to help
 ### Deployable Lightweight Tensegrity Cable Net
 (with Drs. Shuo Ma and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
+
+
+### Finite-word Length Optimal Simulation for High-Dimensional Dynamical Systems
+(with Dr. Yuling Shen and Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
 
 
 ### Deployable Tensegrity Roof with Covers
