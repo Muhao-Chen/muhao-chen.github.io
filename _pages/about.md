@@ -35,7 +35,7 @@ Department of Aerospace Engineering, Texas A&M Univerisity - College Station
 Postdoctoral Researcher, May 2021 - Present
 
 National Instruments Corporation   
-Assistant Application Engineer & LabVIEW Club, HUST, President, Jul. 2013 - Jan. 2015 
+Assistant Application Engineer & LabVIEW Club President at HUST, Jul. 2013 - Jan. 2015 
 
 
 <!--Research Assistant, Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX, Sept.2016 - May 2021-->
