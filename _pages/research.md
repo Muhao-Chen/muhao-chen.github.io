@@ -79,11 +79,7 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
-Our reseach mainly focuses on the three topics: 
- * Topic 1: Integrating Structure and Control Design
- * Topic 2: Deployable Automated Systems
- * Topic 3: Lightweight Infrastructures
-
+All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures.
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 (with Dr. Robert E. Skelton)
