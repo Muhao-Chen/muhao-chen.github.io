@@ -120,7 +120,7 @@ We would also like to develop and offer more and more software and tools to help
 </tr>
 </table>
 
-### Tensegrity Spherical Robot Locomotion
+### Locomotion of A Tensegrity Spherical Robot 
 (with Dr. Robert E. Skelton)
 <table>
 <tr>
