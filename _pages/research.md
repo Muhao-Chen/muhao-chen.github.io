@@ -103,7 +103,7 @@ We would also like to develop and offer more and more software and tools to help
 
 
 ### Automated Drilling Rig
-(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Dr. Mohamed S Khaled, Dr. Enrique Z Losoya, Profs. Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
@@ -163,7 +163,7 @@ We would also like to develop and offer more and more software and tools to help
 
 
 ### Deployable Clustered Cable Nets
-(with Dr. Shuo Ma, Kai Lu, and Xinzhu Zhou)
+(with Kai Lu, Xinzhu Zhou, and Dr. Shuo Ma)
 
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
