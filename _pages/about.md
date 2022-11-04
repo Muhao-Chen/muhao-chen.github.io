@@ -63,5 +63,5 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 ## Contact
 Email: muhaochen at tamu.edu  
 Tel: +1 979-985-8285  
-H.R. Bright Building, 400 Bizzell St, College Station, TX 77843
+[Department of Aerospace Engineering](https://engineering.tamu.edu/aerospace/about/facts.html), H.R. Bright Building, 400 Bizzell St, College Station, TX 77843
 
