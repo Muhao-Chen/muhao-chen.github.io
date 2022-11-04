@@ -51,6 +51,7 @@ TsgFoil is software for foil-related studies, such as airfoils, airplane wings, 
 
 <figure><img src="{{ site.url }}/images/rffi/tensegfoil.png" width="200"/></figure>
 
+One can also add mass-efficient cover structures to the lightweight wing design.  
 
 <figure><img src="{{ site.url }}/images/rffi/Dbar_airfoil.png" width="200"/></figure>
 
