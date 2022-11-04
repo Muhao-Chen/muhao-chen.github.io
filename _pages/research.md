@@ -144,6 +144,17 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
+### Low Cost Lighweight Deployable Shelter subject to Extreme Environments
+(with Robert E. Skelton)
+
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/shelter.png" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/shelter_windlinear_elastic_slack_1.gif" width="100"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/shelter_womemlinear_elastic_slack_1.gif" width="100"/></figure></td>
+</tr>
+</table>
+
 ### Electromagnetic Lunar Launcher
 (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton)
 
