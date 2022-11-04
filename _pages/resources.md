@@ -4,6 +4,7 @@ title: "Software"
 permalink: /resources/
 author_profile: true
 toc: true
+toc_max_header: 1
 ---
 
 <div style="text-align: justify;" markdown="1">
