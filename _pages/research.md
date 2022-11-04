@@ -145,7 +145,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 ### Low Cost Lighweight Deployable Shelter subject to Extreme Environments
-(with Robert E. Skelton)
+(with Dr. Robert E. Skelton)
 
 <table>
 <tr>
