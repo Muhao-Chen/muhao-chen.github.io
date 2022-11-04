@@ -133,11 +133,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
-### Deployable Lightweight Tensegrity Cable Net
-(with Drs. Shuo Ma and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
-
-
 ### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
 (with Drs. Yuling Shen and Robert E. Skelton)
 
@@ -164,6 +159,9 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 <figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
+### Deployable Lightweight Tensegrity Cable Net
+(with Drs. Shuo Ma and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
 ### Deployable Clustered Cable Nets
 (with Kai Lu, Xinzhu Zhou, Drs. Shuo Ma and Robert E. Skelton)
