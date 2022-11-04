@@ -144,7 +144,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
-### Low Cost Lighweight Deployable Shelter subject to Extreme Environments
+### Low-Cost Lightweight, Deployable Shelter subject to Extreme Environments
 (with Dr. Robert E. Skelton)
 
 <table>
@@ -175,7 +175,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
 ### Deployable Clustered Cable Nets
-(with Kai Lu, Xinzhu Zhou, Drs. Shuo Ma and Robert E. Skelton)
+(with Kai Lu, Xinzhu Zhou, Drs. Shuo Ma, and Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
