@@ -161,6 +161,13 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
 
 
+### Model Reduction Analysis for Non-Linear Tensegrity Systems
+(Muhao Chen and Robert E. Skelton)   
+
+<figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
+
+
+
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 <!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
 (Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
