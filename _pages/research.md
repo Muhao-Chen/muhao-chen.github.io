@@ -161,7 +161,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
 
 
-### Model Reduction Analysis for Non-Linear Tensegrity Systems
+### Model Reduction Analysis for Nonlinear Tensegrity Systems
 (Muhao Chen and Robert E. Skelton)   
 
 <figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
