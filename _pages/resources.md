@@ -51,7 +51,7 @@ TsgFoil is software for foil-related studies, such as airfoils, airplane wings, 
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/tensegfoil2.png" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/tensegfoil2.png" width="50px" height="50px"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/foil_ctrl_fluid.gif" width="100px" height="100px"/></figure></td>
 </tr>
 </table>
