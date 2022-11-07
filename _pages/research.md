@@ -212,7 +212,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 ### Tensegrity System Dynamics in Fluids
 <!-- (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton) -->
-(Jun Chen, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+(Muhao Chen, Jun Chen, Manoranjan Majji, and Robert E. Skelton)
 
 <table>
 <tr>
