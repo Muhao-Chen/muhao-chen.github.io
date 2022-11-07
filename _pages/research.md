@@ -166,6 +166,10 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 <figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
 
+<!-- ### System Identification to Nonlinear Tensegrity Structures
+(Muhao Chen and Robert E. Skelton)   
+<figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
+
 
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
