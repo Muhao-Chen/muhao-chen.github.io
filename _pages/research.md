@@ -139,7 +139,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 
-### Economic Sensor & Actuator Selection for Tensegrity Robots
+### Economic Sensor & Actuator Selection for Tensegrity Robots Based on the Information Architecture
 <!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen, Manoranjan Majji, Robert E. Skelton)
 
@@ -154,7 +154,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
 
 
-###  Robust $L_{\infty}$ Performance for Structure Passive Control
+###  Robust $\mathcal{L}_{\infty}$ Performance for Structure Passive Control
 <!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
 
