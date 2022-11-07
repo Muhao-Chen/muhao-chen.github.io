@@ -103,12 +103,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
 
 
-### Automated Drilling Rig
-(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
-
-<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
-
-
 
 ### Model-Based and Data-Based Shape Control of Tensegrity Structures
 (with Dr. Robert E. Skelton)
@@ -120,6 +114,11 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <td><figure><img src="{{ site.url }}/images/rffi/arm.gif" width="100"/></figure></td>
 </tr>
 </table>
+
+### Automated Drilling Rig
+(with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+
+<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
 
 <!--
