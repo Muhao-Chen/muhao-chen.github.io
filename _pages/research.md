@@ -127,10 +127,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (with Dr. Robert E. Skelton)
 -->
 
-### Growable Space Habitat with 1G Artificial Gravity in Deep Space
-(with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
-
-<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
 ## Economic Sensor & Actuator Selection for Tensegrity Robots
@@ -149,6 +145,13 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (with Dr. Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
+
+
+### Growable Space Habitat with 1G Artificial Gravity in Deep Space
+(with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov)
+
+<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
+
 
 ### Deployable Tensegrity Roof with Covers
 (with Drs. Shuo Ma and Robert E. Skelton)
