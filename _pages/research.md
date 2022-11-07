@@ -252,6 +252,12 @@ shelter
 
 <figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
+### Gyroscopic Tensegrity System Dynamics
+<!-- (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton) -->
+(Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
+<figure><img src="{{ site.url }}/images/rffi/gyro.png" width="800"/></figure>
+
+
 ### Deployable Lightweight Tensegrity Cable Net
 <!-- (with Drs. Shuo Ma and Robert E. Skelton) -->
 (Shuo Ma, Muhao Chen, and Robert E. Skelton)
