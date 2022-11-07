@@ -139,6 +139,11 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
 
 
+### Damper Design for Strtucre Passive Control 
+(with Dr. Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
+
 ### Deployable Tensegrity Roof with Covers
 (with Drs. Shuo Ma and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
@@ -155,10 +160,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 </tr>
 </table>
 
-### Damper Design for Strtucre Passive Control 
-(with Dr. Robert E. Skelton)
 
-<figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
 
 ### Electromagnetic Lunar Launcher
 (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton)
