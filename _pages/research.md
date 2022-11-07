@@ -160,6 +160,12 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 <figure><img src="{{ site.url }}/images/rffi/propulsion.png" width="800"/></figure>
 
+### Energy-Efficient Cable-actuation Strategies of the V-Expander Tensegrity 
+(with Drs. Aguinaldo Fraddosio, Andrea Micheletti, Gaetano Pavone, Mario Daniele Piccioni, and Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/V_Expander.png" width="800"/></figure>
+
+
 ### Rigid Body Tensegrity
 (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton)
 
