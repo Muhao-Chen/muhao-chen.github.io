@@ -171,7 +171,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 ### Minimal Mass Design for Clustered Tensegrity 
-(with Dr. Robert E. Skelton)
+(with Xiaoling Bai, Dr. Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/clu_min.png" width="800"/></figure>
 
 
