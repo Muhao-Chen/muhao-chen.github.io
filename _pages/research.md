@@ -126,7 +126,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 ### Automated Drilling Rig
 <!-- (with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis) -->
-(Mohamed S Khaled, Muhao Chen Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+(Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 
 
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
