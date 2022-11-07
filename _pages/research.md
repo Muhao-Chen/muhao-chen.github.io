@@ -210,6 +210,21 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/V_Expander.png" width="800"/></figure>
 
 
+### Tensegrity System Dynamics in Fluids
+<!-- (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton) -->
+(Jun Chen, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land1.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land2.gif" width="80"/></figure></td>
+</tr>
+</table>
+
+
 ### Rigid Body Tensegrity
 <!-- (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton) -->
 (Shuo Ma, Muhao Chen, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
