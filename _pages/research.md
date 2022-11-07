@@ -133,6 +133,12 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
+## Economic Sensor & Actuator Selection for Tensegrity Robots
+(with Dr. Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/sas.png" width="800"/></figure>
+
+
 ### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
 (with Drs. Yuling Shen and Robert E. Skelton)
 
