@@ -156,21 +156,21 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 ### Damper Design for Strtucre Passive Control 
 <!-- (with Dr. Robert E. Skelton) -->
-(Muhao Chen, Robert E. Skelton)
+(Muhao Chen and Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
 
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 <!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
-(Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, Anthony Longman)
+(Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
 
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
 ### Deployable Tensegrity Roof with Covers
 <!-- (with Drs. Shuo Ma and Robert E. Skelton) -->
-(Shuo Ma, Muhao Chen, Dr. Robert E. Skelton)
+(Shuo Ma, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
