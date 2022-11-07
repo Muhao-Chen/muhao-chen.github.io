@@ -170,6 +170,11 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 
+### Minimal Mass Design for Clustered Tensegrity 
+(with Dr. Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/clu)min.png" width="800"/></figure>
+
+
 ### Electromagnetic Lunar Launcher
 (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton)
 
