@@ -49,7 +49,12 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 TsgFoil is software for foil-related studies, such as airfoils, airplane wings, hydrofoils, fish, manta rays, etc. One can 1). Design tensegrity morphing airfoil and wings based on the [NACA airfoil database](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1). 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Perform structure and fluid dynamics. 4) Do nonlinear, linear, model-based, and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
 
-<figure><img src="{{ site.url }}/images/rffi/tensegfoil.png" width="200"/></figure>
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/tensegfoil2.png" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="50px" height="100px"/></figure></td>
+</tr>
+</table>
 
 One can also add mass-efficient cover structures to the lightweight wing design.  
 
