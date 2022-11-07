@@ -154,7 +154,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
 
 
-### Damper Design for Strtucre Passive Control 
+### Damper Design for Structure Passive Control 
 <!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
 
