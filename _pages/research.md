@@ -155,6 +155,11 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 </tr>
 </table>
 
+### Damper Design for Strtucre Passive Control 
+(with Dr. Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
+
 ### Electromagnetic Lunar Launcher
 (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton)
 
