@@ -129,7 +129,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 
-## Economic Sensor & Actuator Selection for Tensegrity Robots
+### Economic Sensor & Actuator Selection for Tensegrity Robots
 (with Dr. Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/sas.png" width="800"/></figure>
