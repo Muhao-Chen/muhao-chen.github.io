@@ -252,7 +252,7 @@ shelter
 
 <figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
-### Gyroscopic Tensegrity System Dynamics
+### Gyroscopic Tensegrity Robots
 <!-- (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton) -->
 (Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
 <figure><img src="{{ site.url }}/images/rffi/gyro.png" width="800"/></figure>
