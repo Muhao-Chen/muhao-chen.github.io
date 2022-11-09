@@ -194,8 +194,8 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <td><figure><img src="{{ site.url }}/images/rffi/shelter.png" width="100"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/shelter_windlinear_elastic_slack_1.gif" width="100"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/shelter_womemlinear_elastic_slack_1.gif" width="100"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/shelter.gif" width="50"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/shelter_windstreamlines1.gif" width="50"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/shelter.gif" width="50"/></figure></td>
 </tr>
 </table>
 shelter
