@@ -158,6 +158,12 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <!-- <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure> -->
 
 
+### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
+(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+
+<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
+
+
 ### Model Reduction for Nonlinear Tensegrity Dynamics Based on the Mode Displacement Method
 (Muhao Chen and Robert E. Skelton)   
 
@@ -169,11 +175,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 
-
-### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
-(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-
-<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 <!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
