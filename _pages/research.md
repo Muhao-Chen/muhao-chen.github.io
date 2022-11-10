@@ -19,16 +19,11 @@ We would also like to develop and offer more and more software and tools to help
  * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
  * Lightweight Automated System (i.e., by Tensegrity, Origami) for Space, Land, Air, and Ocean Applications
  * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor & Actuator Selections
- * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-time Control) Systems
+ * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems
 
-<!--
+
 ## Research Keywords
-* Integrating Structure & Control Design    
-* Robotics & Lightweight Automated System
-* Tensegrity and Origami Systems
-* Space Systems and Deployable Infrastructures
-* Dynamics & Control Theory, Reinforcement Learning    
---> 
+Integrating Structure & Control Design, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, Reinforcement Learning    
 
 <!--
 ## Research Interests
@@ -79,7 +74,7 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Demonstrations
 
-All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures. Here are a few examples. 
+All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures. Here are a few examples. Black and red lines are bars and strings. 
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 <!-- (with Dr. Robert E. Skelton) -->
