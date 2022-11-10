@@ -15,6 +15,9 @@ toc: true
 <!--<div style="text-align: justify">  </div> -->
 Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. His research can be found on the [Research](https://muhao-chen.github.io/research/) page.
 
+## Research Keywords
+Integrating Structure & Control Design, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, and Reinforcement Learning    
+
 
 
 <!--His work mainly involves:</div>
