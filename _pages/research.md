@@ -188,7 +188,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
-### System Identifictaion (QMC, LS, and ERA) to Tensegrity Systems 
+### System Identification (QMC, LS, and ERA) to Tensegrity Systems 
 <!-- (with Drs. Yuling Shen and Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
 
@@ -234,7 +234,7 @@ shelter
 <figure><img src="{{ site.url }}/images/rffi/V_Expander.png" width="800"/></figure>
 
 
-### Tensegrity System Dynamics in Fluids
+### Tensegrity System Dynamics in Fluids (FSI: Fluid-Structure Interaction)
 <!-- (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton) -->
 (Muhao Chen, Jun Chen, Manoranjan Majji, and Robert E. Skelton)
 
