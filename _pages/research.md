@@ -171,7 +171,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
 
 ### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
-(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, and Manoranjan Majji, Robert E. Skelton)
+(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
 
