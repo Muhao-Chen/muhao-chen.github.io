@@ -74,7 +74,9 @@ Integrating Structure & Control Design, Robotics & Lightweight Automated Systems
 
 ## Research Demonstrations
 
-All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures. Here are a few examples. Black and red lines are bars and strings. 
+All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures. Here are a few examples. 
+
+<!-- Black and red lines are bars and strings.  -->
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 <!-- (with Dr. Robert E. Skelton) -->
