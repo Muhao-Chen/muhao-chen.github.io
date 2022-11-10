@@ -150,12 +150,12 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 <figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
 
-
+<!-- 
 ### Robust $\mathcal{L}_{\infty}$ Performance for Structure Passive Control
 <!-- (with Dr. Robert E. Skelton) -->
-(Muhao Chen and Robert E. Skelton)
+<!-- (Muhao Chen and Robert E. Skelton) -->
 
-<figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure>
+<!-- <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure> --> -->
 
 
 ### Model Reduction for Nonlinear Tensegrity Dynamics Based on the Mode Displacement Method
