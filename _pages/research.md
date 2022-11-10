@@ -170,7 +170,10 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
 
+### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
+(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, and Manoranjan Majji, Robert E. Skelton)
 
+<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 <!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
