@@ -22,8 +22,8 @@ We would also like to develop and offer more and more software and tools to help
  * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems
 
 
-## Research Keywords
-Integrating Structure & Control Design, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, Reinforcement Learning    
+<!-- ## Research Keywords
+Integrating Structure & Control Design, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, Reinforcement Learning     -->
 
 <!--
 ## Research Interests
