@@ -12,9 +12,9 @@ toc: true
 [ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2) and [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup>Corresponding author.
 
-<font size=3>
 
 ## Journal Articles 
+<font size=3>
 <ol reversed>
 <li> Liu, Q.*, <strong>Chen, M.</strong> and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p 115712.  </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p.114618.  </li>
@@ -30,9 +30,11 @@ toc: true
 <li> <strong>Chen, M.</strong>*, Liu, J. and Skelton, R.E., 2020. Design and control of tensegrity morphing airfoils. <u>Mechanics Research Communications</u>. 103, p.103480.  </li>
 <li> Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613. </li>
 </ol>
+</font>
 
 
 ## Conference Papers
+<font size=3>
 <ol reversed>
 <li> Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.  </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022. </li>
@@ -45,10 +47,12 @@ toc: true
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Nonlinear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. 1st Oct. 2022, in Cetara (Amalfi Coast) - Salerno, Italy.</li>
 <li> <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 17, 2022, College Station, Texas, USA. </li>
 </ol>
+</font>
 
 
 ## Submitted Papers
 - Journal Articles 
+<font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. Revision. </li>
 <li> <strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Accepted. </li>  
@@ -60,26 +64,31 @@ toc: true
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2022. <u>Mechanical Systems and Signal Processing. </u>  </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Data-Based and Model-Based Control of Tensegrity Morphing Airfoils. 2022. <u>Enginnering Structures.</u> </li>
 </ol>
-
+</font>
 <!-- <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
 <li> <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 
 
 - Conference Papers
+<font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - June 22, 2023, in Rome, Italy. Accepted. </li>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control</u>. 9 July – 14 July, 2023, in Yokohama, Japan. Submitted. </li>
 </ol>
+</font>
 
 
 
 ## Book Preparing
+<font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2022. Tensegrity Systems: Analysis and Synthesis. <u>New York: Springer.</u> In preparation. (A textbook for undergraduate and graduate students) </li>
 </ol>
+</font>
 
 
 ## Patents
+<font size=3>
 <ol reversed>
 <li> Khaled, M., Srinivasan, S., <strong>Chen, M.</strong>, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review. </li>
 <li> Plantz, C.L., <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation. </li>
@@ -88,13 +97,15 @@ toc: true
 <li> <strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, March 02, 2016. </li>
 <li> <strong>Chen, M.</strong>, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, August 26, 2015. </li>
 </ol>
+</font>
 
 
 ## Thesis and Dissertation
-- [Ph.D.] <strong>Chen, M.</strong>. Soft Robotics by Integrating Structure, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. 
-- [M.S.] <strong>Chen, M.</strong>. Development of Noise and Vibration Signal Processing System for Ship Tests.  
-- [B.S.] <strong>Chen, M.</strong>. Study on the Performance of Submarine Emergency Surfacing.
+<font size=3>
+<li> [Ph.D.] <strong>Chen, M.</strong>. Soft Robotics by Integrating Structure, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm.     </li>  
+<li> [M.S.] <strong>Chen, M.</strong>. Development of Noise and Vibration Signal Processing System for Ship Tests.   </li>
+<li> [B.S.] <strong>Chen, M.</strong>. Study on the Performance of Submarine Emergency Surfacing.  </li>
+</font>
 
 </div>
 
-</font>
