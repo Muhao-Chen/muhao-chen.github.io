@@ -50,7 +50,7 @@ toc: true
 </font>
 
 
-## Submitted Papers
+## Submitted Papers     
 - Journal Articles 
 <font size=3>
 <ol reversed>
