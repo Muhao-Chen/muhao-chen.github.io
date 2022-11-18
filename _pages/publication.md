@@ -12,6 +12,7 @@ toc: true
 [ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2) and [Google Scholar](https://scholar.google.com/citations?user=2g3lz0AAAAAJ&hl=en). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup>Corresponding author.
 
+<font size=2>
 
 ## Journal Articles 
 <ol reversed>
@@ -95,3 +96,5 @@ toc: true
 - [B.S.] <strong>Chen, M.</strong>. Study on the Performance of Submarine Emergency Surfacing.
 
 </div>
+
+</font>
