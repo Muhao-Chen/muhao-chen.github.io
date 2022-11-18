@@ -17,14 +17,14 @@ toc: true
 <ol reversed>
 <li> Liu, Q.*, **Chen, M.** and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p 115712.  </li>
 <li> Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p.114618.  </li>
-<li> Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>, 7(74), 3390.   </li>
-<li> Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>, p.111785.  </li>
+<li> Ma, S., **Chen, M.***, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. 7(74), 3390.   </li>
+<li> Khaled, M.S., **Chen, M.**, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. p.111785.  </li>
  <li> Ma, S., **Chen, M.***, and Skelton, R., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>, 264, p.114391. </li>
 <li>**Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p.100692. </li>
-<li> Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>, p.114838. </li>
+<li> Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>. p.114838. </li>
 <li>**Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. <u>Aerospace Science and Technology</u>. 106, p.106147.  </li>
 <li> **Chen, M.*** and Skelton, R.E., 2020. A general approach to minimal mass tensegrity. <u>Composite Structures</u>. p.112454.  </li>
-<li> Ma, S., **Chen, M.*** and Skelton, R.E., 2020. Design of a new tensegrity cantilever structure. <u>Composite Structures</u>, p.112188.     </li>
+<li> Ma, S., **Chen, M.*** and Skelton, R.E., 2020. Design of a new tensegrity cantilever structure. <u>Composite Structures</u>. p.112188.     </li>
 <li> Goyal, R.*, **Chen, M.**, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE Robotics and Automation Letters</u>. 5(2), pp.1239-1246.    </li>
 <li> **Chen, M.***, Liu, J. and Skelton, R.E., 2020. Design and control of tensegrity morphing airfoils. <u>Mechanics Research Communications</u>. 103, p.103480.  </li>
 <li> Goyal, R.*, **Chen, M.**, Majji, M. and Skelton, R., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613. </li>
@@ -36,7 +36,7 @@ toc: true
 <li> Ma, S., Lu, K., **Chen, M.*** and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.  </li>
 <li> Ma, S., **Chen, M.***, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022. </li>
 <li> Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, August 23, 2021. </li>
-<li> Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>, International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.</li>
+<li> Ma, S., **Chen, M.*** and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>. International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.</li>
 <li> **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. </li>
 <li> **Chen, M.***, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. </li>
 <li> Longman, A.*, Skelton, R., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., **Chen, M.** and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. (p. 4193). </li>
