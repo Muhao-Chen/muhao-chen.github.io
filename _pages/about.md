@@ -13,7 +13,7 @@ toc: true
 
 
 <!--<div style="text-align: justify">  </div> -->
-Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. His research can be found on the [Research](https://muhao-chen.github.io/research/) page.
+Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. I am affiliated with the **[Tensegrity Lab](https://bobskelton.github.io/)** and **[Land Air & Space Robotics (LASR) Laboratory](https://lasr.tamu.edu/)** at Texas A&M University, College Station, TX. His research can be found on the [Research](https://muhao-chen.github.io/research/) page. 
 
 ## Research Keywords
 Integrating Structure & Control Design, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, and Reinforcement Learning    
