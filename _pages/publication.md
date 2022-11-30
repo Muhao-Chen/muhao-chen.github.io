@@ -62,7 +62,7 @@ toc: true
 <li> <strong>Chen, M.</strong>*, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. </li>
 <li> Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2022. <u>Acta Astronautica</u>. Submitted. </li>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2022. <u>Mechanical Systems and Signal Processing. </u>  </li>
-<li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Data-Based and Model-Based Control of Tensegrity Morphing Airfoils. 2022. <u>Enginnering Structures.</u> </li>
+<!-- <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Data-Based and Model-Based Control of Tensegrity Morphing Airfoils. 2022. <u>Enginnering Structures.</u> </li> -->
 </ol>
 </font>
 <!-- <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems.
