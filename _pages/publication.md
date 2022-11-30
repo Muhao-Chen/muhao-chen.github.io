@@ -56,10 +56,10 @@ toc: true
 <font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2022. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. Accepted. </li>  
+<li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2022. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. Submitted. </li>
 <li> Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engineering Structures</u>. Revision. </li>
 <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. Submitted. </li>
 <li> <strong>Chen, M.</strong>*, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. </li>
-<li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. 2022. Markov Data-Based Reference Tracking of Tensegrity Morphing Airfoils. Submitted. </li>
 <li> Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2022. <u>Acta Astronautica</u>. Submitted. </li>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2022. <u>Mechanical Systems and Signal Processing. </u>  </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Data-Based and Model-Based Control of Tensegrity Morphing Airfoils. 2022. <u>Enginnering Structures.</u> </li>
