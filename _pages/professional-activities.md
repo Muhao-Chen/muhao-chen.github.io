@@ -64,9 +64,7 @@ toc_max_header: 1
 
 ## Referee
 
-* Journal: IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics,
-Journal of Mechanisms and Robotics: ASME, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, Aerospace, International
-Journal of Numerical Methods for Heat and Fluid Flow, International Journal of Physical Sciences, ACM Transactions on Knowledge Discovery from Data, Wireless Communications and Mobile Computing, Journal of Engineering Computations, Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques, ASCE Journal of Structural Engineering, European Journal of Mechanics/A Solids, Engineering Structures, CRC Press
+* Journal: IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics, Journal of Mechanisms and Robotics: ASME, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, Aerospace, International Journal of Numerical Methods for Heat and Fluid Flow, International Journal of Physical Sciences, ACM Transactions on Knowledge Discovery from Data, Wireless Communications and Mobile Computing, Journal of Engineering Computations, Data Intelligence, Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques, ASCE Journal of Structural Engineering, European Journal of Mechanics/A Solids, Engineering Structures, CRC Press
 
 * Conference: International Symposium on Robotics Research (ISRR), IEEE International Conference on Robotics and Automation (ICRA), American Control Conference (ACC), AIAA SciTech
 Forum and Exposition, AIAA ASCEND, ASCE Earth & Space Conference
