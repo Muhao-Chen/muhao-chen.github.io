@@ -72,8 +72,9 @@ toc: true
 - Conference Papers
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - June 22, 2023, in Rome, Italy. Accepted. </li>
-<li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. 9 July – 14 July, 2023, in Yokohama, Japan. Submitted. </li>
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, in Rome, Italy. Accepted. </li>
+<li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, in Yokohama, Japan. Submitted. </li>
+<li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Statics Study of Clustered Tensegrity Structures Considering Pulley Sizes. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, in Melbourne, Australia. Submitted. </li>
 </ol>
 </font>
 
