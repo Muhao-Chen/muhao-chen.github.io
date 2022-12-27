@@ -173,7 +173,10 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
 
+###  Clustered Tensegrity Systems Considering Pulley Sizes
+(Shuo Ma, Yiqian Chen, Muhao Chen, and Robert E. Skelton)   
 
+<figure><img src="{{ site.url }}/images/rffi/pulley.png" width="800"/></figure>
 
 
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
