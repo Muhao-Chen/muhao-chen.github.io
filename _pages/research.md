@@ -173,6 +173,11 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
 
+###  Statics of Integrated Tensegrity and Origami Systems
+(Shuo Ma, Muhao Chen, Hongying Zhang, and Robert E. Skelton)   
+
+<figure><img src="{{ site.url }}/images/rffi/pulley.png" width="800"/></figure>
+
 ###  Clustered Tensegrity Systems Considering Pulley Sizes
 (Shuo Ma, Yiqian Chen, Muhao Chen, and Robert E. Skelton)   
 
