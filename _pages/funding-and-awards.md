@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="text-align: justify;" markdown="1">
 
-* First Prize in the 11th International Conference on Rehabilitation Medicine and Engineering (CRME) Inovation Competition, Dec. 2022 
+* First Prize in the 11th International Conference on Rehabilitation Medicine and Engineering (CRME) Innovation Competition, Dec. 2022 
 * AERO Travel Grant, Texas A&M Univeristy, College Staion, 2018-2021
 * AERO Graduate Excellence Fellowship Award, Spring & Fall 2020
 * Challenge Finalist 2020 NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, Nov.2020
