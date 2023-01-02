@@ -38,7 +38,7 @@ toc: true
 ## Conference Papers
 <font size=3>
 <ol reversed>
-<li> Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E. A Tensegrity Approach for Lower-Limb Prosthesis. 2022. <u>The 11th International Conference on Rehabilitation Medicine and Engineering</u>. 16– 18 Dec., 2022, in Shanghai, China.</li>
+<li> Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E. A Tensegrity Approach for Lower-Limb Prosthesis. 2022. <u>The 11th International Conference on Rehabilitation Medicine and Engineering</u>. 16 -18 Dec. 2022, in Shanghai, China.</li>
 <li> Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.  </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022. </li>
 <li> Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, August 23, 2021. </li>
