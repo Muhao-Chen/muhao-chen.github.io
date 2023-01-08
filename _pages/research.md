@@ -145,7 +145,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 ### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
 <!-- (with Drs. Yuling Shen and Robert E. Skelton) -->
-(Muhao Chen, Yuling Shen, and Robert E. Skelton)
+(Yuling Shen, Muhao Chen, and Robert E. Skelton)
 
 
 <figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
@@ -199,7 +199,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 ### System Identification (QMC, LS, and ERA) to Tensegrity Systems 
 <!-- (with Drs. Yuling Shen and Robert E. Skelton) -->
-(Muhao Chen and Robert E. Skelton)
+(Muhao Chen, Yuling Shen and Robert E. Skelton)
 
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure>
 
