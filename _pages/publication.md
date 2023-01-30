@@ -55,7 +55,7 @@ toc: true
 
 
 ## Submitted Papers     
-- Journal Articles 
+### Journal Articles 
 <font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li>
@@ -71,7 +71,7 @@ toc: true
 <li> <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 
 
-- Conference Papers
+### Conference Papers
 <font size=3>
 <ol reversed>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June, 2023, in Bucharest, Romania. </li>
