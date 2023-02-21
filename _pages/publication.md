@@ -75,8 +75,8 @@ toc: true
 ### Conference Papers
 <font size=3>
 <ol reversed>
-<li> Ma, S., <strong>Chen, M.</strong>, Zhang, H., and Skelton, R.E., 2023. Statics Analysis of Tensegrity Actuated Origami Structures. <u>Nonlinear Vibration and Nonlinear Dynamics (NVND2023) Conference</u>. May 5-7, 2023, in Tianjin, China. Submitted. </li>
-<li> Ma, S., <strong>Chen, M.</strong>, and Skelton, R.E., 2023. Dynamics of Clustered Tensegrity Structures Considering Friction in the Pulleys. <u> Nonlinear Vibration and Nonlinear Dynamics (NVND2023) Conference</u>.  May 5-7, 2023, in Tianjin, China. Submitted. </li>
+<li> Ma, S., <strong>Chen, M.</strong>, Zhang, H., and Skelton, R.E., 2023. Statics Analysis of Tensegrity Actuated Origami Structures. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>. May 5-7, 2023, in Tianjin, China. Submitted. </li>
+<li> Ma, S., <strong>Chen, M.</strong>, and Skelton, R.E., 2023. Dynamics of Clustered Tensegrity Structures Considering Friction in the Pulleys. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>.  May 5-7, 2023, in Tianjin, China. Submitted. </li>
 <li> Rawad Yazbeck, <strong>Muhao Chen</strong>, Sami El-Borgi, James G. Boyd, Dimitris C. Lagoudas. Adaptive Bandgap Formation in a Periodic Tensegrity Structure. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023. Submitted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June, 2023, in Bucharest, Romania. Submitted. </li>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, in Rome, Italy. Accepted. </li>
