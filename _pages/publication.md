@@ -16,9 +16,9 @@ toc: true
 ## Journal Articles 
 <font size=3>
 <ol reversed>
-<li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. 282, p.115796. </li>
+<li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. 282, p.115796. </li>
 <li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. 127, p.104026 </li>
-<li> Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engineering Structures</u>. 279, p.115569. </li>
+<li> Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engineering Structures</u>. 279, p.115569. </li>
 <li> <strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2023. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. 404, p.115832. </li>  
 <li> Liu, Q.*, <strong>Chen, M.</strong> and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p 115712.  </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p.114618.  </li>
