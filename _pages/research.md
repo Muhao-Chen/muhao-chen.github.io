@@ -218,7 +218,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <td><figure><img src="{{ site.url }}/images/rffi/shelter.gif" width="50"/></figure></td>
 </tr>
 </table>
-shelter
 
 
 ### Minimal Mass Design for Clustered Tensegrity 
