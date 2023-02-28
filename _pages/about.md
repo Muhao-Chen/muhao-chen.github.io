@@ -18,8 +18,6 @@ Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of A
 ## Research Keywords
 Integrating Structure & Control Design, Space Systems, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, and Reinforcement Learning    
 
-
-
 <!--His work mainly involves:</div>
 * Integrating Structure and Control Design for Modeling and Control of Complex Systems
 * Deployable Automated Systems 
