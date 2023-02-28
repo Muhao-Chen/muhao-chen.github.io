@@ -60,7 +60,7 @@ toc: true
 <font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li>
-<li> Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. The pulley-driven clustered tensegrity structure statics and dynamics. <u>Composite Structures</u>. Submitted. </li>
+<li> Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. The pulley-driven clustered tensegrity structure statics and dynamics. <u>International Journal of Solids and Structures</u>. Submitted. </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Zhang., H., and Skelton, R.E., 2023. Statics of integrated origami and tensegrity systems. <u>International Journal of Solids and Structures</u>. Submitted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2022. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. Submitted. </li>
 <li> <strong>Chen, M.</strong>*, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted. </li>
