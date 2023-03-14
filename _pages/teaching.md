@@ -9,6 +9,10 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### Texas A&M University, College Station, TX
+- Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
+    * Mr. Rawad Yazbeck, Ph.D. in Mechanical Engineering (Jan. 2022 - Present)      
+    Research topic: Statics, Dynamics, Wave Propagation Behaviour, and Bandgaps Analysis for Tensergity Structures
+    
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
     Research topic: Design and Analysis of A Robotic Tensergity Dolphin
@@ -17,9 +21,7 @@ toc: true
     * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)      
      Research topic: Design and Control of Tensegrity Morphing Airfoils
 
-- Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
-    * Mr. Rawad Yazbeck, Ph.D. in Mechanical Engineering (Jan. 2022 - Present)      
-    Research topic: Statics, Dynamics, Wave Propagation Behaviour, and Bandgaps Analysis for Tensergity Structures
+
 
 
 ### Huazhong University of Science and Technology   
