@@ -11,7 +11,7 @@ toc: true
 ### Texas A&M University, College Station, TX
 - Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
     * Mr. Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)      
-    Research topic: Statics, Dynamics, Wave Propagation Behaviour, and Bandgaps Analysis for Tensergity Structures
+    Research topic: Wave Propagation and Bandgaps Analysis for Tensergity-Origami Structures
 
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
