@@ -101,7 +101,7 @@ toc: true
 <font size=3>
 <ol reversed>
 <li> Khaled, M., Srinivasan, S., <strong>Chen, M.</strong>, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review. </li>
-<li> Plantz, C.L., <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation. </li>
+<!-- <li> Plantz, C.L., <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation. </li> -->
 <li> <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Morphing Airfoil. U.S. Patent. In preparation. </li>
 <li> <strong>Chen, M.</strong>, Li, X., Gong, C., Xia, L., and Zhou, L. A kind of data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015. </li>
 <li> <strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, March 02, 2016. </li>
