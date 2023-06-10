@@ -77,7 +77,7 @@ toc: true
 ### Conference Papers
 <font size=3>
 <ol reversed>
-<li> Qibang Liu, <strong>Muhao Chen</strong>, Robert E. Skelton,  Philippe Geubelle*. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Accepted. </li>
+<li> Liu，Q., <strong>Chen, M.</strong>, Skelton, R.E., Geubelle, P.*. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Submitted. </li>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. Accepted. </li>
 <li> Rawad Yazbeck, <strong>Muhao Chen</strong>, Sami El-Borgi, James G. Boyd, Dimitris C. Lagoudas. Adaptive Bandgap Formation in a Periodic Tensegrity Structure. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023. Accepted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June, 2023, Bucharest, Romania. Accepted. </li>
