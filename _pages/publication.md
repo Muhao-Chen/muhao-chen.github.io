@@ -17,7 +17,7 @@ toc: true
 <font size=3>
 <ol reversed>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2022. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. Accepted. </li>
-<li> Ma, S., <strong>Chen, M.</strong>*, Zhang., H., and Skelton, R.E., 2023. Statics of integrated origami and tensegrity systems. <u>International Journal of Solids and Structures</u>. p112361. </li> 
+<li> Ma, S., <strong>Chen, M.</strong>*, Zhang., H., and Skelton, R.E., 2023. Statics of integrated origami and tensegrity systems. <u>International Journal of Solids and Structures</u>. 279, p112361. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2023. <u>Mechanical Systems and Signal Processing.</u> 196, p110343. </li>
 <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. 282, p.115796. </li>
 <li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. 127, p.104026. </li>
