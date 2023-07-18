@@ -43,6 +43,7 @@ toc: true
 ## Conference Papers
 <font size=3>
 <ol reversed>
+<li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. </li>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, Rome, Italy. </li>
 <li> Rawad Yazbeck, <strong>Muhao Chen</strong>, Sami El-Borgi, James G. Boyd, Dimitris C. Lagoudas. Adaptive Bandgap Formation in a Periodic Tensegrity Structure. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June, 2023, Bucharest, Romania. </li>
@@ -81,14 +82,14 @@ toc: true
 ### Conference Papers
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Submitted. </li>
-<li> Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E., Geubelle, P.*. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Submitted. </li>
-<li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. Accepted. </li>
-<li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Statics Study of Clustered Tensegrity Structures Considering Pulley Sizes. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, Melbourne, Australia. Accepted. </li>
-<li> Ma, S., <strong>Chen, M.</strong>*, Zhang, H., and Skelton, R.E., 2023. Statics of Integrated Tensegrity and Origami Systems. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, Melbourne, Australia. Accepted. </li>
+<li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Submitted. </li>
+<li> <strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Minnesota, October 10, 2023. Accepted. </li>
+<li> Chen, Y.*, <strong>Chen, M</strong>. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. September 2-5, 2024,  Dresden, Germany. </li>
+<li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Accepted. </li>
+<li> Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Accepted. </li>
+<!-- <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Statics Study of Clustered Tensegrity Structures Considering Pulley Sizes. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, Melbourne, Australia. Accepted. </li> -->
 </ol>
 </font>
-
 
 
 ## Book Preparing
