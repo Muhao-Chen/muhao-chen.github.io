@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Tensegrity Lab"
+# excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +11,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-## Tensegrity Lab
+<!-- ## Tensegrity Lab -->
 Tensegrity Lab seeks to develop new analytical tools to merge structure and control design, integrated with signal processing resource design. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that also allow minimal control energy within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to build tensegrity structures in space autonomously. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at the impact on the moon or mars. Using these techniques, we have performed feasibility studies for truck bumpers for the Ford Motor Company. We have created design methods for high-rise buildings that can survive any earthquake with specified energy bound. These studies employ data-based as well as model-based control methods.    
 
 
