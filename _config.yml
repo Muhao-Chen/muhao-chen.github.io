@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                   : "Muhao Chen"
+title                   : "Tensegrity Lab"
 title_separator          : "-"
 name                     : &name "Muhao Chen"
 description              : &description "A positive and energetic researcher."
