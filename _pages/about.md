@@ -13,7 +13,8 @@ toc: true
 
 
 <!--<div style="text-align: justify">  </div> -->
-Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. I am affiliated with the [Tensegrity Lab](https://bobskelton.github.io/) and [Land Air & Space Robotics (LASR) Laboratory](https://lasr.tamu.edu/) at Texas A&M University, College Station, TX. His research can be found on the [Research](https://muhao-chen.github.io/research/) page. 
+<!-- Muhao Chen, Ph.D., is currently a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. I am affiliated with the [Tensegrity Lab](https://bobskelton.github.io/) and [Land Air & Space Robotics (LASR) Laboratory](https://lasr.tamu.edu/) at Texas A&M University, College Station, TX.  -->
+Muhao Chen, Ph.D., is currently an assistant professor at the Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY. His research can be found on the [Research](https://muhao-chen.github.io/research/) page. 
 
 ## Research Keywords
 Integrating Structure & Control Design, Space Systems, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, and Reinforcement Learning    
@@ -31,9 +32,11 @@ Integrating Structure & Control Design, Space Systems, Robotics & Lightweight Au
 
 
 ## Work Experience
+Department of Mechanical and Aerospace Engineering, Univerisity of Kentucky    
+Assistant Professor, Aug. 2023 - Present
 
 Department of Aerospace Engineering, Texas A&M Univerisity, College Station    
-Postdoctoral Researcher, May 2021 - Present
+Postdoctoral Researcher, May 2021 - July 2023
 
 National Instruments Corporation   
 Assistant Application Engineer & LabVIEW Club President at HUST, Jul. 2013 - Jan. 2015 
