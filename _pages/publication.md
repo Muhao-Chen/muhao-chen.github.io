@@ -90,7 +90,7 @@ toc: true
 </ol>
 </font>
 
-## Book and Book Chapters
+## Books & Chapters
 <font size=3>
 <ol reversed>
 
