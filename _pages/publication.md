@@ -81,7 +81,8 @@ toc: true
 ### Conference Papers
 <font size=3>
 <ol reversed>
-<li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Submitted. </li>
+<li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. The optimal dynamical model for 3D tensegrity morphing airfoils. <u>ASCE Earth & Space 2024</u>. Accepted. </li>
+<li> Shen, Y., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Accepted. </li>
 <li> <strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Minnesota, October 10, 2023. Accepted. </li>
 <li> Chen, Y.*, <strong>Chen, M</strong>. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. September 2-5, 2024,  Dresden, Germany. </li>
 <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Accepted. </li>
