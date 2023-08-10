@@ -8,6 +8,11 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
+### University of Lexington, Lexington, KY
+
+AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)
+
+
 ### Texas A&M University, College Station, TX
 - Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
     * Mr. Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)      
