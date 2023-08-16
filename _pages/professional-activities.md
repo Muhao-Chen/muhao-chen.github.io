@@ -32,7 +32,7 @@ toc_max_header: 1
  
  <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
- 
+
 ## Talks
 * Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, March, 2023
 * Department of Mechanical and Aerospace Enginnering, University of Kentucky, Lexington, KY, Febuary, 2023
