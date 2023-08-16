@@ -34,6 +34,8 @@ toc_max_header: 1
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
  
 ## Talks
+* Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, March, 2023
+* Department of Mechanical and Aerospace Enginnering, University of Kentucky, Lexington, KY, Febuary, 2023
 * The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, 17th Oct, 2022
 * The annual symposium of the International Association for Shell and Spatial Structures (IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), 19th Sept. 2022
 * Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, 9th Sept. 2022
