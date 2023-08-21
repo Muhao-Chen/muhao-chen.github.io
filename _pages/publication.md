@@ -81,6 +81,7 @@ toc: true
 ### Conference Papers
 <font size=3>
 <ol reversed>
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023) — the American Society of Civil Engineers (ASCE) international annual mechanics conference.</u>. August 28-30, 2023, Palermo, Italy. </li>
 <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. Accepted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Accepted. </li>
 <li> <strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Minnesota, October 10, 2023. Accepted. </li>
