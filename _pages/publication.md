@@ -44,7 +44,7 @@ toc: true
 <font size=3>
 <ol reversed>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. </li>
-<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2022. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, Rome, Italy. </li>
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, Rome, Italy. </li>
 <li> Yazbeck, R., <strong>Chen, M.</strong>, El-Borgi, S., Boyd, J., Lagoudas, D. Adaptive Bandgap Formation in a Periodic Tensegrity Structure. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June, 2023, Bucharest, Romania. </li>
 <li> Ma, S., <strong>Chen, M.</strong>, and Skelton, R.E., 2023. Dynamics of Clustered Tensegrity Structures Considering Friction in the Pulleys. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>.  May 5-7, 2023, Tianjin, China. </li>
@@ -81,7 +81,7 @@ toc: true
 ### Conference Papers
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> August 29, 2023, Palermo, Italy. Accepted.</li> 
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> August 29, 2023, Palermo, Italy. Accepted.</li> 
 <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA. Accepted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>.  April 15-18, 2024, Miami, FL, USA. Accepted. </li>
 <li> <strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. October 10, 2023, Minneapolis, MN. Accepted. </li>
