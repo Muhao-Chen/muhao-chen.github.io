@@ -40,7 +40,7 @@ toc: true
 </font>
 
 
-## Conference Papers
+## Conferences
 <font size=3>
 <ol reversed>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. </li>
@@ -78,7 +78,7 @@ toc: true
 <!-- <li> <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 
 
-### Conference Papers
+### Conferences
 <font size=3>
 <ol reversed>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> August 29, 2023, Palermo, Italy. Accepted.</li> 
