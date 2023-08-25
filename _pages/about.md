@@ -30,9 +30,7 @@ Integrating Structure & Control Design, Space Systems, Robotics & Lightweight Au
 <!--for Deep Space Explorations and Air, Land, and Underwater Applications-->
 
 <!--Integrating Structure & Control Design, Robotics, Tensegrity, System Design, Space Habitat Design, Moon & Mar Mining, Dynamical Systems Theory, Model-Based and Data-based Control, Signal Processing, Fluid-based Structures.-->
-
 ---
-
 
 ## Work Experience
 Department of Mechanical and Aerospace Engineering, Univerisity of Kentucky    
