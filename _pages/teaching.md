@@ -9,7 +9,10 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### University of Lexington, Lexington, KY
-- AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, For both Undergraduates & Graduates)
+- Class Teaching 
+    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, For both Undergraduates & Graduates)
+- Advisor 
+    * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
 ### Texas A&M University, College Station, TX
 - Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
