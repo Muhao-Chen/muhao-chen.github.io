@@ -33,10 +33,10 @@ Integrating Structure & Control Design, Space Systems, Robotics & Lightweight Au
 ---
 
 ## Work Experience
-Department of Mechanical and Aerospace Engineering, Univerisity of Kentucky    
+Department of Mechanical and Aerospace Engineering, Univerisity of Kentucky, Lexington, KY    
 Assistant Professor, Aug. 2023 - Present
 
-Department of Aerospace Engineering, Texas A&M Univerisity, College Station    
+Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX    
 Postdoctoral Researcher, May 2021 - July 2023
 
 National Instruments Corporation   
