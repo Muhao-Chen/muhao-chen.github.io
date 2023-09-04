@@ -11,7 +11,8 @@ toc: true
 ### University of Lexington, Lexington, KY
 - Class Teaching 
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, For both Undergraduates & Graduates)
-- Advisor 
+    * AER599 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, For both Undergraduates & Graduates)
+- Faculty Advisor 
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
 ### Texas A&M University, College Station, TX
