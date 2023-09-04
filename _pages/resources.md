@@ -45,6 +45,20 @@ We appreciate your interest in our research. We are open and willing to answer a
 </table>
 
 
+### Origami and Tensegrity Equilibrium and Form-finding Analysis ([OriTsgEFA](https://github.com/Muhao-Chen/Origami_and_Tensegrity_Equilibrium_and_Form-finding_Analysis_OriTsgEFA))
+
+[OriTsgEFA](https://github.com/Muhao-Chen/Origami_and_Tensegrity_Equilibrium_and_Form-finding_Analysis_OriTsgEFA) offers a comprehensive framework for modeling and analyzing both origami and tensegrity paradigms as a unified system. The capabilities of the software extend to various types of static analyses, including (1). Load analysis, accommodating both elastic and plastic deformations in bars and strings. (2). Analysis of both infinitesimal and large-scale deformations. (3). Versatility in handling diverse boundary conditions, such as fixed points or nodes subjected to various types of static loads in any given direction—be it gravitational forces, specified forces, or moments. (4). Stiffness analysis featuring eigenvalue computations and mode shapes. By providing nuanced insights into structural integrity, material properties, and overall performance, this software enhances our capacity to design and deploy large-scale, multifaceted structures. Some demos are shown below. 
+
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/Jansen.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="50px" height="100px"/></figure></td>
+</tr>
+</table>
+
+
 ### Tensegrity Foil Design & Analysis Software (TsgFoil)
 
 TsgFoil is software for foil-related studies, such as airfoils, airplane wings, hydrofoils, fish, manta rays, etc. One can 1). Design tensegrity morphing airfoil and wings based on the [NACA airfoil database](http://airfoiltools.com/search/index?m%5Bgrp%5D=naca4d&m%5Bsort%5D=1). 2). Study structure statics, i.e., prestress, materials, stability, etc. 3). Perform structure and fluid dynamics. 4) Do nonlinear, linear, model-based, and data-based morphing control. 5). Economic sensor and actuator selection. Some of the demos are shown below. 
