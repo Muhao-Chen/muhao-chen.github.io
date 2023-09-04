@@ -37,10 +37,11 @@ We appreciate your interest in our research. We are open and willing to answer a
 
 <table>
 <tr>
-<td><figure><img src="{{ site.url }}/images/rffi/cable_dome.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/net.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/Jansen.gif" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/ball.gif" width="50px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/01_origami_finger.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/02_A_Mirua.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/03_origami_kresling.gif" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/04_shelter.gif" width="50px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/05_Kresling_with_string.gif" width="50px" height="100px"/></figure></td>
 </tr>
 </table>
 
