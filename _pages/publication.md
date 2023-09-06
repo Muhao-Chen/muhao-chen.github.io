@@ -16,6 +16,7 @@ toc: true
 ## Journal Articles 
 <font size=3>
 <ol reversed>
+<li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. Accepted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2022. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. 291,p116430. </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Zhang., H., and Skelton, R.E., 2023. Statics of integrated origami and tensegrity systems. <u>International Journal of Solids and Structures</u>. 279, p112361. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2023. <u>Mechanical Systems and Signal Processing.</u> 196, p110343. </li>
@@ -68,7 +69,6 @@ toc: true
 ### Journal Articles 
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. Submitted. </li>
 <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.∗, Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. </li>
 <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Computers & Structures</u>. Submitted. </li>
