@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;" markdown="1">
-
+* "Clustered cable-actuation strategies of a family of V-Expander tensegrity cells", received Group of Multiscale Mechanics and Nanostructures (GAMeN) Best Presentation Award, Engineering Mechanics Institute International Conference 2023 (EMI IC 2023), Aug. 2023
 * First Prize in the 11th International Conference on Rehabilitation Medicine and Engineering (CRME) Innovation Competition, Dec. 2022 
 * AERO Travel Grant, Texas A&M Univeristy, College Staion, 2018-2021
 * AERO Graduate Excellence Fellowship Award, Spring & Fall 2020
