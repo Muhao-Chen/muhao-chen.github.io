@@ -15,6 +15,10 @@ toc_max_header: 1
 
 ## News, Demonstrations, and Journalist Interviews
 
+- [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/) 
+    - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures
+  (Event participants: Idris Hussain, Dr. Muhao Chen, David Capps, Dr. Manoranjan Majji)
+
 - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/)
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), 25th Jan. 2021    
     (Event participants: Profs. Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Drs. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Mr. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh,  Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez)
