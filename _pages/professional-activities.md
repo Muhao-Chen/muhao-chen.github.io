@@ -15,7 +15,7 @@ toc_max_header: 1
 
 ## News, Demonstrations, and Journalist Interviews
 
-- [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/) 
+- [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/), IROS, Detroit, Michigan, October 5th, 2023
     - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures
   (Event participants: Idris Hussain, Dr. Muhao Chen, David Capps, Dr. Manoranjan Majji)
 
