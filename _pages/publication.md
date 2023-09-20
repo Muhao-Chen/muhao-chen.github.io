@@ -16,8 +16,8 @@ toc: true
 ## Journal Articles 
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. Accepted. </li>
-<li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2022. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. 291,p116430. </li>
+<li> <strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. 296, p116868. </li>
+<li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2022. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. 291, p116430. </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Zhang., H., and Skelton, R.E., 2023. Statics of integrated origami and tensegrity systems. <u>International Journal of Solids and Structures</u>. 279, p112361. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Q-Markov Covariance Equivalent Realizations for Unstable and Marginally Stable Systems. 2023. <u>Mechanical Systems and Signal Processing.</u> 196, p110343. </li>
 <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. 282, p.115796. </li>
