@@ -66,7 +66,7 @@ toc_max_header: 1
 
 
 ## Selected Services
-* Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), Special Issue: Biomimetic Soft Robotics: Actuation, Sensing and Integration, 2023 -Present
+* Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration, 2023 -Present
 * Editorial Committee, ASCE Texas Section ([TexASCE](https://www.texasce.org/)) 2021 - present
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)) 2021 - 2022
 * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)) 2014 - 2015
