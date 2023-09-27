@@ -9,6 +9,11 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### University of Lexington, Lexington, KY
+- Students Mentoring
+    * Mr. Ryan A. Kodura, Structural/Civil Engineering and minor in Mathematics
+    * Mr. Junheng Yao, Mechanical Enginnering
+    * Mr. Siddharth Sundar, Engineering Internship Program at Lafayette High School
+
 - Class Teaching 
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, For both Undergraduates & Graduates)
     * AER599 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, For both Undergraduates & Graduates)
