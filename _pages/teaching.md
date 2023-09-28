@@ -10,7 +10,7 @@ toc: true
 
 ### University of Lexington, Lexington, KY
 - Students Mentoring
-    * Mr. Ryan A. Kodura, Structural/Civil Engineering and minor in Mathematics
+    * Mr. Ryan A. Kodura, Structural/Civil Engineering and Mathematics (minor)
     * Mr. Junheng Yao, Mechanical Enginnering
     * Mr. Siddharth Sundar, Engineering Internship Program at Lafayette High School
 
