@@ -40,7 +40,7 @@ toc_max_header: 1
 ## Talks
 * The 2023 KAS (Kentucky Academy of Science) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
 * The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN. Oct. 10, 2023 
-* The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/), Detroit, Michigan, Oct. 5, 2023
+* The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, Michigan, Oct. 5, 2023
 * Invited by Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, March, 2023
 * Invited by Sean C. C. Bailey, Department of Mechanical and Aerospace Enginnering, University of Kentucky, Lexington, KY, Febuary, 2023
 * The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, 17th Oct, 2022
