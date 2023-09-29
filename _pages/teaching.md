@@ -10,7 +10,7 @@ toc: true
 
 ### University of Lexington, Lexington, KY
 
-- Hiring
+- Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu. 
 
 - Students Mentoring
