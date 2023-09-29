@@ -10,7 +10,8 @@ toc: true
 
 ### University of Lexington, Lexington, KY
 
-- Hiring: If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu. 
+- Hiring
+    * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu. 
 
 - Students Mentoring
     * Mr. Ryan A. Kodura, Structural/Civil Engineering and Mathematics (minor)
