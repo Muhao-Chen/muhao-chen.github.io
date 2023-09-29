@@ -9,6 +9,9 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### University of Lexington, Lexington, KY
+
+- Hiring: If you're interested, please email me your CV and transcript. Thanks! 
+
 - Students Mentoring
     * Mr. Ryan A. Kodura, Structural/Civil Engineering and Mathematics (minor)
     * Mr. Junheng Yao, Mechanical Enginnering
