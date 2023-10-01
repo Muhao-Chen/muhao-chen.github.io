@@ -44,6 +44,7 @@ toc: true
 ## Conferences
 <font size=3>
 <ol reversed>
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering.</u> Nov. 30 - Dec. 1 2023, Gdansk, Poland. </li> 
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> August 29, 2023, Palermo, Italy. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. </li>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS 2023 - Italian Workshop on Shell and Spatial Structures.</u> Turin, Jun. 26 - 28,  2023. </li> 
