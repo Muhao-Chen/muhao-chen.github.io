@@ -20,7 +20,7 @@ toc: true
 
 - Class Teaching 
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, For both Undergraduates & Graduates)
-    * AER599 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, For both Undergraduates & Graduates)
+    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, Graduates)
 - Faculty Advisor 
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
