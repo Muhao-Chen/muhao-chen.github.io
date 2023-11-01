@@ -39,13 +39,13 @@ toc: true
 
 
 ### Huazhong University of Science and Technology   
-- Class Advisor, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
+- Class Advisor, B.S. Students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
     * Awarded Excellent Class and Individual
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012 
     * Awarded National Excellent LabView Club and Individual
 
 ### Wuhan Foreign Languages School (Public High School)
-- Advisor of the FRC Robotics Team 
+- Advisor of the FIRST Robotics Competition ([FRC](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)) Team 
     * Led the School Team to the National Championship
  
 
