@@ -14,11 +14,11 @@ toc: true
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 
 - Students Mentoring
-    * Ryan A. Kodura, Structural/Civil Engineering and Mathematics (minor)
+    * Ryan A. Kodura, Structural/Civil Engineering and Mathematics (Minor)
     * Junheng Yao, Mechanical Engineering
     * Siddharth Sundar, Engineering Internship Program at Lafayette High School
 
-- Class Teaching 
+- Class Teaching
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, Undergraduates & Graduates)
     * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, Graduates)
 - Faculty Advisor
