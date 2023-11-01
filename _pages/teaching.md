@@ -14,9 +14,9 @@ toc: true
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu. 
 
 - Students Mentoring
-    * Mr. Ryan A. Kodura, Structural/Civil Engineering and Mathematics (minor)
-    * Mr. Junheng Yao, Mechanical Enginnering
-    * Mr. Siddharth Sundar, Engineering Internship Program at Lafayette High School
+    * Ryan A. Kodura, Structural/Civil Engineering and Mathematics (minor)
+    * Junheng Yao, Mechanical Engineering
+    * Siddharth Sundar, Engineering Internship Program at Lafayette High School
 
 - Class Teaching 
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, For both Undergraduates & Graduates)
@@ -25,17 +25,17 @@ toc: true
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
 ### Texas A&M University, College Station, TX
-- Students Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
-    * Mr. Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)      
-    Research topic: Wave Propagation and Bandgaps Analysis to Tensergity Structures
+- Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
+    * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present) 
+    Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure
 
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
-    Research topic: Design and Analysis of A Robotic Tensergity Dolphin
+    Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin
     * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)     
-    Research topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures 
+    Research Topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures 
     * Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)      
-     Research topic: Experiemnt Design of A Tensegrity Morphing Airfoil
+     Research Topic: Experiment Design of A Tensegrity Morphing Airfoil
 
 
 ### Huazhong University of Science and Technology   
