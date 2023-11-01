@@ -81,6 +81,12 @@ Integrating Structure & Control Design, Robotics & Lightweight Automated Systems
 All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures. Here are a few examples. 
 
 <!-- Black and red lines are bars and strings.  -->
+### Growable Space Habitat with 1G Artificial Gravity in Deep Space
+<!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
+(Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
+
+<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
+
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 <!-- (with Dr. Robert E. Skelton) -->
@@ -186,13 +192,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (Shuo Ma, Yiqian Chen, Muhao Chen, and Robert E. Skelton)   
 
 <figure><img src="{{ site.url }}/images/rffi/pulley.png" width="800"/></figure>
-
-
-### Growable Space Habitat with 1G Artificial Gravity in Deep Space
-<!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
-(Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
-
-<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
 ### Deployable Tensegrity Roof with Covers

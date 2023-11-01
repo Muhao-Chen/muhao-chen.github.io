@@ -30,25 +30,23 @@ toc: true
     Research topic: Wave Propagation and Bandgaps Analysis to Tensergity Structures
 
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
-    * Mr. Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
+    * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)     
     Research topic: Design and Analysis of A Robotic Tensergity Dolphin
-    * Mr. Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)     
-    Research topic: Dynamics, Control, and Animation of Deployable Tensegrity Structures 
-    * Mr. Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)      
-     Research topic: Design and Control of Tensegrity Morphing Airfoils
+    * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)     
+    Research topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures 
+    * Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)      
+     Research topic: Experiemnt Design of A Tensegrity Morphing Airfoil
 
 
 ### Huazhong University of Science and Technology   
 - Class Advisor, B.S. students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
-    * Awarded excellent class and individual
+    * Awarded Excellent Class and Individual
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012 
-    * Awarded national excellent LabView Club and individual
-
+    * Awarded National Excellent LabView Club and Individual
 
 ### Wuhan Foreign Languages School (Public High School)
 - Advisor of the FRC Robotics Team 
-    - Mentored mechanical design, DAQ, and control
-    - The school team won the national championship
+    * Led the School Team to the National Championship
  
 
 </div>
