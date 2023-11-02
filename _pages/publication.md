@@ -56,7 +56,7 @@ toc: true
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, Aug. 23, 2021.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>. International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.</li>
 <li> <strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. </li>
-<!-- <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>.</li> -->
+<li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>.</li>
 <li>Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. (p. 4193).</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Nonlinear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. 1st Oct. 2022, in Cetara (Amalfi Coast) - Salerno, Italy.</li>
@@ -68,16 +68,17 @@ toc: true
 ### Journal Articles 
 <font size=3>
 <ol reversed>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. Submitted.</li>
-<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. Submitted.</li>
+<!-- <li> <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.∗, Hermanson, J.C., Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
+<!-- <li>Bai, M., <strong>Chen, M</strong>*, and Skelton, R.E., 2023. Lightweight Design of Tensegrity Michell Truss subject to Cantilever Loads. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.<\li> -->
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. Submitted.</li>
+<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. Submitted.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Computers & Structures</u>. Submitted.</li>
 <li><strong>Chen, M.</strong>*, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
 <li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2022. <u>Acta Astronautica</u>.</li>
 </ol>
 </font>
-<!-- <li> <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 
 
 ### Conferences
@@ -89,7 +90,6 @@ toc: true
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Oct. 10, 2023, Minneapolis, MN. Accepted.</li>
 <!-- <li> Chen, Y., <strong>Chen, M</strong>, Xi Xia, James C. Hermanson, Fei Qi. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
-<!-- <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Statics Study of Clustered Tensegrity Structures Considering Pulley Sizes. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, Melbourne, Australia. Accepted. </li> -->
 </ol>
 </font>
 
