@@ -20,7 +20,7 @@ toc_max_header: 1
 
 - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/)
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), Jan. 25, 2021
-      * Event Participants: Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh, Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez
+      * Event Participants: Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh, Uthej Vattipalli, Thomas J. Lopez. Jessica Ezemba, Emily Kincaid, and Teresa Valdez
    
 - [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat)
     - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), 21st Sept. 2020
@@ -28,11 +28,11 @@ toc_max_header: 1
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), 5th Feb. 2019
     - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), 17th May 2018
       * Event participants: Robert E. Skelton, Manoranjan Majji. Muhao Chen, Raman Goyal, Joel Sercel, Jane Shevtsov, and Anthony Longman
-    
+
 - [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/)
     - Model Demonstration, NIAC Symposium, Huntsville, AL, Sept. 24 2019     
       * Event participants: Joel Sercel, Manoranjan Majji, Muhao Chen, Ali H. Khowaja
- 
+
  <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
 
@@ -57,12 +57,10 @@ toc_max_header: 1
 * International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). Porto, Portugal. Sept. 3, 2020   
 * AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018
 
-
 ## Poster
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, Sept. 23 2021
 * TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, Apr. 10, 2021
 * TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, Apr. 6, 2019
-
 
 ## Selected Services
 * Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration, 2023 -Present
@@ -70,9 +68,7 @@ toc_max_header: 1
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)) 2021 - 2022
 * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)) 2014 - 2015
 
-
 ## Referee
-
 * Journal: ASCE Journal of Structural Engineering, European Journal of Mechanics/A Solids, Engineering Structures, Journal of Engineering Mechanics, CRC Press, Acta Astronautica, Journal of Mechanical Engineering Science, IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics, Journal of Mechanisms and Robotics: ASME, Aerospace Science and Technology, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, Aerospace, International Journal of Numerical Methods for Heat and Fluid Flow, Journal of Drainage and Irrigation Machinery Engineering, International Journal of Physical Sciences, ACM Transactions on Knowledge Discovery from Data, Wireless Communications and Mobile Computing, Academy Proceedings in Engineering Sciences, Journal of Engineering Computations, Journal of Data Intelligence, Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques
 
 * Conference: International Symposium on Robotics Research (ISRR), IEEE International Conference on Robotics and Automation (ICRA), American Control Conference (ACC), AIAA SciTech Forum and Exposition, AIAA ASCEND, ASCE Earth & Space Conference, IEEE International Conference on Robotics and Biomimetics (ROBIO)
