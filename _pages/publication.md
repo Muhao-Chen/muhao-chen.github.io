@@ -44,25 +44,25 @@ toc: true
 ## Conferences
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> August 29, 2023, Palermo, Italy. </li> 
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> Aug. 29, 2023, Palermo, Italy. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan. </li>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS 2023 - Italian Workshop on Shell and Spatial Structures.</u> Turin, Jun. 26 - 28,  2023. </li> 
-<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensergity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, Rome, Italy. </li>
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensegrity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, Rome, Italy. </li>
 <li> Yazbeck, R., Fernandes, R., <strong>Chen, M.</strong>, El-Borgi, S., Boyd, J., Lagoudas, D. Adaptive Bandgap Formation in a Periodic Tensegrity Structure. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023. </li>
-<li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June, 2023, Bucharest, Romania. </li>
+<li> Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June 2023, Bucharest, Romania. </li>
 <li> Ma, S., <strong>Chen, M.</strong>, and Skelton, R.E., 2023. Dynamics of Clustered Tensegrity Structures Considering Friction in the Pulleys. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>.  May 5-7, 2023, Tianjin, China. </li>
 <li> Ma, S., <strong>Chen, M.</strong>, Zhang, H., and Skelton, R.E., 2023. Statics Analysis of Tensegrity Actuated Origami Structures. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>. May 5-7, 2023, Tianjin, China. </li>
 <li> Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E. A Tensegrity Approach for Lower-Limb Prosthesis. 2022. <u>The 11th International Conference on Rehabilitation Medicine and Engineering</u>. 16 -18 Dec. 2022, in Shanghai, China.</li>
 <li> Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.  </li>
 <li> Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022. </li>
-<li> Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, August 23, 2021. </li>
+<li> Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, Aug. 23, 2021. </li>
 <li> Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>. International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.</li>
 <li> <strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. </li>
 <li> <strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. </li>
 <li> Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. (p. 4193). </li>
 <li> <strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. </li>
 <li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Nonlinear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. 1st Oct. 2022, in Cetara (Amalfi Coast) - Salerno, Italy.</li>
-<li> <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. October 17, 2022, College Station, Texas, USA. </li>
+<li> <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Oct. 17, 2022, College Station, Texas, USA. </li>
 </ol>
 </font>
 
@@ -85,13 +85,13 @@ toc: true
 ### Conferences
 <font size=3>
 <ol reversed>
-<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering.</u> Nov. 30 - Dec. 1 2023, Gdansk, Poland. Accepted.</li> 
+<li> <strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering.</u> Nov. 30 - Dec. 1, 2023, Gdansk, Poland. Accepted.</li> 
 <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA. Accepted. </li>
 <li> Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>.  April 15-18, 2024, Miami, FL, USA. Accepted. </li>
-<li> <strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. October 10, 2023, Minneapolis, MN. Accepted. </li>
+<li> <strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Oct. 10, 2023, Minneapolis, MN. Accepted. </li>
 <!-- <li> Chen, Y., <strong>Chen, M</strong>, Xi Xia, James C. Hermanson, Fei Qi. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li> -->
-<!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Accepted. </li> -->
-<li> Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. October 29 – November 2, 2023. Accepted. </li>
+<!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
+<li> Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li>
 <!-- <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Statics Study of Clustered Tensegrity Structures Considering Pulley Sizes. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, Melbourne, Australia. Accepted. </li> -->
 </ol>
 </font>
@@ -113,12 +113,11 @@ toc: true
 <li> Khaled, M., Srinivasan, S., <strong>Chen, M.</strong>, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review. </li>
 <!-- <li> Plantz, C.L., <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation. </li> -->
 <li> <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Morphing Airfoil. U.S. Patent. In preparation. </li>
-<li> <strong>Chen, M.</strong>, Li, X., Gong, C., Xia, L., and Zhou, L. A kind of data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015. </li>
-<li> <strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, March 02, 2016. </li>
-<li> <strong>Chen, M.</strong>, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, August 26, 2015. </li>
+<li> <strong>Chen, M.</strong>, Li, X., Gong, C., Xia, L., and Zhou, L. A data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015. </li>
+<li> <strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, Mar. 2, 2016. </li>
+<li> <strong>Chen, M.</strong>, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, Aug. 26, 2015. </li>
 </ol>
 </font>
-
 
 ## Thesis and Dissertation
 <font size=3>
