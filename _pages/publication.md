@@ -38,10 +38,10 @@ toc: true
 </ol>
 </font>
 
-
 ## Conferences
 <font size=3>
 <ol reversed>
+<li>Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference (EMI IC).</u> Aug. 29, 2023, Palermo, Italy.</li> 
 <li>Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E, 2023. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS - Italian Workshop on Shell and Spatial Structures.</u> Turin, Jun. 26 - 28, 2023.</li> 
@@ -89,7 +89,6 @@ toc: true
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Oct. 10, 2023, Minneapolis, MN. Accepted.</li>
 <!-- <li> Chen, Y., <strong>Chen, M</strong>, Xi Xia, James C. Hermanson, Fei Qi. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
-<li>Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted.</li>
 <!-- <li> Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Statics Study of Clustered Tensegrity Structures Considering Pulley Sizes. <u>The International Association for Shell and Spatial Structures (IASS) symposia</u>. July 10-14, 2023, Melbourne, Australia. Accepted. </li> -->
 </ol>
 </font>
