@@ -42,17 +42,17 @@ toc: true
 ## Conferences
 <font size=3>
 <ol reversed>
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference 2023 (EMI IC 2023).</u> Aug. 29, 2023, Palermo, Italy.</li> 
-<li>Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan.</li>
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS 2023 - Italian Workshop on Shell and Spatial Structures.</u> Turin, Jun. 26 - 28, 2023.</li> 
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensegrity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON 2023)</u>. June 18 - 22, 2023, Rome, Italy.</li>
-<li>Yazbeck, R., Fernandes, R., <strong>Chen, M.</strong>, El-Borgi, S., Boyd, J., Lagoudas, D. Adaptive Bandgap Formation in a Periodic Tensegrity Structure. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June 2023, Bucharest, Romania.</li>
-<li>Ma, S., <strong>Chen, M.</strong>, and Skelton, R.E., 2023. Dynamics of Clustered Tensegrity Structures Considering Friction in the Pulleys. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>.  May 5-7, 2023, Tianjin, China.</li>
-<li>Ma, S., <strong>Chen, M.</strong>, Zhang, H., and Skelton, R.E., 2023. Statics Analysis of Tensegrity Actuated Origami Structures. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND2023)</u>. May 5-7, 2023, Tianjin, China.</li>
-<li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E. A Tensegrity Approach for Lower-Limb Prosthesis. 2022. <u>The 11th International Conference on Rehabilitation Medicine and Engineering</u>. 16 -18 Dec. 2022, in Shanghai, China.</li>
-<li>Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.</li>
-<li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS 2022 Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.</li>
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference (EMI IC).</u> Aug. 29, 2023, Palermo, Italy.</li> 
+<li>Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E, 2023. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan.</li>
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS - Italian Workshop on Shell and Spatial Structures.</u> Turin, Jun. 26 - 28, 2023.</li> 
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensegrity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON)</u>. June 18 - 22, 2023, Rome, Italy.</li>
+<li>Yazbeck, R., Fernandes, R., <strong>Chen, M.</strong>, El-Borgi, S., Boyd, J., Lagoudas, D. Adaptive Bandgap Formation in a Periodic Tensegrity Structure, 2023. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. 13 - 16 June 2023, Bucharest, Romania.</li>
+<li>Ma, S., <strong>Chen, M.</strong>, and Skelton, R.E., 2023. Dynamics of Clustered Tensegrity Structures Considering Friction in the Pulleys. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND)</u>. May 5-7, 2023, Tianjin, China.</li>
+<li>Ma, S., <strong>Chen, M.</strong>, Zhang, H., and Skelton, R.E., 2023. Statics Analysis of Tensegrity Actuated Origami Structures. <u>The 19th Nonlinear Vibration and 16th Nonlinear Dynamics and Motion Stability Conference (NVND)</u>. May 5-7, 2023, Tianjin, China.</li>
+<li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E. A Tensegrity Approach for Lower-Limb Prosthesis. 2022. <u>The 11th International Conference on Rehabilitation Medicine and Engineering</u>. 16 -18 Dec. 2022, Shanghai, China.</li>
+<li>Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.</li>
+<li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS Annual Symposium Affiliated with 13th APCS</u>. September 19-22, 2022.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, Aug. 23, 2021.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>. International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194.</li>
 <li> <strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. </li>
@@ -60,7 +60,7 @@ toc: true
 <li>Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. (p. 4193).</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2022. Dynamics and Nonlinear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. 1st Oct. 2022, in Cetara (Amalfi Coast) - Salerno, Italy.</li>
-<li><strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The 2022 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Oct. 17, 2022, College Station, Texas, USA.</li>
+<li><strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2022. Mass Efficient Double-Helix Tensegrity. <u>The Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Oct. 17, 2022, College Station, Texas, USA.</li>
 </ol>
 </font>
 
@@ -68,8 +68,8 @@ toc: true
 ### Journal Articles 
 <font size=3>
 <ol reversed>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. Submitted.</li>
-<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. Submitted.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. Submitted.</li>
+<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. Submitted.</li>
 <!-- <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.∗, Hermanson, J.C., Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Computers & Structures</u>. Submitted.</li>
@@ -98,8 +98,8 @@ toc: true
 <font size=3>
 <ol reversed>
 
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>Springer.</u> Accepted.</li> 
-<li><strong>Chen, M.</strong>, Chen, B. and Skelton, R.E., 2023. Tensegrity Structures and Its Engineering Application. <u>Higher Education Press.</u> In preparation.</li>
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. vol 437. <u>Springer.</u></li> 
+<li><strong>Chen, M.</strong>, Chen, B. and Skelton, R.E., 2024. Tensegrity Structures and Engineering Application. <u>Higher Education Press.</u> In preparation.</li>
 <li><strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2024. Tensegrity Systems: Analysis and Synthesis. <u>New York: Springer.</u> In preparation. (A textbook for undergraduate and graduate students)</li>
 </ol>
 </font>
@@ -118,9 +118,9 @@ toc: true
 
 ## Thesis and Dissertation
 <font size=3>
-<li> [Ph.D.] <strong>Chen, M.</strong>. Soft Robotics by Integrating Structure, Fluids, Control, and Signal Processing Using the Tensegrity Paradigm. </li>  
-<li> [M.S.] <strong>Chen, M.</strong>. Development of Noise and Vibration Signal Processing System for Ship Tests. </li>
-<li> [B.S.] <strong>Chen, M.</strong>. Study on the Performance of Submarine Emergency Surfacing. </li>
+<li>[Ph.D.] <strong>Chen, M.</strong>. Soft Robotics by Integrating Structure, Control, and Signal Processing Using the Tensegrity Paradigm.</li>
+<li>[M.S.] <strong>Chen, M.</strong>. Development of Noise and Vibration Signal Processing System for Ship Tests.</li>
+<li>[B.S.] <strong>Chen, M.</strong>. Study on the Performance of Submarine Emergency Surfacing.</li>
 </font>
 
 </div>
