@@ -25,13 +25,13 @@ toc: true
 <li>Liu, Q.*, <strong>Chen, M.</strong> and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p 115712.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p.114618.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. 7(74), 3390.</li>
-<li>Khaled, M.S., <strong>Chen, M.</strong>, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. p.111785.</li>
- <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>, 264, p.114391.</li>
+<li>Khaled, M.S., <strong>Chen, M.</strong>, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. 252, p.111785.</li>
+ <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. 264, p.114391.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p.100692.</li>
-<li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>. p.114838.</li>
+<li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>. 280, p.114838.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. <u>Aerospace Science and Technology</u>. 106, p.106147.</li>
-<li><strong>Chen, M.</strong>* and Skelton, R.E., 2020. A general approach to minimal mass tensegrity. <u>Composite Structures</u>. p.112454.</li>
-<li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2020. Design of a new tensegrity cantilever structure. <u>Composite Structures</u>. p.112188.</li>
+<li><strong>Chen, M.</strong>* and Skelton, R.E., 2020. A general approach to minimal mass tensegrity. <u>Composite Structures</u>. 248, p.112454.</li>
+<li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2020. Design of a new tensegrity cantilever structure. <u>Composite Structures</u>. 243, p.112188.</li>
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE Robotics and Automation Letters</u>. 5(2), pp.1239-1246.</li>
 <li><strong>Chen, M.</strong>*, Liu, J. and Skelton, R.E., 2020. Design and control of tensegrity morphing airfoils. <u>Mechanics Research Communications</u>. 103, p.103480.</li>
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613.</li>
@@ -103,7 +103,6 @@ toc: true
 <li><strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2024. Tensegrity Systems: Analysis and Synthesis. <u>New York: Springer.</u> In preparation. (A textbook for undergraduate and graduate students)</li>
 </ol>
 </font>
-
 
 ## Patents
 <font size=3>
