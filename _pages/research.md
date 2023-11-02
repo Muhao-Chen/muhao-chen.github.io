@@ -44,7 +44,7 @@ Integrating Structure & Control Design, Robotics & Lightweight Automated Systems
 
 
 ### Tensegrity and Origami Systems
-* Tensergity and Origami solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
+* Tensegrity and Origami solutions to the five fundamental problems in engineering mechanics: compression, tension, torsion, cantilever, simply supported
 * Statics: Form-finding algorithms, structure topology optimization, minimal mass design subject to local and global failures
 * Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, origami, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
 * Applications: Wings and hydrofoils, space habitats, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
@@ -57,7 +57,7 @@ Integrating Structure & Control Design, Robotics & Lightweight Automated Systems
 * Applications: rescue shelters, fish and hydrofoils, etc.
 
 ### Space Systems
-* Lightweight and deployable structure solutions for the deep space explorations    
+* Lightweight and deployable structure solutions for deep space explorations    
 * Applications: space habitat design, Moon & Mars towers, drilling rigs, antennas, etc.
 
 -->
@@ -208,7 +208,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 
-### Low-Cost, Lightweight, Deployable Shelter subject to Extreme Environments
+### Low-cost, Lightweight, Deployable Shelter subject to Extreme Environments
 <!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
 
@@ -308,7 +308,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 <figure><img src="{{ site.url }}/images/rffi/dome.png" width="800"/></figure>
 
-<!--We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.-->
+<!--We are always keen to apply our knowledge to practical applications. Hence, we have created several demonstration videos to present our applied research.-->
 
 
 </div>
