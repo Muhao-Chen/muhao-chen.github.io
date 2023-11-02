@@ -22,14 +22,14 @@ toc_max_header: 1
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), Jan. 25, 2021
       * Event Participants: Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh, Uthej Vattipalli, Thomas J. Lopez. Ms. Jessica Ezemba, Emily Kincaid, and Teresa Valdez
    
-- [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat)      
-    - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), 21st Sept. 2020      
-    - [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), 26th Jul. 2019 
-    - [TAMU Engineering, News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), 5th Feb. 2019 
-    - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), 17th May 2018   
+- [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat)
+    - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), 21st Sept. 2020
+    - [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), 26th Jul. 2019
+    - [TAMU Engineering, News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), 5th Feb. 2019
+    - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), 17th May 2018
       * Event participants: Robert E. Skelton, Manoranjan Majji. Muhao Chen, Raman Goyal, Joel Sercel, Jane Shevtsov, and Anthony Longman
     
-- [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/)      
+- [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/)
     - Model Demonstration, NIAC Symposium, Huntsville, AL, Sept. 24 2019     
       * Event participants: Joel Sercel, Manoranjan Majji, Muhao Chen, Ali H. Khowaja
  
@@ -38,7 +38,7 @@ toc_max_header: 1
 
 ## Talks
 * The 2023 KAS (Kentucky Academy of Science) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
-* The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023 
+* The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023
 * The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023
 * Invited by Prof. Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023
 * Invited by Prof. Sean C. C. Bailey, Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
