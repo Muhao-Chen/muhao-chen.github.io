@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;" markdown="1">
-* Best Presentation Award, Multiscale Mechanics and Nanostructures, EMI-IC, Aug. 2023
+* Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, Aug. 2023
 * First Prize, 11th International Conference on Rehabilitation Medicine and Engineering (CRME), Dec. 2022
 * AERO Travel Grant, Texas A&M University, College Station, 2018-2021
 * AERO Graduate Excellence Fellowship Award, 2020
