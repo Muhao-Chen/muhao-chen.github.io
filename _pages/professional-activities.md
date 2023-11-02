@@ -37,7 +37,7 @@ toc_max_header: 1
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
 
 ## Talks
-* The 2023 KAS (Kentucky Academy of Science) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
+* The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
 * The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023
 * The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023
 * Invited by Prof. Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023
@@ -59,7 +59,7 @@ toc_max_header: 1
 
 ## Poster
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, Sept. 23 2021
-* TAMU Physics & Engineering Festival. Tensegrity Systems Research of the Research Snapshots of Land, Air, and Space Robotics Laboratory. College Station, TX, Apr. 10, 2021
+* TAMU Physics & Engineering Festival. Tensegrity System Research Snapshots at Land, Air, and Space Robotics Laboratory. College Station, TX, Apr. 10, 2021
 * TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, Apr. 6, 2019
 
 ## Selected Services
