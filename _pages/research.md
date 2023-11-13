@@ -29,7 +29,7 @@ We would also like to develop and offer more and more software and tools to help
 <!-- ## Research Keywords
 Integrating Structure and Control Design, Robotics and lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics and Control Theory
     -->
-
+<!--
 ## Research Interests
 
 -----
@@ -48,6 +48,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 * Statics: Form-finding algorithms, structure topology optimization, minimal mass design subject to local and global failures
 * Dynamics: The dynamics of the pure bar-string network, clustered tensegrity, origami, and tensegrity with arbitrary objects (non-rigid and rigid bodies)
 * Applications: Wings and hydrofoils, space habitats, lunar towers, cable domes, robotic dolphins, robotic grippers, etc.
+
 
 ### Dynamical and Control Theory
 * Data-driven control, path planning, finite bit computing of high-dimensional (FEM/FSI) systems
@@ -246,7 +247,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
 ### Deployable Clustered Cable Nets
-<!-- (with Kai Lu, Xinzhu Zhou, Drs. Shuo Ma, and Robert E. Skelton) -->
 (Shuo Ma, Kai Lu, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
