@@ -18,7 +18,7 @@ We would also like to develop and offer more and more software and tools to help
 ## Research Interests
  * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
  * Lightweight Automated System (i.e., by Tensegrity, Origami) for Space Applications
- * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor & Actuator Selections
+ * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor and actuator Selections
  * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems
 
 
@@ -27,9 +27,9 @@ We would also like to develop and offer more and more software and tools to help
 <figure><img src="{{ site.url }}/images/rffi/Space.png" width="800"/></figure>
 
 <!-- ## Research Keywords
-Integrating Structure & Control Design, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, Reinforcement Learning     -->
+Integrating Structure and Control Design, Robotics and lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics and Control Theory
+    -->
 
-<!--
 ## Research Interests
 
 -----
