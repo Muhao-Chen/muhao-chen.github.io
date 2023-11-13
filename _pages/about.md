@@ -12,7 +12,7 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 <!-- ## Tensegrity Lab -->
-Tensegrity Lab seeks to develop new analytical tools to merge structure and control design, integrated with signal processing resource design. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that also allow minimal control energy within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to build tensegrity structures in space autonomously. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at the impact on the moon or mars. These studies employ data-based as well as model-based control methods.    
+Tensegrity Lab seeks to develop new analytical tools to merge structure and control design, integrated with signal processing resource design. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that also allow minimal control energy within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to build tensegrity structures in space autonomously. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at the impact on the moon or Mars. These studies employ data-based as well as model-based control methods.    
 
 If you're keen on tensegrity and require assistance, please reach out to me directly. I'm willing to offer guidance and support within my capabilities.
 
@@ -21,7 +21,7 @@ If you're keen on tensegrity and require assistance, please reach out to me dire
 <!-- Muhao Chen, Ph.D., is currently an assistant professor at the Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY. His research can be found on the [Research](https://muhao-chen.github.io/research/) page.  -->
 
 ## Research Keywords
-Integrating Structure & Control Design, Space Systems, Robotics & Lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics & Control Theory, and Reinforcement Learning    
+Integrating Structure and Control Design, Space Systems, Robotics and lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics and Control Theory
 
 <!--His work mainly involves:</div>
 * Integrating Structure and Control Design for Modeling and Control of Complex Systems
@@ -60,7 +60,7 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 <!--
 ## Research Interest
 * Integrating Structure & Control Design    
-* Robotics & Lightweight automated system
+* Robotics and lightweight automated system
 * Tensegrity and Origami Systems
 * Dynamics and Control Theory    
 * Space Systems and Infrastructures
