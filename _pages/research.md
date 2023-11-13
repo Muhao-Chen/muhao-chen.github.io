@@ -78,20 +78,16 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 ## Research Demonstrations
 
-All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Systems and Robotics, and 3) Lightweight Infrastructures. Here are a few examples. 
+All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Space Systems, and 3) Lightweight Infrastructures. Here are a few examples. 
 
 <!-- Black and red lines are bars and strings.  -->
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
-<!-- (with Anthony Longman, Drs. Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov) -->
 (Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
-
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
 
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
-<!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
-
 
 <table>
 <tr>
@@ -107,21 +103,14 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 (with Drs. Shuo Ma and Robert E. Skelton)
 -->
 
+
 ### Mass Efficient Double-Helix Tensegrity and Origami
-<!-- (with Drs. Manoranjan Majji and Robert E. Skelton) -->
 (Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-
-
 <figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
 
 
-
 ### Model-Based and Data-Based Shape Control of Tensegrity Structures
-<!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
-
-
-
 <table>
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/morph_air.gif" width="100"/></figure></td>
@@ -131,11 +120,9 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 </tr>
 </table>
 
+
 ### Automated Drilling Rig
-<!-- (with Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Drs. Mohamed S Khaled, Enrique Z Losoya, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis) -->
 (Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
-
-
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
 
@@ -145,20 +132,15 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 -->
 
 
-
 ### Economic Sensor & Actuator Selection for Tensegrity Robots Based on the Information Architecture
-<!-- (with Dr. Robert E. Skelton) -->
-(Muhao Chen, Manoranjan Majji, Robert E. Skelton)
-
+(Muhao Chen, Yuling Shen, Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/sas.png" width="800"/></figure>
 
 
 ### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
-<!-- (with Drs. Yuling Shen and Robert E. Skelton) -->
 (Yuling Shen, Muhao Chen, and Robert E. Skelton)
-
-
 <figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
+
 
 <!-- 
 ### Robust $\mathcal{L}_{\infty}$ Performance for Structure Passive Control
@@ -170,48 +152,41 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 ### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
 (Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-
 <figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
 
 
 ### Model Reduction of Tensegrity Systems
 (Muhao Chen and Robert E. Skelton)   
-
 <figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
+
 
 <!-- ### System Identification to Nonlinear Tensegrity Structures
 (Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
 
+
 ###  Statics of Integrated Tensegrity and Origami Systems
 (Shuo Ma, Muhao Chen, Hongying Zhang, and Robert E. Skelton)   
-
 <figure><img src="{{ site.url }}/images/rffi/TsgOri.png" width="800"/></figure>
 
-###  Clustered Tensegrity Systems Considering Pulley Sizes
-(Shuo Ma, Yiqian Chen, Muhao Chen, and Robert E. Skelton)   
 
+###  Clustered Tensegrity Systems Considering Pulley Sizes
+(Shuo Ma, Yiqian Chen, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/pulley.png" width="800"/></figure>
 
 
 ### Deployable Tensegrity Roof with Covers
-<!-- (with Drs. Shuo Ma and Robert E. Skelton) -->
 (Shuo Ma, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
 ### System Identification (QMC, LS, and ERA) to Tensegrity Systems 
-<!-- (with Drs. Yuling Shen and Robert E. Skelton) -->
 (Muhao Chen, Yuling Shen and Robert E. Skelton)
-
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure>
 
 
-
 ### Low-cost, Lightweight, Deployable Shelter subject to Extreme Environments
-<!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
-
 <table>
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/shelter.png" width="100"/></figure></td>
@@ -224,31 +199,22 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 ### Minimal Mass Design for Clustered Tensegrity 
-<!-- (with Xiaoling Bai, Dr. Robert E. Skelton) -->
 (Muhao Chen, Xiaolong Bai, and Robert E. Skelton)
-
-
 <figure><img src="{{ site.url }}/images/rffi/clu_min.png" width="800"/></figure>
 
 
 ### Electromagnetic Lunar Launcher
-<!-- (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton) -->
 (Xiaowen Su, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-
-
 <figure><img src="{{ site.url }}/images/rffi/propulsion.png" width="800"/></figure>
 
-### Energy-Efficient Cable-actuation Strategies of the V-Expander Tensegrity 
-<!-- (with Drs. Aguinaldo Fraddosio, Andrea Micheletti, Gaetano Pavone, Mario Daniele Piccioni, and Robert E. Skelton) -->
-(Muhao Chen, Aguinaldo Fraddosio, Andrea Micheletti, Gaetano Pavone, Mario Daniele Piccioni, and Robert E. Skelton)
 
+### Energy-Efficient Cable-actuation Strategies of the V-Expander Tensegrity 
+(Muhao Chen, Aguinaldo Fraddosio, Andrea Micheletti, Gaetano Pavone, Mario Daniele Piccioni, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/V_Expander.png" width="800"/></figure>
 
 
 ### Tensegrity System Dynamics in Fluids (FSI: Fluid-Structure Interaction)
-<!-- (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton) -->
 (Muhao Chen, Jun Chen, Manoranjan Majji, and Robert E. Skelton)
-
 <table>
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/prism1.gif" width="80"/></figure></td>
@@ -261,35 +227,27 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 
 
 ### Rigid Body Tensegrity
-<!-- (with Drs. Shuo Ma, Zhangli Peng, Xingfei Yuan, Robert E. Skelton) -->
 (Shuo Ma, Muhao Chen, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
-
-
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
 
+
 ### Double-Helix Tensegrity Spherical Planetary Lander
-<!-- (with Dr. Robert E. Skelton) -->
 (Muhao Chen and Robert E. Skelton)
-
-
 <figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
+
 ### Gyroscopic Tensegrity Robots
-<!-- (with Drs. Xiaowen Su, Manoranjan Majji, Robert E. Skelton) -->
 (Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
 <figure><img src="{{ site.url }}/images/rffi/gyro.png" width="800"/></figure>
 
 
 ### Deployable Lightweight Tensegrity Cable Net
-<!-- (with Drs. Shuo Ma and Robert E. Skelton) -->
 (Shuo Ma, Muhao Chen, and Robert E. Skelton)
-
 <figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
 
 ### Deployable Clustered Cable Nets
 <!-- (with Kai Lu, Xinzhu Zhou, Drs. Shuo Ma, and Robert E. Skelton) -->
-(Shuo Ma, Muhao Chen, and Robert E. Skelton)
-
+(Shuo Ma, Kai Lu, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
 <!--
@@ -303,9 +261,7 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
     
 
 ### Deployable Cable Domes 
-<!-- (with Drs. Shuo Ma, Xingfei Yuan, and Robert E. Skelton) -->
 (Shuo Ma, Muhao Chen, Xingfei Yuan, and Robert E. Skelton)
-
 <figure><img src="{{ site.url }}/images/rffi/dome.png" width="800"/></figure>
 
 <!--We are always keen to apply our knowledge to practical applications. Hence, we have created several demonstration videos to present our applied research.-->
