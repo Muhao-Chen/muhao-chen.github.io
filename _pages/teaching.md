@@ -12,6 +12,7 @@ toc: true
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
+    * Cong Wang, Electrical Engineering
     * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
     * Junheng Yao, Mechanical Engineering
     * Siddharth Sundar, Engineering Internship Program at Lafayette High School
