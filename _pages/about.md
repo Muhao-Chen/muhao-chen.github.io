@@ -46,7 +46,7 @@ Assistant Application Engineer & LabVIEW Club President at HUST, July 2013 - Jan
 
 ## Education 
 Texas A&M University, College Station, Sept. 2016 - May 2021    
-Ph.D., Aerospace Engineering. Advisors: Drs. [Robert Skelton](https://bobskelton.github.io/) and [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html)           
+Ph.D., Aerospace Engineering. Advisors: Drs. [Robert Skelton](https://bobskelton.github.io/) and [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html)
 
 Huazhong University of Science and Technology, Sept. 2009 - June 2016    
 M.S., Design and Manufacture of Ships and Marine Structures, 2016      
