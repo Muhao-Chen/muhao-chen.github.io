@@ -21,7 +21,7 @@ If you're keen on tensegrity and require assistance, please reach out to me dire
 <!-- Muhao Chen, Ph.D., is currently an assistant professor at the Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY. His research can be found on the [Research](https://muhao-chen.github.io/research/) page.  -->
 
 ## Research Keywords
-Integrating Structure and Control Design, Space Systems, Robotics and lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics and Control Theory
+Tensegrity, Space Systems, Dynamics and Control Theory, Lightweight Deployable Automated Structures/Robotics, Integrating Structure and Control Design
 
 <!--His work mainly involves:</div>
 * Integrating Structure and Control Design for Modeling and Control of Complex Systems
