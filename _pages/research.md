@@ -10,17 +10,15 @@ toc: true
 
 
 ## Research Goal
-The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies and fluid analysis, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  
-
+The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. That is, design the structure first, followed by material studies, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  
 
 We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes can be found on the [Software](https://muhao-chen.github.io/resources/) page. 
 
 ## Research Interests
- * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
- * Lightweight Automated System (i.e., by Tensegrity, Origami) for Space Applications
+ * Lightweight Deployable Automated SystemS (i.e., by Tensegrity, Origami) for Space Applications
+* Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
  * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor and actuator Selections
  * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems
-
 
 ## Deployable Space Systems 
 
@@ -79,12 +77,17 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 ## Research Demonstrations
 
-All my research mainly focuses on three topics: 1) Integrating Structure and Control Design, 2) Deployable Automated Space Systems, and 3) Lightweight Infrastructures. Here are a few examples. 
+All my research mainly focuses on three topics: 2) Lightweight Deployable Automated Space Systems, 2) Integrating Structure and Control Design, and 3) Lightweight Infrastructures. Here are a few examples. 
 
 <!-- Black and red lines are bars and strings.  -->
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 (Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
+
+### Automated Drilling Rig
+(Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+
 
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
@@ -98,6 +101,11 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <td><figure><img src="{{ site.url }}/images/rffi/prism_obstacle_avoidance.gif" width="50px" height="100px"/></figure></td>
 </tr>
 </table>
+
+### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
+(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
+
 
 <!--
 ### Integrated Tensegrity and Origami Systems  
@@ -121,10 +129,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 </tr>
 </table>
 
-
-### Automated Drilling Rig
-(Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
-<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
 
 <!--
@@ -151,9 +155,6 @@ All my research mainly focuses on three topics: 1) Integrating Structure and Con
 <!-- <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure> -->
 
 
-### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
-(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
 
 
 ### Model Reduction of Tensegrity Systems
