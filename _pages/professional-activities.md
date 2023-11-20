@@ -41,7 +41,6 @@ toc_max_header: 1
 * The 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment (Earth & Space), Miami, FL, Apr. 15-18, 2024
 * The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8-12, 2024
 * The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
-* The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8–12, 2024
 * The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023
 * The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023
 * Invited by Prof. Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023
