@@ -37,6 +37,7 @@ toc_max_header: 1
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
 
 ## Talks
+* The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024
 * The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
 * The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023
 * The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023
