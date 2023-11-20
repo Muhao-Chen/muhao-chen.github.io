@@ -155,8 +155,6 @@ All my research mainly focuses on three topics: 2) Lightweight Deployable Automa
 <!-- <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure> -->
 
 
-
-
 ### Model Reduction of Tensegrity Systems
 (Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
