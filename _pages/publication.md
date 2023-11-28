@@ -86,9 +86,9 @@ toc: true
 ### Conferences
 <font size=3>
 <ol reversed>
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering.</u> Nov. 30 - Dec. 1, 2023, Gdansk, Poland. Accepted.</li> 
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.∗, and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering.</u> Nov. 30 - Dec. 1, 2023, Gdansk, Poland. Accepted.</li> 
 <li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>.  April 15-18, 2024, Miami, FL, USA. Accepted.</li>
-<li> Chen, Y., <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering <u>(GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li>
+<li> Chen, Y., <strong>Chen, M.</strong>, Xia, X.∗, Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering <u>(GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA.</li>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Oct. 10, 2023, Minneapolis, MN. Accepted.</li>
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
