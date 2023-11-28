@@ -68,14 +68,14 @@ toc: true
 ### Journal Articles 
 <font size=3>
 <ol reversed>
-<!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Finite word-length optimal simulation for highdimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> Submitted.</li> -->
-<!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>International Journal of Mechanical Sciences.</u> Submitted.</li> -->
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Finite word-length optimal simulation for highdimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> Submitted.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> Submitted.</li>
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
-<!-- <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.∗, Hermanson, J.C., Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. </li> -->
+<li> Chen, Y., <strong>Chen, M</strong>, Xia, X.∗, Hermanson, J.C., Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. </li>
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
 <!-- <li>Bai, M., <strong>Chen, M</strong>*, and Skelton, R.E., 2023. Lightweight Design of Tensegrity Michell Truss subject to Cantilever Loads. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.<\li> -->
-<!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. Submitted.</li> -->
-<!-- <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. Submitted.</li> -->
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. Submitted.</li>
+<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. Submitted.</li>
 <li><strong>Chen, M.</strong>*, Chen, J., Majji, M. and Skelton, R.E., 2022. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
 <li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2022. <u>Acta Astronautica</u>.</li>
@@ -89,7 +89,7 @@ toc: true
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering.</u> Nov. 30 - Dec. 1, 2023, Gdansk, Poland. Accepted.</li> 
 <li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>.  April 15-18, 2024, Miami, FL, USA. Accepted.</li>
 <li> Chen, Y., <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering <u>(GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li>
-<li><strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA. Accepted.</li>
+<li><strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA.</li>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Oct. 10, 2023, Minneapolis, MN. Accepted.</li>
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
 </ol>
