@@ -94,15 +94,15 @@ Conference with Abstracts:
 Conference with Full Papers:
 <ol reversed>
 <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Modeling: Linearized Dynamics Methods in the Analysis of Tensegrity Airfoils. The AIAA Science and Technology Forum and Exposition (<u>AIAA SciTech Forum 2024</u>), Orlando, FL, Jan. 8-12, 2024.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA.</li>
-<li> Chen, Y., <strong>Chen, M.</strong>, Xia, X.∗, Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering <u>(GLS-16)</u>. September 2-5, 2024, Dresden, Germany. </li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 15-18, 2024</li>
+<li> Chen, Y., <strong>Chen, M.</strong>, Xia, X.∗, Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering <u>(GLS-16)</u>. Dresden, Germany, Sept. 2-5, 2024 </li>
 <!-- <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL, USA.</li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA, USA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
 </ol>
 Conference with Abstracts:
 <ol reversed>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2024. Integrated Origami and Tensegrity Systems Dynamics Based on the Bar-Hinge Model. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. </li>
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.∗, and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering</u>. Dec. 1, 2023, Gdansk, Poland. Accepted.</li> 
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.∗, and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering</u>. Gdansk, Poland, Dec. 1, 2023.  Accepted.</li> 
 </ol>
 </font>
 
