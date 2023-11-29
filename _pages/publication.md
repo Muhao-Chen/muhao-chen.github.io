@@ -112,7 +112,7 @@ Conference with Abstracts:
 <ol reversed>
 
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. Vol 437. <u>Springer</u>.</li>
-<li><strong>Chen, M.</strong>, Chen, B. and Skelton, R.E., 2024. Tensegrity Structures and Engineering Application. <u>Higher Education Press.</u> In preparation.</li>
+<li><strong>Chen, M.</strong>, Chen, B. and Skelton, R.E., 2024. Tensegrity Structures and Engineering Application<u>. Higher Education Press.</u> In preparation.</li>
 <li><strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2024. Tensegrity Systems: Analysis and Synthesis. <u>New York: Springer.</u> In preparation. (A textbook for undergraduate and graduate students)</li>
 </ol>
 </font>
