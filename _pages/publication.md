@@ -43,9 +43,9 @@ toc: true
 Conference with Full Papers:
 <ol reversed>
 <li>Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E, 2023. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan.</li>
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS - Italian Workshop on Shell and Spatial Structures.</u> Turin, Jun. 26 - 28, 2023.</li> 
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS - Italian Workshop on Shell and Spatial Structures.</u> Turin, June 26 - 28, 2023.</li> 
 <li>Yazbeck, R., Fernandes, R., <strong>Chen, M.</strong>, El-Borgi, S., Boyd, J., Lagoudas, D. Adaptive Bandgap Formation in a Periodic Tensegrity Structure, 2023. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. Bucharest, Romania, 13 - 16 June 2023.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. Bucharest, Romania, June 13 - 16, 2023.</li>
 <li>Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS Annual Symposium Affiliated with 13th APCS</u>. Beijing, China, Sept. 19-22, 2022.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS Annual Symposium Affiliated with 13th APCS</u>. Beijing, China, Sept. 19-22, 2022.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21. Surrey, UK, Aug. 23, 2021.</li>
@@ -56,7 +56,7 @@ Conference with Full Papers:
 </ol>
 Conference with Abstracts:
 <ol reversed>
-<li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E. Combining Tensegrity and Origami: Advancements in Aerospace Deployable Structures. The 2023 Kentucky Academy of Science (<u>KAS 2023</u>) Annual Meeting, Northern Kentucky University. Highland Heights, KY, Nov. 3, 2023.</li>
+<li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E. Combining Tensegrity and Origami: Advancements in Aerospace Deployable Structures. The 2023 Kentucky Academy of Science (<u>KAS 2023</u>) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023.</li>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Minneapolis, MN., Oct. 10, 2023.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensegrity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON)</u>. Rome, Italy, June 16-22, 2023. </li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Clustered cable-actuation strategies of a family of V-Expander tensegrity cells. <u>Engineering Mechanics Institute International Conference (EMI IC)</u>. Palermo, Italy, Aug. 29, 2023.</li>
