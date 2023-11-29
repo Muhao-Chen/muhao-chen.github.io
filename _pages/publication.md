@@ -79,7 +79,7 @@ Conference with Abstracts:
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., and Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. </li>
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
-<!-- <li>Bai, M., <strong>Chen, M</strong>*, and Skelton, R.E., 2023. Lightweight Design of Tensegrity Michell Truss subject to Cantilever Loads. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.<\li> -->
+<!-- <li>Bai, M., <strong>Chen, M</strong>*, and Skelton, R.E., 2023. Lightweight design of tensegrity cranes based on the Michell Truss topology subject to cantilever loads. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.<\li> -->
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. Submitted.</li>
@@ -92,9 +92,9 @@ Conference with Abstracts:
 <font size=3>
 Conference with Full Papers:
 <ol reversed>
-<li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Modeling: Linearized Dynamics Methods in the Analysis of Tensegrity Airfoils. The AIAA Science and Technology Forum and Exposition (<u>AIAA SciTech Forum 2024</u>), Orlando, FL, Jan. 8-12, 2024. Submitted.</li>
+<li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Modeling: Linearized Dynamics Methods in the Analysis of Tensegrity Airfoils. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum 2024)</u>. Orlando, FL, Jan. 8-12, 2024. Submitted.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 15-18, 2024. Submitted.</li>
-<li> Chen, Y., <strong>Chen, M.</strong>, Xia, X.*, Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering <u>(GLS-16)</u>. Dresden, Germany, Sept. 2-5, 2024. Submitted.</li>
+<li> Chen, Y., <strong>Chen, M.</strong>, Xia, X.*, Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. Dresden, Germany, Sept. 2-5, 2024. Submitted.</li>
 <!-- <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL.</li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
 </ol>
