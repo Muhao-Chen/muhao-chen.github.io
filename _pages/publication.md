@@ -51,7 +51,7 @@ Conference with Full Papers:
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21, Aug. 23, 2021.</li>
 <li> <strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. </li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>.</li>
-<li>Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. (p. 4193).</li>
+<li>Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. </li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109.</li>
 </ol>
 Conference with Abstracts:
