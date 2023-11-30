@@ -62,9 +62,11 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 -->
 
 ## Contact
-Email: muhaochen@tamu.edu    
+Email: muhaochen@uky.edu    
 Tel: +1 979-985-8285
-Department of Mechanical and Aerospace Engineering, University of Kentucky
-<!-- ](https://engineering.tamu.edu/aerospace/about/facts.html), [TAMU](https://www.tamu.edu/)       -->
-H.R. Bright Building, 400 Bizzell St, College Station, TX 77843
 
+Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY 40506
+
+<!-- ](https://engineering.tamu.edu/aerospace/about/facts.html), [TAMU](https://www.tamu.edu/)       -->
+
+ <!-- 113A Grehan -->
