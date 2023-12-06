@@ -56,6 +56,7 @@ Conference with Full Papers:
 </ol>
 Conference with Abstracts:
 <ol reversed>
+<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.∗, and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering</u>. Gdansk, Poland, Dec. 1, 2023.</li> 
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E. Combining Tensegrity and Origami: Advancements in Aerospace Deployable Structures. The 2023 Kentucky Academy of Science (<u>KAS 2023</u>) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023.</li>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2023. Integrated Tensegrity and Origami Systems for Deployable Space Structures. <u>Society of Engineering Science Annual Conference (SES 2023)</u>. Minneapolis, MN., Oct. 10, 2023.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Nonlinear Dynamics Analysis of Actuation Strategies of Clustered Tensegrity V-Expander Structures. <u>The Third International Nonlinear Dynamics Conference (NODYCON)</u>. Rome, Italy, June 16-22, 2023. </li>
@@ -101,7 +102,6 @@ Conference with Full Papers:
 Conference with Abstracts:
 <ol reversed>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2024. Integrated Origami and Tensegrity Systems Dynamics Based on the Bar-Hinge Model. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Submitted.</li>
-<li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.∗, and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering</u>. Gdansk, Poland, Dec. 1, 2023.  Accepted.</li> 
 </ol>
 </font>
 
