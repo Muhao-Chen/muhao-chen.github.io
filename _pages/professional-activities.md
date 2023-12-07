@@ -17,7 +17,7 @@ toc_max_header: 1
 - The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024 
 - The 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment (Earth & Space), Miami, FL, Apr. 15-18, 2024 
 - The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8-12, 2024
-- The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Nov. 3, 2023 
+- The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023 
 - The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023 
 - The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023 
 - Invited by Prof. Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 
@@ -25,7 +25,7 @@ toc_max_header: 1
 - The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, Oct. 17, 2022 
 - The Annual Symposium of the International Association for Shell and Spatial Structures (IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), Beijing, Sept. 19, 2022 
 - Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
-- Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, NY, Apr. 6, 2022 
+- Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, New York, NY, Apr. 6, 2022 
 - International Forum of Excellent Young Talents in Engineering Sciences, Peking University, Beijing, Mar. 8, 2022 
 - Invited by Prof. Xiaodong Feng, College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022 
 - Invited by Halliburton Company, Houston, TX, Sept. 30, 2021 
