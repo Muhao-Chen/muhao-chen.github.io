@@ -74,7 +74,7 @@ toc_max_header: 1
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. Hampton, VA, Sept. 23, 2021
   - DREAMS: Drilling and Extraction Automated System
 * TAMU Physics & Engineering Festival. College Station, TX, Apr. 10, 2021
-  - Tensegrity System Research Snapshots at Land, Air, and Space Robotics Laboratory
+  - Tensegrity System Research Snapshots at Land, Air, and Space Robotics (LASR) Laboratory 
 * TAMU Physics & Engineering Festival. College Station, TX, Apr. 6, 2019
   - In-Space Construction of a 1g Growable Habitat
 
