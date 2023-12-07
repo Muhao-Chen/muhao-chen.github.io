@@ -56,7 +56,7 @@ toc_max_header: 1
     <!-- - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures 
         * Event Participants: Idris Hussain, Muhao Chen, David Capps, Manoranjan Majji -->
 
-- [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/), Model Demonstration, NIAC Symposium, Huntsville, AL, Sept. 24 2019     
+- [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/), Huntsville, AL, Sept. 24 2019     
       <!-- * Event participants: Joel Sercel, Manoranjan Majji, Muhao Chen, Ali H. Khowaja -->
 
  <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
