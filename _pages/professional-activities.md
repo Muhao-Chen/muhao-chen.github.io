@@ -42,11 +42,13 @@ toc_max_header: 1
 
 ## News 
 
-- [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/)
+<!-- - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/) -->
+- NASA Moon to Mars Ice and Prospecting Challenge
     - [TAMU Engineering News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), Jan. 25, 2021
       <!-- * Event Participants: Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh, Uthej Vattipalli, Thomas J. Lopez. Jessica Ezemba, Emily Kincaid, and Teresa Valdez -->
    
-- [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat)
+<!-- - [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat) -->
+- Building A Growable Habitat for Sustainable Life in Space
     - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020
     - [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Jul. 26 2019
     - [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), Feb. 5, 2019
