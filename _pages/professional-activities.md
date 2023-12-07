@@ -12,6 +12,32 @@ toc_max_header: 1
 
 <div style="text-align: justify;" markdown="1">
 
+## Talks
+<ol reversed>
+<li> The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024 </li>
+<li> The 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment (Earth & Space), Miami, FL, Apr. 15-18, 2024 </li>
+<li> The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8-12, 2024 </li>
+<li> The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Nov. 3, 2023 </li>
+<li> The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023 </li>
+<li> The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023 </li>
+<li> Invited by Prof. Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 </li>
+<li> Invited by Prof. Sean C. C. Bailey, Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023 </li>
+<li> The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, Oct. 17, 2022 </li>
+<li> The Annual Symposium of the International Association for Shell and Spatial Structures (IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), Beijing, Sept. 19, 2022 </li>
+<li> Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9th, 2022 </li>
+<li> Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, NY, Apr. 6, 2022 </li>
+<li> International Forum of Excellent Young Talents in Engineering Sciences, Peking University, Beijing, Mar. 8, 2022 </li>
+<li> Invited by Prof. Xiaodong Feng, College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022 </li>
+<li> Invited by Halliburton Company, Houston, TX, Sept. 30, 2021 </li>
+<li> Invited by Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021 </li>
+<li> International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, Surrey, UK, Aug. 23, 2021 </li>
+<li> Invited by Prof. Zeyang Xia, Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen, Jul. 2021 </li>
+<li> Invited by Prof. Haijun Peng, Dalian University of Technology, China, Jul. 2021 </li>
+<li> The ASCE Earth & Space Conference, A Virtual Conference, Apr. 19, 2021 </li>
+<li> International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). Porto, Portugal. Sept. 3, 2020 </li>
+<li> AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018 </li>
+</ol>
+
 ## News, Demonstrations, and Journalist Interviews
 
 - [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/), IROS, Detroit, Michigan, Oct. 5, 2023
@@ -36,29 +62,6 @@ toc_max_header: 1
  <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
 
-## Talks
-* The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024
-* The 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment (Earth & Space), Miami, FL, Apr. 15-18, 2024
-* The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8-12, 2024
-* The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Nov. 3, 2023
-* The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023
-* The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Tensegrity Robotics Workshop, Detroit, MI, Oct. 5, 2023
-* Invited by Prof. Mehran Mesbahi, Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023
-* Invited by Prof. Sean C. C. Bailey, Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
-* The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, Oct. 17, 2022
-* The Annual Symposium of the International Association for Shell and Spatial Structures (IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), Beijing, Sept. 19, 2022
-* Invited by Tracy Young, #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9th, 2022
-* Invited by Prof. Xun Yu, Department of Mechanical Engineering, New York Institute of Technology, NY, Apr. 6, 2022
-* International Forum of Excellent Young Talents in Engineering Sciences, Peking University, Beijing, Mar. 8, 2022
-* Invited by Prof. Xiaodong Feng, College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022
-* Invited by Halliburton Company, Houston, TX, Sept. 30, 2021
-* Invited by Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021
-* International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, Surrey, UK, Aug. 23, 2021    
-* Invited by Prof. Zeyang Xia, Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen, Jul. 2021   
-* Invited by Prof. Haijun Peng, Dalian University of Technology, China, Jul. 2021   
-* The ASCE Earth & Space Conference, A Virtual Conference, Apr. 19, 2021
-* International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). Porto, Portugal. Sept. 3, 2020   
-* AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018
 
 ## Poster
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, Sept. 23 2021
