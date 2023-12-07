@@ -38,6 +38,8 @@ toc_max_header: 1
 <li> AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018 </li>
 </ol>
 
+<!-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) -->
+
 ## News 
 
 - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/)
@@ -53,7 +55,7 @@ toc_max_header: 1
 
 
 ## Demos
-- IROS, Detroit, MI, Oct. 5, 2023
+- IROS Conference, Detroit, MI, Oct. 5, 2023
   - [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)
     <!-- - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures 
         * Event Participants: Idris Hussain, Muhao Chen, David Capps, Manoranjan Majji -->
