@@ -32,7 +32,7 @@ toc_max_header: 1
 - Invited by Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021 
 - International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, Surrey, UK, Aug. 23, 2021 
 - Invited by Prof. Zeyang Xia, Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen, Jul. 2021 
-- Invited by Prof. Haijun Peng, Dalian University of Technology, China, Jul. 2021 
+- Invited by Prof. Haijun Peng, Dalian University of Technology, Dalian, Jul. 2021 
 - The ASCE Earth & Space Conference, A Virtual Conference, Apr. 19, 2021 
 - International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). Porto, Portugal. Sept. 3, 2020 
 - AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018 
