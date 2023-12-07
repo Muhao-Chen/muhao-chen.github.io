@@ -71,9 +71,12 @@ toc_max_header: 1
 
 
 ## Poster
-* NASA's 2021 Moon to Mars Ice & Prospecting Challenge. DREAMS: Drilling and Extraction Automated System. Hampton, VA, Sept. 23, 2021
-* TAMU Physics & Engineering Festival. Tensegrity System Research Snapshots at Land, Air, and Space Robotics Laboratory. College Station, TX, Apr. 10, 2021
-* TAMU Physics & Engineering Festival. In-Space Construction of a 1g Growable Habitat. College Station, TX, Apr. 6, 2019
+* NASA's 2021 Moon to Mars Ice & Prospecting Challenge. Hampton, VA, Sept. 23, 2021
+  - DREAMS: Drilling and Extraction Automated System
+* TAMU Physics & Engineering Festival. College Station, TX, Apr. 10, 2021
+  - Tensegrity System Research Snapshots at Land, Air, and Space Robotics Laboratory
+* TAMU Physics & Engineering Festival. College Station, TX, Apr. 6, 2019
+  - In-Space Construction of a 1g Growable Habitat
 
 ## Services
 * Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration, 2023 -Present
