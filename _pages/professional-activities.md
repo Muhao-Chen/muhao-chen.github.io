@@ -38,11 +38,7 @@ toc_max_header: 1
 <li> AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018 </li>
 </ol>
 
-## News, Demos, and Journalist Interviews
-
-- [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/), IROS, Detroit, Michigan, Oct. 5, 2023
-    <!-- - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures 
-        * Event Participants: Idris Hussain, Muhao Chen, David Capps, Manoranjan Majji -->
+## News 
 
 - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/)
     - [TAMU Engineering, News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), Jan. 25, 2021
@@ -50,14 +46,25 @@ toc_max_header: 1
    
 - [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat)
     - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020, [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Jul. 26 2019, [TAMU Engineering, News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), Feb. 5, 2019
-    - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), 17th May 2018
+    - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018
       <!-- * Event participants: Robert E. Skelton, Manoranjan Majji. Muhao Chen, Raman Goyal, Joel Sercel, Jane Shevtsov, and Anthony Longman -->
+
+
+
+## Demos
+- [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/), IROS, Detroit, Michigan, Oct. 5, 2023
+    <!-- - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures 
+        * Event Participants: Idris Hussain, Muhao Chen, David Capps, Manoranjan Majji -->
 
 - [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/), Model Demonstration, NIAC Symposium, Huntsville, AL, Sept. 24 2019     
       <!-- * Event participants: Joel Sercel, Manoranjan Majji, Muhao Chen, Ali H. Khowaja -->
 
  <!-- and [Video](https://www.youtube.com/watch?v=Pu_aOUtN2wY&ab_channel=LuisRodriguez),-->
  <!--(https://livestream.com/viewnow/niac2019/videos/196913328)-->
+
+
+
+
 
 
 ## Poster
