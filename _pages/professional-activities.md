@@ -38,7 +38,7 @@ toc_max_header: 1
 <li> AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018 </li>
 </ol>
 
-## News, Demonstrations, and Journalist Interviews
+## News, Demos, and Journalist Interviews
 
 - [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/), IROS, Detroit, Michigan, Oct. 5, 2023
     - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures
