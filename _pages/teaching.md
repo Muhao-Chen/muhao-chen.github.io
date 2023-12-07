@@ -31,7 +31,7 @@ toc: true
         - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin
     * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)
         - Research Topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures
-    * Xiaolong Bai, MEng in Aerospace Engineering (Sept.2017 - Dec. 2019)
+    * Xiaolong Bai, MEng in Aerospace Engineering (Sept. 2017 - Dec. 2019)
         - Research Topic: Experiment Design of A Tensegrity Morphing Airfoil
 
 ### Huazhong University of Science and Technology   
