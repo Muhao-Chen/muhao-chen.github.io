@@ -44,7 +44,6 @@ We appreciate your interest in our research. We are open and willing to answer a
 </tr>
 </table>
 
-
 ### Origami and Tensegrity Equilibrium and Form-finding Analysis ([OriTsgEFA](https://github.com/Muhao-Chen/Origami_and_Tensegrity_Equilibrium_and_Form-finding_Analysis_OriTsgEFA))
 
 [OriTsgEFA](https://github.com/Muhao-Chen/Origami_and_Tensegrity_Equilibrium_and_Form-finding_Analysis_OriTsgEFA) offers a comprehensive framework for modeling and analyzing both origami and tensegrity paradigms as a unified system. The software's capabilities extend to various types of static analyses, including (1). Load analysis, accommodating both elastic and plastic deformations in bars and strings. (2). Analysis of both infinitesimal and large-scale deformations. (3). Versatility in handling diverse boundary conditions, such as fixed points or nodes subjected to various types of static loads in any given direction—gravitational forces, specified forces, or moments. (4). Stiffness analysis featuring eigenvalue computations and mode shapes. By providing nuanced insights into structural integrity, material properties, and overall performance, this software enhances our capacity to design and deploy large-scale, multifaceted structures. Some demos are shown below. 
@@ -108,9 +107,6 @@ TsgRgd allows one to 1). Conduct structure equilibrium configuration, prestress 
 ### Tensegrity System Fluid-Structure Interaction Software (TsgFSI)
 
 TsgFSI is a general software for FSI studies. It allows one to 1). Conduct a study of nonlinear tensegrity dynamics in fluids. 2). Ideal, in-incompressible, nonviscous flow on the structure surface. 3). Dynamics of structure with skin in fluids. Some demos are shown below.
-
-
-
 
 <!--<figure><img src="{{ site.url }}/images/rffi/tsgrbd.png" width="200"/></figure>-->
 
