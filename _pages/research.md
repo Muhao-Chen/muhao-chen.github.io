@@ -134,8 +134,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 </tr>
 </table>
 
-
-
 <!--
 ### Locomotion of A Tensegrity Spherical Robot 
 (with Dr. Robert E. Skelton)
