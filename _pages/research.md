@@ -82,7 +82,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 ## Research Demonstrations
 
-All my research mainly focuses on three topics: 2) Lightweight Deployable Automated Space Systems, 2) Integrating Structure and Control Design, and 3) Lightweight Infrastructures. Here are a few examples. 
+<!-- All my research mainly focuses on three topics: 2) Lightweight Deployable Automated Space Systems, 2) Integrating Structure and Control Design, and 3) Lightweight Infrastructures. Here are a few examples.  -->
 
 <!-- Black and red lines are bars and strings.  -->
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
