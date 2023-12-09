@@ -15,10 +15,15 @@ The existing design approaches mainly deal with what is sufficient rather than n
 We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes can be found on the [Software](https://muhao-chen.github.io/resources/) page. 
 
 ## Research Interests
- * Lightweight Deployable Automated SystemS (i.e., by Tensegrity, Origami) for Space Applications
+* Mechanics and Lightweight Infrastructures Design for Long-term Planetary Explorations
+* Dynamics and Control of Deployable/Foldable Space Robotics and Structures
+* Deployable Modular Space Robotics for Landing, Self-Deployment, and In-Situ Assembly
+* Integrating Structure and Control Theories Using the Least Necessary Resources
+
+<!-- * Lightweight Deployable Automated Systems (i.e., by Tensegrity, Origami) for Space Applications
 * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
- * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor and actuator Selections
- * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems
+* Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor and actuator Selections
+* Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems -->
 
 ## Deployable Space Systems 
 
