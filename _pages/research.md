@@ -16,9 +16,11 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Interests
 * Mechanics and Lightweight Infrastructures Design for Long-term Planetary Explorations
-* Modeling of Deployable/Flexible/Foldable Aerospace Structures
+* Modeling of Deployable/Flexible/Foldable Aerospace Structures and Material Systems 
 * Deployable Modular Space Structures/Robotics for Landing, Self-Deployment, and In-Situ Assembly
-* Integrating Structure and Control Theories Using the Least Necessary Resources
+* Creating Novel Structure and Material Systems for Aerospace Applications Using the Least Necessary Resources
+<!-- Integrating Structure and Materials to  -->
+<!-- Control Theories Using the Least Necessary Resources -->
 
 <!-- * Lightweight Deployable Automated Systems (i.e., by Tensegrity, Origami) for Space Applications
 * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
