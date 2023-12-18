@@ -69,7 +69,6 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 ## Contact
 Email: muhaochen@uky.edu    
 Tel: +1 979-985-8285
-
 Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY 40506
 
 <!-- ](https://engineering.tamu.edu/aerospace/about/facts.html), [TAMU](https://www.tamu.edu/)       -->
