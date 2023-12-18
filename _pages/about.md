@@ -23,7 +23,7 @@ Please get in touch with me directly if you are keen on tensegrity and require a
 
 ## Research Keywords
 <!-- Tensegrity, Space Systems, Dynamics and Control Theory, Lightweight Deployable Automated Structures/Robotics, Noval Structure and Material Systems  -->
-Tensegrity, Space Systems, Lightweight Structures, Deployable Structures, Noval Structure and Material Systems, Deployment Stratergy
+Tensegrity, Space Systems, Lightweight Structures, Deployable Structures, Noval Structure and Material Systems, Deployment Strategy
 
 <!-- Dynamics and Control Theory, Lightweight Deployable Automated Structures/Robotics, Noval Structure and Material Systems  -->
 
