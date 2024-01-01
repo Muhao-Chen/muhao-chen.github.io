@@ -85,7 +85,7 @@ Conference with Abstracts:
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. Submitted.</li>
-<li><strong>Chen, M.</strong>, Chen, J.*, Majji, M. and Skelton, R.E., 2023. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
+<li>Chen, J., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
 <li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2023. <u>Acta Astronautica</u>.</li>
 </ol>
 </font>
