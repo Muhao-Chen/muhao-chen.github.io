@@ -72,7 +72,7 @@ toc_max_header: 1
 
 ## Poster
 * The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Detroit, MI, Oct. 5, 2023
-  - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures 
+  - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. Hampton, VA, Sept. 23, 2021
   - DREAMS: Drilling and Extraction Automated System
 * TAMU Physics & Engineering Festival. College Station, TX, Apr. 10, 2021
