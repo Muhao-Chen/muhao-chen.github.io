@@ -77,6 +77,7 @@ Conference with Abstracts:
 ### Journal Articles 
 <font size=3>
 <ol reversed>
+<li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Linearized Tensegrity Dynamics and Analysis of Morphing Airfoils. <u>Journal of Guidance, Control, and Dynamics</u>. Submitted.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> Submitted.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> Submitted.</li>
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
