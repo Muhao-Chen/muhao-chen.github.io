@@ -79,16 +79,16 @@ Conference with Abstracts:
 <font size=3>
 <ol reversed>
 <!-- <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Linearized Tensegrity Dynamics and Analysis of Morphing Airfoils. <u>Journal of Guidance, Control, and Dynamics</u>. Submitted.</li> -->
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> Submitted.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> Submitted.</li>
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
-<li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., and Qi, F., 2023. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. Submitted. </li>
+<li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., and Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. Submitted. </li>
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
 <!-- <li>Bai, M., <strong>Chen, M</strong>*, and Skelton, R.E., 2023. Lightweight design of tensegrity cranes based on the Michell Truss topology subject to cantilever loads. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.<\li> -->
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li>
-<li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2023. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. Submitted.</li>
-<li>Chen, J., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
-<li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2023. <u>Acta Astronautica</u>.</li>
+<li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2024. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. Submitted.</li>
+<li>Chen, J., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
+<li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2024. <u>Acta Astronautica</u>.</li>
 </ol>
 </font>
 
