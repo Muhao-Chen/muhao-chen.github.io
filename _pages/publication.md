@@ -109,7 +109,6 @@ Conference with Abstracts:
 </ol>
 </font>
 
-
 ## Books & Chapters
 <font size=3>
 <ol reversed>
