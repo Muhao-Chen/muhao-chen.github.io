@@ -14,7 +14,7 @@ toc: true
 ## Journal Articles 
 <font size=3>
 <ol reversed>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> Accepted.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> Accepted. </li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. 296, p116868.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E. 2023. Markov data-based reference tracking control to tensegrity morphing airfoils. <u>Engineering Structures</u>. 291, p116430.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Zhang., H., and Skelton, R.E., 2023. Statics of integrated origami and tensegrity systems. <u>International Journal of Solids and Structures</u>. 279, p112361.</li> 
