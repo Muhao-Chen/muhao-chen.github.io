@@ -7,7 +7,6 @@ toc: true
 toc_max_header: 1
 ---
 <!--{% include toc h_min = 1%}-->
-
 <!--# Public Engagement-->
 
 <div style="text-align: justify;" markdown="1">
