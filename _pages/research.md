@@ -8,7 +8,6 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-
 ## Research Goal
 The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. Design the structure first, then material studies, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.  
 
@@ -16,11 +15,14 @@ We would also like to develop and offer more and more software and tools to help
 
 ## Research Interests
 * Mechanics and Lightweight Infrastructures Design for Long-term Planetary Explorations
-* Modeling of Deployable/Flexible/Foldable Aerospace Structures and Material Systems 
+* Modeling of Deployable/Flexible/Foldable Space Robotics and Structures
 * Deployable Modular Space Structures/Robotics for Landing, Self-Deployment, and In-Situ Assembly
-* Creating Novel Structure and Material Systems for Aerospace Applications Using the Least Necessary Resources
+* Integrating Structure and Control Theories for Aerospace Applications Using the Least Necessary Resources
+<!-- * Creating Novel Structure and Material Systems for Aerospace Applications Using the Least Necessary Resources -->
 <!-- Integrating Structure and Materials to  -->
 <!-- Control Theories Using the Least Necessary Resources -->
+
+<!-- Integrating Structure and Control Theories Using the Least Necessary Resources -->
 
 <!-- * Lightweight Deployable Automated Systems (i.e., by Tensegrity, Origami) for Space Applications
 * Integrating Structure and Control Design for Modeling and Control of Complex Deployable Systems
