@@ -37,8 +37,6 @@ toc_max_header: 1
 - AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept. 17, 2018 
 <!-- </ol> -->
 
-<!-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) -->
-
 ## News 
 
 <!-- - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/) -->
