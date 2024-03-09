@@ -105,7 +105,8 @@ Conference with Full Papers:
 </ol>
 Conference with Abstracts:
 <ol reversed>
-<li>Longman, A.*, <strong>Chen, M.</strong>, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.</li>
+<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Integrating Structural Design and Control: Efficient Deployment Strategies for Tensegrity-Based Space Antennas. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Submitted. </li> 
+<li>Longman, A., <strong>Chen, M.</strong>*, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.</li>
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E., 2024. Integrated Origami and Tensegrity Systems Dynamics Based on the Bar-Hinge Model. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.</li>
 </ol>
 </font>
