@@ -96,6 +96,8 @@ Conference with Abstracts:
 <font size=3>
 Conference with Full Papers:
 <ol reversed>
+<li> Xu, Y., <strong>Chen, M.</strong>*, 2024. The Minimal Mass Tensegrity Solutions to Compressive and Tensile Loads. <u>International Mechanical Engineering Congress & Exposition (IMECE)</u>.
+Portland, OR, Italy, Nov. 17 – 21, 2024. Submitted. </li> 
 <li><strong>Chen, M.</strong>*, Zhu, Z., 2024. AI-Based and Performance-Driven Design for the Optimal Combined Tensegrity and Membrane Structures for Lunar Bases. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Submitted. </li> 
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Lightweight Design of Tensegrity V-Expander Structures. <u>The International Association for Shell and Spatial Structures (IASS) Annual Symposium 2024</u>. ETH Hönggerberg, Zurich, Aug. 26 – 30, 2024. Submitted. </li> 
 <li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E. and Skelton, R.E. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 15-18, 2024. Accepted.</li>
