@@ -96,7 +96,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <tr>
 <td><figure><img src="{{ site.url }}/images/rffi/habitat_full.png" width="100px" height="100px"/></figure></td>
 <td><figure><img src="{{ site.url }}/images/rffi/habitat_half.png" width="100px" height="100px"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/habitat_video" width="100px" height="100px"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/habitat_video.gif" width="100px" height="100px"/></figure></td>
 </tr>
 </table>
 
