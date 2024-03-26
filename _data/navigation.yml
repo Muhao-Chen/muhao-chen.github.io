@@ -1,13 +1,16 @@
 # main links links
 main:
+
+  - title: "Space Habitat"
+    url: /habitat/
+
+
   - title: "Research"
     url: /research/
     
   - title: "Publication"
     url: /publication/
-    children:
-      - title: "Key Generation Publication"
-        url: /posts/2019/04/blog-post-keygen_liv_pub/
+
 
 #  - title: "Labs"
 #    url: /labs/
