@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Space Habitat"
+permalink: /habitat/
 author_profile: true
 ---
 
