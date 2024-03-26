@@ -16,6 +16,8 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat st
 
 <figure><img src="{{ site.url }}/images/rffi/habitat_two.png" width="800"/></figure>
 
-<figure><img src="{{ site.url }}/images/rffi/habitat_video.mp4" width="100px" height="100px"/></figure>
+<!-- <figure><img src="{{ site.url }}/images/rffi/habitat_video.mp4" width="100px" height="100px"/></figure> -->
+
+{{ site.url }}/images/rffi/habitat_video.mp4
 
 More to come very soon!
