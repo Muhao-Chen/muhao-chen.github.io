@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Space Habitat"
+# title: "Space Habitat"
 permalink: /habitat/
 author_profile: true
 toc: true
