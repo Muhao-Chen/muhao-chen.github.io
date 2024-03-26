@@ -90,8 +90,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 <!-- Black and red lines are bars and strings.  -->
 ### An Expandable Shielded Rotating Space Habitat
-(Muhao Chen and Anthony Longman)
-Picture and Video Credit: Anthony Longman
+(Muhao Chen and Anthony Longman (Picture and Video Credit: Anthony Longman))
 <figure><img src="{{ site.url }}/images/rffi/habitat-full.png" width="800"/></figure>
 <figure><img src="{{ site.url }}/images/rffi/habitat-half.png" width="800"/></figure>
 
