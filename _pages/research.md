@@ -89,6 +89,14 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <!-- All my research mainly focuses on three topics: 2) Lightweight Deployable Automated Space Systems, 2) Integrating Structure and Control Design, and 3) Lightweight Infrastructures. Here are a few examples.  -->
 
 <!-- Black and red lines are bars and strings.  -->
+### An Expandable Shielded Rotating Space Habitat
+(Muhao Chen and Anthony Longman)
+Picture and Video Credit: Anthony Longman
+<figure><img src="{{ site.url }}/images/rffi/habitat-full.png" width="800"/></figure>
+<figure><img src="{{ site.url }}/images/rffi/habitat-half.png" width="800"/></figure>
+
+
+
 ### Growable Space Habitat with 1G Artificial Gravity in Deep Space
 (Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
 <figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
