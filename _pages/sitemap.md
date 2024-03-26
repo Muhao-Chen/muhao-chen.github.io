@@ -5,33 +5,15 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+<div style="text-align: justify;" markdown="1">
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+## An Expandable Shielded Rotating Space Habitat
+The motivation behind designing an Expandable Shielded Rotating Space Habitat stems from the need for sustainable and habitable environments beyond Earth. By employing innovative expansion techniques and shielded structures, the habitat offers a paradigm shift in space habitation, enabling long-term residency and fostering ecosystem development. Its versatility suits various celestial bodies, driving exploration and colonization efforts. Moreover, the habitat's potential to support diverse activities, from agriculture to research, makes it a cornerstone in the development of the cislunar economy and future space missions. 
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+We investigate an expandable shielded rotating space habitat presents a groundbreaking approach to pressurized orbital enclosures, starting from a small seed structure and gradually expanding into a V-shaped valley configuration with terraced hillsides, as shown in Figure 1. Successive concentric floor rings and flexible toroidal pressure membranes create a multi-story assembly with airlock docking portals and horticultural floorspace. This symmetrical enclosure surrounds a central void that transforms into a low-pressure atmospheric reserve over time. As the habitat grows, the expandable axial strut accommodates spacecraft docking and supports primary mirrors and radiators. Solar-powered steam thrusters facilitate rotational acceleration while maintaining a non-rotating shield, easing material addition and docking. This innovative habitat design offers significant potential for development in the cislunar economy and beyond, including applications on Venus, Mars, and as Aldrin cyclers. (Images Video Credit to Anthony Longman)
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
+<figure><img src="{{ site.url }}/images/rffi/habitat_two.png" width="800"/></figure>
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+<figure><img src="{{ site.url }}/images/rffi/habitat_video.gif" width="100px" height="100px"/></figure>
+
