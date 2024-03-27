@@ -22,7 +22,7 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat st
 
 <!-- <video width="1000" height="500" controls> -->
 <!-- <video width="1000" controls> -->
-<video width="984" controls>
+<video width="983" controls>
   <source src="https://raw.githubusercontent.com/Muhao-Chen/muhao-chen.github.io/main/images/rffi/habitat_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
