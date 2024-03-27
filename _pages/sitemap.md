@@ -15,9 +15,7 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 (Skyframe Research Collaboration, Images & Video Credit to Anthony Longman 
 <a href="mailto:anthony.longman@skyframeresearch.com">
     <i class="fas fa-envelope"></i>
-    <!-- anthony.longman@skyframeresearch.com -->
-</a>
-)
+</a>)
 <!-- We investigate an expandable shielded rotating space habitat presents a groundbreaking approach to pressurized orbital enclosures, starting from a small seed structure and gradually expanding into a V-shaped valley configuration with terraced hillsides, as shown in Figure 1. Successive concentric floor rings and flexible toroidal pressure membranes create a multi-story assembly with airlock docking portals and horticultural floorspace. This symmetrical enclosure surrounds a central void that transforms into a low-pressure atmospheric reserve over time. As the habitat grows, the expandable axial strut accommodates spacecraft docking and supports primary mirrors and radiators. Solar-powered steam thrusters facilitate rotational acceleration while maintaining a non-rotating shield, easing material addition and docking. This innovative habitat design offers significant potential for development in the cislunar economy and beyond, including applications on Venus, Mars, and as Aldrin cyclers. (Images Video Credit to Anthony Longman) -->
 
 
