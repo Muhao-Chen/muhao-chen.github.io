@@ -34,7 +34,7 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 
 <!-- Muhao-Chen/muhao-chen.github.io/blob/main/ -->
 
-### Related Research 
+### Related Publications 
 <font size=3>
 <ol reversed>
 <li>Longman, A., <strong>Chen, M.</strong>*, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.</li>
