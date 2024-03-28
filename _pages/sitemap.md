@@ -45,6 +45,7 @@ Building a growable habitat for sustainable life in space (By Jan McHarg, [TAMU 
 
 Space Village One: A Vision for Life Beyond Earth (By 
 Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018)
+
 </font>
 
 
