@@ -36,7 +36,6 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 
 ### Public News
 
-<font size=3>
 
 Design for a space habitat with artificial gravity that could be enlarged over time to fit more people (By Andy Tomaswick, [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020)
 
@@ -47,11 +46,9 @@ Building a growable habitat for sustainable life in space (By Jan McHarg, [TAMU 
 Space Village One: A Vision for Life Beyond Earth (By 
 Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018)
 
-</font>
 
 
 ### Research Publications 
-<font size=3>
 <ol reversed>
 <li>Longman, A., <strong>Chen, M.</strong>*, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p100692.</li>
@@ -60,7 +57,6 @@ Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-
 <li>Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. Nov. 16-18, 2020. </li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
-</font>
 
 
 
