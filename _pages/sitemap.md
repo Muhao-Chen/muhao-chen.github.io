@@ -35,10 +35,21 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 <!-- Muhao-Chen/muhao-chen.github.io/blob/main/ -->
 
 ### Related News & Reports
-- [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020
-- [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Jul. 26 2019
-- [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html) & [Video](https://youtu.be/3573t1r9XRA), Feb. 5, 2019
-- [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018
+<font size=3>
+<ol reversed>
+
+Design for a space habitat with artificial gravity that could be enlarged over time to fit more people (By Andy Tomaswick, [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020)
+
+
+Futuristic Space Habitat Solves Problems With Human Space Travel (By Elizabeth Lee, [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Jul. 26 2019)
+
+Building a growable habitat for sustainable life in space (By Jan McHarg, [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html), Feb. 5, 2019)
+
+Space Village One: A Vision for Life Beyond Earth (By 
+Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018)
+</ol>
+</font>
+
 
 ### Related Publications 
 <font size=3>
