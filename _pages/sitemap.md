@@ -48,7 +48,6 @@ Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-
 
 </font>
 
-
 ### Research Publications 
 <font size=3>
 <ol reversed>
