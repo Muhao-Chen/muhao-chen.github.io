@@ -54,6 +54,7 @@ Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-
 <!-- <li> -->
 Longman, A., Chen, M.*, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.
 <!-- </li> -->
+
 <!-- <li> -->
 Chen, M.*, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p100692.
 <!-- </li> -->
