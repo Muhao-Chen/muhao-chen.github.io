@@ -16,7 +16,7 @@ toc_max_header: 1
 - The ASME's International Mechanical Engineering Congress & Exposition (IMECE), Portland, OR, Nov. 17 – 21, 2024
 - The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024 
 - The 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment (Earth & Space), Miami, FL, Apr. 17, 2024 
-- Invited by Prof. Jing Qin, Applied Math Seminar, Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
+- Invited by Profs. Jing Qin and David Murrugarra, Applied Math Seminar, Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
 - The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8-12, 2024
 - The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023 
 - The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023 
