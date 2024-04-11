@@ -18,7 +18,7 @@ toc_max_header: 1
 - The 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment (Earth & Space), Miami, FL, Apr. 17, 2024 
 <!-- - Invited by Profs. Jing Qin and David Murrugarra,  - Applied Math Seminar, -->
 - Invited by Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
-- Invited by Department of Mechanical and Aerospace Engineering, NC State University, NC, Mar. 2024 
+- Invited by Department of Mechanical and Aerospace Engineering, NC State University, Raleigh, NC, Mar. 2024 
 - The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 8-12, 2024
 - The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023 
 - The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023 
