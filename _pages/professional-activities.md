@@ -32,7 +32,7 @@ toc_max_header: 1
 - Invited by #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
 <!-- - Invited by Prof. Xun Yu,  -->
 - Invited by Department of Mechanical Engineering, New York Institute of Technology, New York, NY, Apr. 6, 2022 
-- Invited by International Forum of Excellent Young Talents in Engineering Sciences, Peking University, Beijing, Mar. 8, 2022 
+- Invited by International Forum of Excellent Young Talents in Engineering Sciences, Peking University, Mar. 8, 2022 
 <!-- - Invited by Prof. Xiaodong Feng,  -->
 - Invited by College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022 
 - Invited by Halliburton Company, Houston, TX, Sept. 30, 2021 
