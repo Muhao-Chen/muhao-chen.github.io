@@ -25,14 +25,14 @@ toc: true
 ### Texas A&M University, College Station, TX
 - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
     * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)
-        - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure
+        <!-- - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure -->
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)
-        - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin
+        <!-- - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin -->
     * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)
-        - Research Topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures
+        <!-- - Research Topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures -->
     * Xiaolong Bai, MEng in Aerospace Engineering (Sept. 2017 - Dec. 2019)
-        - Research Topic: Experiment Design of A Tensegrity Morphing Airfoil
+        <!-- - Research Topic: Experiment Design of A Tensegrity Morphing Airfoil -->
 
 ### Huazhong University of Science and Technology   
 - Class Advisor, B.S. Students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016
