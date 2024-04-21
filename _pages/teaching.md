@@ -12,15 +12,24 @@ toc: true
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
+    * Kyle Hampton, MS in Aerospace Engineering (committee member)
     * Cong Wang, Electrical Engineering
-    * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
     * Junheng Yao, Mechanical Engineering
+- Students Mentored
+    * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
     * Siddharth Sundar, Engineering Internship Program at Lafayette High School
 - Class Teaching
-    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, Undergraduates & Graduates)
+    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall, Undergraduates)
     * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, Graduates)
+    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, Undergraduates & Graduates)
 - Faculty Advisor
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
+
+### University of Maryland, Baltimore County
+- Student Mentoring (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
+    * Abhinav Bharata, MS in Mechanical Engineering
+    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering
+
 
 ### Texas A&M University, College Station, TX
 - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
