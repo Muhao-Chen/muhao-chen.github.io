@@ -25,10 +25,10 @@ toc: true
 - Faculty Advisor
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
-### University of Maryland, Baltimore County
+<!-- ### University of Maryland, Baltimore County
 - Student Mentoring (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
     * Abhinav Bharata, MS in Mechanical Engineering
-    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering
+    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering -->
 
 
 ### Texas A&M University, College Station, TX
