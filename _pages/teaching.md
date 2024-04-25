@@ -28,7 +28,7 @@ toc: true
 <!-- (committee member) -->
 
 ### University of Maryland, Baltimore County
-- Student Mentoring (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
+- Student Mentored (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
     * Abhinav Bharata, MS in Mechanical Engineering (Spet. 2022 - Jun. 2024)
     * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering (Spet. 2022 - Jun. 2024)
 
