@@ -12,7 +12,7 @@ toc: true
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
-    * Kyle Hampton, MS in Aerospace Engineering (committee member)
+    * Kyle Hampton, MS in Aerospace Engineering 
     * Cong Wang, Electrical Engineering
     * Junheng Yao, Mechanical Engineering
 - Students Mentored
@@ -25,10 +25,12 @@ toc: true
 - Faculty Advisor
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
-<!-- ### University of Maryland, Baltimore County
+<!-- (committee member) -->
+
+### University of Maryland, Baltimore County
 - Student Mentoring (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
-    * Abhinav Bharata, MS in Mechanical Engineering
-    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering -->
+    * Abhinav Bharata, MS in Mechanical Engineering (Spet. 2022 - Jun. 2024)
+    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering (Spet. 2022 - Jun. 2024)
 
 
 ### Texas A&M University, College Station, TX
