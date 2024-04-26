@@ -114,7 +114,9 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 (Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
 <figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
-
+### Stability Conditions of Tensegrity Structures subject to Local and Global Buckling
+(Muhao Chen and Shuo Ma)
+<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 (Muhao Chen and Robert E. Skelton)
