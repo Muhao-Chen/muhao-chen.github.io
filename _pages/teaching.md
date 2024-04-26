@@ -12,7 +12,8 @@ toc: true
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
-    * Kyle Hampton, MS in Aerospace Engineering 
+    * Randall M. Tomlinson, Aerospace Engineering 
+    * Kyle Hampton, M.S. in Aerospace Engineering 
     * Cong Wang, Electrical Engineering
     * Junheng Yao, Mechanical Engineering
 - Students Mentored
