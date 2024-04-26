@@ -116,7 +116,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 ### Stability Conditions of Tensegrity Structures subject to Local and Global Buckling
 (Muhao Chen and Shuo Ma)
-<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+<figure><img src="{{ site.url }}/images/rffi/local_global.png" width="800"/></figure>
 
 ### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 (Muhao Chen and Robert E. Skelton)
