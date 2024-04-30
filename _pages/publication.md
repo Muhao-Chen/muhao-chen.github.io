@@ -97,7 +97,7 @@ Conference with Abstracts:
 Conference with Full Papers:
 <ol reversed>
 <li> Xu, Y., <strong>Chen, M.</strong>*, 2024. The Minimal Mass Tensegrity Solutions to Compressive and Tensile Loads. <u>International Mechanical Engineering Congress & Exposition (IMECE)</u>. Portland, OR, Nov. 17 – 21, 2024. Submitted. </li> 
-<li> <strong>Chen, M.</strong>,Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers</u>. Pacific Grove, CA, Oct. 27 - Oct. 30, 2024. </li> 
+<li> <strong>Chen, M.</strong>, Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers</u>. Pacific Grove, CA, Oct. 27 - Oct. 30, 2024. </li> 
 <li><strong>Chen, M.</strong>*, Zhu, Z., 2024. AI-Based and Performance-Driven Design for the Optimal Combined Tensegrity and Membrane Structures for Lunar Bases. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Lightweight Design of Tensegrity V-Expander Structures. <u>The International Association for Shell and Spatial Structures (IASS) Annual Symposium 2024</u>. ETH Hönggerberg, Zurich, Aug. 26 – 30, 2024. Submitted. </li> 
 <li> Ma, Shuo.*, <strong>Chen, M.</strong>. Prestressed cable-strut structures stability analysis under local and global buckling conditions. <u>The 2024 Investigation on Structure Stability and Fatigue (ISSF)</u>. Guangzhou, Aug. 16-19, 2024.</li>
