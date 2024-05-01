@@ -45,8 +45,9 @@ toc: true
 <font size=3>
 Conference with Full Papers:
 <ol reversed>
+<li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E., and Skelton, R.E., 2024. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 15-18, 2024.</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Linearized Tensegrity Dynamics and Analysis of Morphing Airfoils. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum 2024)</u>. Orlando, FL, Jan. 8-12, 2024.</li>
-<li>Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E, 2023. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9 – 14, 2023, Yokohama, Japan.</li>
+<li>Shen, Y.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E, 2023. An Efficient q-Markov Covariance Equivalent Realization Approach to System Identification. <u>The 22nd World Congress of the International Federation of Automatic Control (IFAC)</u>. July 9–14, 2023, Yokohama, Japan.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., and Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. <u>IWSS - Italian Workshop on Shell and Spatial Structures.</u> Turin, June 26 - 28, 2023.</li> 
 <!-- <li>Yazbeck, R., Fernandes, R., <strong>Chen, M.</strong>, El-Borgi, S., Boyd, J., Lagoudas, D. Adaptive Bandgap Formation in a Periodic Tensegrity Structure, 2023. <u>ASME's 1st Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. San Diego, CA, June 19 - 21, 2023.</li> -->
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. Bucharest, Romania, June 13 - 16, 2023.</li>
@@ -61,6 +62,7 @@ Conference with Full Papers:
 </ol>
 Conference with Abstracts:
 <ol reversed>
+<li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E., 2024. The optimal dynamical model for 3D tensegrity morphing airfoils. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 17, 2024.</li>
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.∗, and Piccioni, M., 2023. Efficiency of clustered cable-actuation of V-Expander tensegrity cells. <u>XXIX Conference of Lightweight Structures in Civil Engineering</u>. Gdansk, Poland, Dec. 1, 2023.</li> 
 <li><strong>Chen, M.</strong>*, Ma, S., and Skelton, R.E. Combining Tensegrity and Origami: Advancements in Aerospace Deployable Structures. The 2023 Kentucky Academy of Science (<u>KAS 2023</u>) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023.</li>
 <li>Liu, Q., <strong>Chen, M.</strong>, Skelton, R.E. An extended peridynamics model for non-spherical horizons. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA., Oct. 30, 2023.</li>
@@ -101,7 +103,6 @@ Conference with Full Papers:
 <li><strong>Chen, M.</strong>*, Zhu, Z., 2024. AI-Based and Performance-Driven Design for the Optimal Combined Tensegrity and Membrane Structures for Lunar Bases. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Lightweight Design of Tensegrity V-Expander Structures. <u>The International Association for Shell and Spatial Structures (IASS) Annual Symposium 2024</u>. ETH Hönggerberg, Zurich, Aug. 26 – 30, 2024. Submitted. </li> 
 <li> Ma, Shuo.*, <strong>Chen, M.</strong>. Prestressed cable-strut structures stability analysis under local and global buckling conditions. <u>The 2024 Investigation on Structure Stability and Fatigue (ISSF)</u>. Guangzhou, Aug. 16-19, 2024.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E., and Skelton, R.E., 2024. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 15-18, 2024. Accepted.</li>
 <li> Chen, Y., <strong>Chen, M.</strong>, Xia, X.*, Hermanson, J.C., and Qi, F. An Efficient Approach to Solving the Coagulation Population Balance Equation through Weighted Particle Reconstruction. <u>The 16th International Conference on Gas–Liquid and Gas–Liquid–Solid Reactor Engineering (GLS-16)</u>. Dresden, Germany, Sept. 2-5, 2024. Accepted.</li>
 <!-- <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. The Optimal Dynamical Model for 3D Tensegrity Morphing Airfoils. <u>ASCE Earth & Space 2024</u>. April 15-18, 2024, Miami, FL.</li> -->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Skelton, R.E. The Optimal Dynamical Model for High-Dimensional Aerospace Structures. <u>ASME's International Mechanical Engineering Congress & Exposition (IMECE)</u>. New Orleans, LA. Oct. 29 – Nov. 2, 2023. Accepted. </li> -->
