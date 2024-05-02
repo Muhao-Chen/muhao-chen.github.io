@@ -30,8 +30,8 @@ toc: true
 
 ### University of Maryland, Baltimore County
 - Student Mentored (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
-    * Abhinav Bharata, MS in Mechanical Engineering (Spet. 2022 - Jun. 2024)
-    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering (Spet. 2022 - Jun. 2024)
+    * Abhinav Bharata, MS in Mechanical Engineering (Spet. 2022 - Aug. 2024)
+    * Mohammad Riyaz Ur Rehman, MS in Mechanical Engineering (Spet. 2022 - May. 2024)
 
 
 ### Texas A&M University, College Station, TX
