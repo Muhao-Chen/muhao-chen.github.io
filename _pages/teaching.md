@@ -28,6 +28,13 @@ toc: true
 
 <!-- (committee member) -->
 
+### Dartmouth College
+- Student Mentoring (with [Prof. Devin Balkcom](https://web.cs.dartmouth.edu/people/devin-j-balkcom))
+    * Luyang Zhao, Ph.D. in Computer Science (Feb. 2024 - Pressent)
+    * Yitao Jiang, M.S. in Computer Science (Feb. 2024 - Pressent)
+    * Matthew Chun-Yi She, M.S. in Computer Science (Feb. 2024 - Pressent)
+
+
 ### University of Maryland, Baltimore County
 - Student Mentored (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
     * Abhinav Bharata, MS in Mechanical Engineering (Spet. 2022 - Aug. 2024)
