@@ -91,10 +91,11 @@ toc_max_header: 1
 
 ## Services
 * Aerospace Advanced Materials And Structures Committee, ASCE Aerospace Division ([ASCE](https://www.asce.org/communities/institutes-and-technical-groups/aerospace-engineering/committees/aerospace-division/aerospace-executive-committee/technical-committees/aerospace-advanced-materials-and-structures-committee)), 2023 - Present
-* Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration, 2023 -Present
+* Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), 2023 -Present
 * Editorial Committee, ASCE Texas Section ([TexASCE](https://www.texasce.org/)), 2021 - Present
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
 * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015
+<!-- , [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration -->
 
 ## Referee
 * Journal: ASCE Journal of Structural Engineering, European Journal of Mechanics/A Solids, Engineering Structures, Journal of Engineering Mechanics, Acta Astronautica, Journal of Mechanical Engineering Science, IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics, Journal of Mechanisms and Robotics: ASME, Aerospace Science and Technology, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, Aerospace, International Journal of Numerical Methods for Heat and Fluid Flow, Journal of Drainage and Irrigation Machinery Engineering, International Journal of Physical Sciences, ACM Transactions on Knowledge Discovery from Data, Academy Proceedings in Engineering Sciences, Journal of Engineering Computations, Journal of Data Intelligence, Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques, CRC Press
