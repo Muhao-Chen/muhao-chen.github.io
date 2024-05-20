@@ -99,7 +99,8 @@ Conference with Abstracts:
 <font size=3>
 Conference with Full Papers:
 <ol reversed>
-<li> Xu, Y., <strong>Chen, M.</strong>*, 2024. The Minimal Mass Tensegrity Solutions to Compressive and Tensile Loads. <u>International Mechanical Engineering Congress & Exposition (IMECE)</u>. Portland, OR, Nov. 17 – 21, 2024. Submitted. </li> 
+<li> Xu, Y., <strong>Chen, M.</strong>*, 2024. The Minimal Mass Tensegrity Solutions to Compressive and Tensile Loads. <u>International Mechanical Engineering Congress & Exposition (IMECE)</u>. Portland, OR, Nov. 17 – 21, 2024. Submitted. </li>
+<li> Ma, Shuo.*, <strong>Chen, M.</strong>. Dynamics of Tensergity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024. Submitted.</li> 
 <li> <strong>Chen, M.</strong>, Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - Oct. 30, 2024. </li> 
 <li><strong>Chen, M.</strong>*, Zhu, Z., 2024. AI-Based and Performance-Driven Design for the Optimal Combined Tensegrity and Membrane Structures for Lunar Bases. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
 <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Design of a space station with artificial gravity using a metaheuristic approach. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
