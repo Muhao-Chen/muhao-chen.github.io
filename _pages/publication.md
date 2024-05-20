@@ -88,10 +88,10 @@ Conference with Abstracts:
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
 <!-- <li>Bai, M., <strong>Chen, M</strong>*, and Skelton, R.E., 2023. Lightweight design of tensegrity cranes based on the Michell Truss topology subject to cantilever loads. <u>Computer Methods in Applied Mechanics and Engineering</u>. Submitted.<\li> -->
 <li>Ma, S., <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures subject to local and global buckling. Submitted.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
-<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li>
-<li>Chen, J., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
-<li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. 2024. <u>Acta Astronautica</u>.</li>
+<!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
+<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
+<li>Chen, J., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Tensegrity system dynamics in fluids. Submitted.</li>
+<li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. Submitted.</li>
 </ol>
 </font>
 
