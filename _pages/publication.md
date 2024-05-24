@@ -99,7 +99,7 @@ Conference with Abstracts:
 <font size=3>
 Conference with Full Papers:
 <ol reversed>
-<li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of A Lightweight and Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum 2024)</u>. Orlando, FL, Jan. 6-10, 2025. Submitted. </li>
+<li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of a Lightweight Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum 2024)</u>. Orlando, FL, Jan. 6-10, 2025. Submitted. </li>
 <li> Xu, Y., <strong>Chen, M.</strong>*, 2024. The Minimal Mass Tensegrity Solutions to Compressive and Tensile Loads. <u>International Mechanical Engineering Congress & Exposition (IMECE)</u>. Portland, OR, Nov. 17 – 21, 2024. Submitted. </li>
 <li> Ma, Shuo.*, <strong>Chen, M.</strong>. Dynamics of Tensergity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024. Submitted.</li> 
 <li> <strong>Chen, M.</strong>, Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - Oct. 30, 2024. </li> 
