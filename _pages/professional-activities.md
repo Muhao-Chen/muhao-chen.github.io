@@ -13,6 +13,7 @@ toc_max_header: 1
 
 ## Talks
 <!-- <ol reversed> -->
+- The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum), Orlando, FL, Jan. 6-10, 2024
 - The ASME's International Mechanical Engineering Congress & Exposition (IMECE), Portland, OR, Nov. 17–21, 2024
 - The 58th Annual Asilomar Conference on Signals, Systems, and Computers (Asilomar), Pacific Grove, CA, Oct. 27-30, 2024
 - The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (EMI/PMC), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024 
