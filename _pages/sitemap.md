@@ -52,7 +52,7 @@ Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-
 
 <!-- <ol reversed> -->
 <!-- <li> -->
-Longman, A., Chen, M.*, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024. Accepted.
+Longman, A., Chen, M.*, 2024. Revolutionary Expandable Rotating Shielded Space Habitat: Pioneering Sustainable Life Beyond Earth. The Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference (<u>EMI/PMC 2024</u>), The University of Illinois Urbana-Champaign, Chicago, IL, May 28-31, 2024.
 <!-- </li> -->
 
 <!-- <li> -->
@@ -64,7 +64,7 @@ Chen, M.*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of 
 <!-- </li> -->
 
 <!-- <li> -->
-Chen, M.*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. April 18-23, 2021.
+Chen, M.*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. April 18-23, 2020.
 <!-- </li> -->
 
 <!-- <li> -->
