@@ -17,6 +17,7 @@ toc: true
     * Cong Wang, Electrical Engineering
     * Junheng Yao, Mechanical Engineering
     * Alex Arber, Pre-Engineering program at Lafayette High School
+    * Youyun Xu, Aerospace Engineering 
 - Students Mentored
     * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
     * Siddharth Sundar, Engineering Internship Program at Lafayette High School
@@ -35,12 +36,10 @@ toc: true
     * Yitao Jiang, M.S. in Computer Science (Feb. 2024 - Pressent)
     * Matthew Chun-Yi She, M.S. in Computer Science (Feb. 2024 - Pressent)
 
-
 ### University of Maryland, Baltimore County
 - Student Mentored (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
     * Abhinav Bharata, M.S. in Mechanical Engineering (Spet. 2022 - Aug. 2024)
     * Mohammad Riyaz Ur Rehman, M.S. in Mechanical Engineering (Spet. 2022 - May. 2024)
-
 
 ### Texas A&M University, College Station, TX
 - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
