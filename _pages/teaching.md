@@ -45,7 +45,7 @@ toc: true
 - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
     * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)
         <!-- - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure -->
-- Student Mentoring (with [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
+- Student Mentoring (with [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
     * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present)
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)
