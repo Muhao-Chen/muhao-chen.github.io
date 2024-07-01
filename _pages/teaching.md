@@ -16,7 +16,7 @@ toc: true
     * Kyle Hampton, M.S. in Aerospace Engineering 
     * Cong Wang, Electrical Engineering
     * Junheng Yao, Mechanical Engineering
-    * Alex Arber, Pre-Engineering program at Lafayette High School
+    * Alex Arber, Pre-Engineering Program at Lafayette High School
     * Youyun Xu, Aerospace Engineering 
 - Students Mentored
     * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
