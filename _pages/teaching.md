@@ -17,7 +17,7 @@ toc: true
     * Cong Wang, Electrical Engineering
     * Junheng Yao, Mechanical Engineering
     * Alex Arber, Pre-Engineering Program at Lafayette High School
-    * Youyun Xu, Aerospace Engineering 
+    * Youyun Xu, Mechanical Engineering 
 - Students Mentored
     * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
     * Siddharth Sundar, Engineering Internship Program at Lafayette High School
