@@ -92,7 +92,7 @@ toc_max_header: 1
 
 <!-- , ASCE Aerospace Division -->
 ## Services
-* Aerospace Advanced Materials And Structures Committee ([ASCE](https://www.asce.org/communities/institutes-and-technical-groups/aerospace-engineering/committees/aerospace-division/aerospace-executive-committee/technical-committees/aerospace-advanced-materials-and-structures-committee)), 2023 - Present
+* Aerospace Advanced Materials And Structures Committee ([ASCE](https://www.asce.org/communities/institutes-and-technical-groups/aerospace-engineering/committees/aerospace-executive-committee/aerospace-advanced-materials-and-structures-committee)), 2024 - Present
 * Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), 2023 -Present
 * Editorial Committee, ASCE Texas Section ([TexASCE](https://www.texasce.org/)), 2021 - Present
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
