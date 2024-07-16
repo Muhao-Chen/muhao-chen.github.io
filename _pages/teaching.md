@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-### University of Lexington, Lexington, KY
+### University of Kentucky, Lexington, KY
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
