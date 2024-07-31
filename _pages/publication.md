@@ -95,7 +95,7 @@ Conference with Abstracts:
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. Submitted.</li>
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
-<li>Chen, J., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Tensegrity system dynamics in fluids. Submitted.</li>
+<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2024. Tensegrity system dynamics in fluids. Submitted.</li>
 <li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. Submitted.</li>
 </ol>
 </font>
