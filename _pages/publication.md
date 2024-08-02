@@ -85,6 +85,7 @@ Conference with Abstracts:
 ### Journal Articles 
 <font size=3>
 <ol reversed>
+<li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. Submitted. </li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. Submitted. </li>
 <li> Zhao, L.*, Jiang Y., <strong>Chen, M.</strong>, Bekris, K., and Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. Submitted. </li>
 <li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Collision resistant study of spherical tensegrity structures for protective drone shells. Submitted. </li>
@@ -95,8 +96,8 @@ Conference with Abstracts:
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. Submitted.</li>
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
-<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2024. Tensegrity system dynamics in fluids. Submitted.</li>
-<li>Su, X., <strong>Chen, M.</strong>*, Majji, M. and Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. Submitted.</li>
+<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. Submitted.</li>
+<li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. Submitted.</li>
 </ol>
 </font>
 
