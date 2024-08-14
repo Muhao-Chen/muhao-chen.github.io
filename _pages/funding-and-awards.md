@@ -14,10 +14,10 @@ author_profile: true
 * AERO Travel Grant, Texas A&M University, College Station, 2018-2019
 * First Prize, National Marine Vehicle Design Competition, Jul. 2015
 * National Scholarship (the Highest Honor for Students in China), Dec. 2014
-* The Unique National Special Prize, Sunbird Cup Yacht Design Contest, Dec. 2014
+<!-- * The Unique National Special Prize, Sunbird Cup Yacht Design Contest, Dec. 2014 -->
 * First Prize, 6th National Contest on Energy Saving and Emission Reduction, Aug. 2013
-* Second Prize, the National Virtual Instrument Contest, May 2013
-* National Encouragement Scholarship, Oct. 2012
-* First Prize, 28th Hubei 12·9 Poetry and Prose Contest, Dec. 2012
+<!-- * Second Prize, the National Virtual Instrument Contest, May 2013 -->
+<!-- * National Encouragement Scholarship, Oct. 2012 -->
+<!-- * First Prize, 28th Hubei 12·9 Poetry and Prose Contest, Dec. 2012 -->
 * Gold Prize, Provincial 7th Challenge Cup University Competition, Jun. 2012
 </div>
