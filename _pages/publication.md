@@ -87,7 +87,9 @@ Conference with Abstracts:
 <ol reversed>
 <li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. Submitted. </li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. Submitted. </li>
+<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D-bar based metamaterials with negative Poisson’s ratio. Submitted. </li>
 <li> Zhao, L.*, Jiang Y., <strong>Chen, M.</strong>, Bekris, K., and Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. Submitted. </li>
+<li> Dong, H., Gan, J., Xia, R., Lu, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Adaptive tensegrity foot design for quadruped robots in unstructured terrains. Submitted. </li>
 <li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Collision resistant study of spherical tensegrity structures for protective drone shells. Submitted. </li>
 <!-- <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Linearized Tensegrity Dynamics and Analysis of Morphing Airfoils. <u>Journal of Guidance, Control, and Dynamics</u>. Submitted.</li> -->
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
