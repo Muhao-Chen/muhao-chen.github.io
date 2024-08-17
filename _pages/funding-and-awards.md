@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;" markdown="1">
+* Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024
 * Selected as Outstanding Academic Papers in Natural Sciences from Suzhou, 2024 
 * Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, 2023
 * First Prize, 11th International Conference on Rehabilitation Medicine and Engineering, 2022
