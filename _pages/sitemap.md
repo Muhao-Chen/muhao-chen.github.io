@@ -36,7 +36,8 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 
 ### Public News
 
-<!-- zhanshi liangdian -->
+<!-- zhanshi liangdian,youqu de zhanshi fangshi -->
+
 [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Design for a space habitat with artificial gravity that could be enlarged over time to fit more people (By Andy Tomaswick, Sept. 21 2020)
 
 [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Futuristic Space Habitat Solves Problems With Human Space Travel (By Elizabeth Lee, Jul. 26 2019)
