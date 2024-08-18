@@ -154,11 +154,11 @@ Conference with Abstracts:
 <!-- </ol> -->
 <!-- </font> --> 
 
-## Thesis and Dissertation
+<!-- ## Thesis and Dissertation
 <font size=3>
 <li>[Ph.D.] <strong>Chen, M.</strong>. Soft Robotics by Integrating Structure, Control, and Signal Processing Using the Tensegrity Paradigm.</li>
 <li>[M.S.] <strong>Chen, M.</strong>. Development of Noise and Vibration Signal Processing System for Ship Tests.</li>
 <li>[B.S.] <strong>Chen, M.</strong>. Study on the Performance of Submarine Emergency Surfacing.</li>
-</font>
+</font> -->
 
 </div>
