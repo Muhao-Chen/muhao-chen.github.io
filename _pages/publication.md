@@ -151,7 +151,7 @@ Conference with Abstracts:
 <!-- <li><strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, Mar. 2, 2016.</li> -->
 <!-- <li><strong>Chen, M.</strong>, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, Aug. 26, 2015.</li> -->
 <!-- </ol> -->
-<!-- </font> --> -->
+<!-- </font> --> 
 
 ## Thesis and Dissertation
 <font size=3>
