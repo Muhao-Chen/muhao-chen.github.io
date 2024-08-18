@@ -13,9 +13,10 @@ toc: true
 
 <!-- ## Tensegrity Lab -->
 <!-- , integrated with signal processing resource design.  -->
+<!-- xiugai -->
 Tensegrity Lab seeks to develop new analytical tools to merge structure and control design with material science to create new structures and material systems. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that allow minimal control energy within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy with material science to create new material systems. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to build tensegrity structures in space autonomously. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at the impact on the moon or Mars. These studies employ data-based as well as model-based control methods.
 
-Please get in touch with me directly if you are keen on tensegrity and require assistance. I am willing to offer guidance and support within my capabilities.
+Please get in touch with me directly (muhaochen@uky.edu) if you are keen on tensegrity and require assistance. I am willing to offer guidance and support within my capabilities.
 
 <!--<div style="text-align: justify">  </div> -->
 <!-- Muhao Chen, Ph.D., is a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. I am affiliated with the [Tensegrity Lab](https://bobskelton.github.io/) and [Land Air & Space Robotics (LASR) Laboratory](https://lasr.tamu.edu/) at Texas A&M University, College Station, TX.  -->
