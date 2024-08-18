@@ -57,6 +57,8 @@ Postdoctoral Researcher, May 2021 - July 2023 (Advisor: Dr. [Robert Skelton](htt
 Assistant Application Engineer, July 2013 - Jan. 2015 -->
  <!-- & LabVIEW Club President at HUST, July 2013 - Jan. 2015  -->
 
+ <!-- Considering add useful links for learning, orgnizations -->
+
 ## Education 
 Texas A&M University, College Station, Sept. 2016 - May 2021    
 Ph.D., Aerospace Engineering. Advisors: Drs. [Robert Skelton](https://bobskelton.github.io/) and [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html)
