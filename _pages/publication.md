@@ -85,21 +85,22 @@ Conference with Abstracts:
 ### Journal Articles 
 <font size=3>
 <ol reversed>
-<li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. Submitted. </li>
-<li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. Submitted. </li>
-<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D-bar based metamaterials with negative Poisson’s ratio. Submitted. </li>
-<li> Zhao, L.*, Jiang Y., <strong>Chen, M.</strong>, Bekris, K., and Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. Submitted. </li>
-<li> Dong, H., Gan, J., Xia, R., Lu, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Adaptive tensegrity foot design for quadruped robots in unstructured terrains. Submitted. </li>
-<li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Collision resistant study of spherical tensegrity structures for protective drone shells. Submitted. </li>
+<li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. <u>Composite Structures</u>. Submitted. </li>
+<li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. Submitted. </li>
+<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D-bar based metamaterials with negative Poisson’s ratio. <u>Mechanics Research Communications</u>. Submitted. </li>
+<li> Zhao, L.*, Jiang Y., <strong>Chen, M.</strong>, Bekris, K., and Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Science Robotics</u>. Submitted. </li>
+<li> Dong, H., Gan, J., Xia, R., Lu, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Adaptive tensegrity foot design for quadruped robots in unstructured terrains. <u>Smart Materials and Structures</u>. Submitted. </li>
+<li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Collision resistant study of spherical tensegrity structures for protective drone shells. <u>Extreme Mechanics Letters</u>. Submitted. </li>
 <!-- <li><strong>Chen, M.</strong>*, Shen, Y., and Skelton, R.E. Model-Based and Markov Data-Based Linearized Tensegrity Dynamics and Analysis of Morphing Airfoils. <u>Journal of Guidance, Control, and Dynamics</u>. Submitted.</li> -->
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
-<li>Bai, M. and <strong>Chen, M</strong>*, 2024. Lightweight design of tensegrity Michell truss subject to cantilever loads. Submitted.</li>
-<li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. Submitted.</li>
+<li>Bai, M. and <strong>Chen, M</strong>*, 2024. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. Submitted.</li>
+<li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
-<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. Submitted.</li>
-<li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. Submitted.</li>
+<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
+<li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. 
+ Submitted.</li>
 </ol>
 </font>
 
