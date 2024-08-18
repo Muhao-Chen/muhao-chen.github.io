@@ -13,7 +13,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 <!-- We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes can be found on the [Software](https://muhao-chen.github.io/resources/) page.  -->
 
-## Research Interests
+<!-- ## Research Interests -->
 * Mechanics and Lightweight Infrastructures Design for Long-term Planetary Explorations
 * Modeling of Deployable/Flexible/Foldable Space Robotics and Structures
 * Deployable Modular Space Structures/Robotics for Landing, Self-Deployment, and In-Situ Assembly
