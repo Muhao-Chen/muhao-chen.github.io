@@ -52,8 +52,10 @@ Assistant Professor, Aug. 2023 - Present
 Department of Aerospace Engineering, Texas A&M Univerisity, College Station, TX    
 Postdoctoral Researcher, May 2021 - July 2023 (Advisor: Dr. [Robert Skelton](https://bobskelton.github.io/))
 
-National Instruments Corporation
-Assistant Application Engineer & LabVIEW Club President at HUST, July 2013 - Jan. 2015 
+<!-- Think -->
+<!-- National Instruments Corporation
+Assistant Application Engineer, July 2013 - Jan. 2015 -->
+ <!-- & LabVIEW Club President at HUST, July 2013 - Jan. 2015  -->
 
 ## Education 
 Texas A&M University, College Station, Sept. 2016 - May 2021    
