@@ -18,7 +18,7 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 <!-- material-icons -->
 <!-- We investigate an expandable shielded rotating space habitat presents a groundbreaking approach to pressurized orbital enclosures, starting from a small seed structure and gradually expanding into a V-shaped valley configuration with terraced hillsides, as shown in Figure 1. Successive concentric floor rings and flexible toroidal pressure membranes create a multi-story assembly with airlock docking portals and horticultural floorspace. This symmetrical enclosure surrounds a central void that transforms into a low-pressure atmospheric reserve over time. As the habitat grows, the expandable axial strut accommodates spacecraft docking and supports primary mirrors and radiators. Solar-powered steam thrusters facilitate rotational acceleration while maintaining a non-rotating shield, easing material addition and docking. This innovative habitat design offers significant potential for development in the cislunar economy and beyond, including applications on Venus, Mars, and as Aldrin cyclers. (Images Video Credit to Anthony Longman) -->
 
-
+<!-- add music, taikong manyou 2001 -->
 <figure><img src="{{ site.url }}/images/rffi/habitat_two.png" width="800"/></figure>
 
 <!-- <figure><img src="{{ site.url }}/images/rffi/habitat_video.mp4" width="100px" height="100px"/></figure> -->
@@ -36,15 +36,14 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 
 ### Public News
 
+<!-- zhanshi liangdian -->
+[PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Design for a space habitat with artificial gravity that could be enlarged over time to fit more people (By Andy Tomaswick, Sept. 21 2020)
 
-Design for a space habitat with artificial gravity that could be enlarged over time to fit more people (By Andy Tomaswick, [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020)
+[VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Futuristic Space Habitat Solves Problems With Human Space Travel (By Elizabeth Lee, Jul. 26 2019)
 
-Futuristic Space Habitat Solves Problems With Human Space Travel (By Elizabeth Lee, [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Jul. 26 2019)
+[TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html), Building a growable habitat for sustainable life in space (By Jan McHarg, Feb. 5, 2019)
 
-Building a growable habitat for sustainable life in space (By Jan McHarg, [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html), Feb. 5, 2019)
-
-Space Village One: A Vision for Life Beyond Earth (By 
-Daniela Hernandez, [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018)
+[The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), Space Village One: A Vision for Life Beyond Earth (By Daniela Hernandez, May 17, 2018)
 
 
 
