@@ -100,10 +100,10 @@ toc_max_header: 1
 * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015
 <!-- , [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration -->
 
-## Referee
+<!-- ## Referee
 * Journal: ASCE Journal of Structural Engineering, European Journal of Mechanics/A Solids, Engineering Structures, Journal of Engineering Mechanics, Acta Astronautica, Journal of Mechanical Engineering Science, IEEE Robotics and Automation Letters, IEEE/ASME Transactions on Mechatronics, Journal of Mechanisms and Robotics: ASME, Aerospace Science and Technology, Journal of the Astronautical Sciences, Aircraft Engineering and Aerospace Technology, Aerospace, International Journal of Numerical Methods for Heat and Fluid Flow, Journal of Drainage and Irrigation Machinery Engineering, International Journal of Physical Sciences, ACM Transactions on Knowledge Discovery from Data, Academy Proceedings in Engineering Sciences, Journal of Engineering Computations, Journal of Data Intelligence, Acta Mechanica et Automatica, ASME Open Journal of Engineering, Experimental Techniques, CRC Press
 
-* Conference: International Symposium on Robotics Research (ISRR), IEEE International Conference on Robotics and Automation (ICRA), American Control Conference (ACC), AIAA SciTech Forum and Exposition, AIAA ASCEND, ASCE Earth & Space Conference, IEEE International Conference on Robotics and Biomimetics (ROBIO)
+* Conference: International Symposium on Robotics Research (ISRR), IEEE International Conference on Robotics and Automation (ICRA), American Control Conference (ACC), AIAA SciTech Forum and Exposition, AIAA ASCEND, ASCE Earth & Space Conference, IEEE International Conference on Robotics and Biomimetics (ROBIO) -->
 
 </div>
 <!-- Wireless Communications and Mobile Computing,  -->
