@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-[ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=2g3lz0AAAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
+[ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=2g3lz0AAAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper.    
 <sup>*</sup>Corresponding author.
 
 ## Journal Articles 
@@ -25,12 +25,12 @@ toc: true
 <li>Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. 282, p115796.</li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. 127, p104026.</li>
 <li>Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engineering Structures</u>. 279, p115569. </li>
-<li><strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2023. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. 404, p115832. </li>  
+<li><strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2023. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. 404, p115832. </li>  
 <li>Liu, Q.*, <strong>Chen, M.</strong> and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p115712.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p114618.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. 7(74), 3390.</li>
 <li>Khaled, M.S., <strong>Chen, M.</strong>, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. 252, p111785.</li>
- <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. 264, p.114391.</li>
+ <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. 264, p.114391.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p100692.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>. 280, p114838.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. <u>Aerospace Science and Technology</u>. 106, p106147.</li>
@@ -110,7 +110,7 @@ Conference with Full Papers:
 <ol reversed>
 <li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of a Lightweight Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum 2024)</u>. Orlando, FL, Jan. 6-10, 2025. Submitted. </li>
 <!-- <li> Xu, Y., <strong>Chen, M.</strong>*, 2024. The Minimal Mass Tensegrity Solutions to Compressive and Tensile Loads. <u>International Mechanical Engineering Congress & Exposition (IMECE)</u>. Portland, OR, Nov. 17 – 21, 2024. Submitted. </li> -->
-<li> Ma, S.* and <strong>Chen, M.</strong>. Dynamics of Tensergity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024. Submitted.</li> 
+<li> Ma, S.* and <strong>Chen, M.</strong>. Dynamics of Tensegrity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024. Submitted.</li> 
 <li> <strong>Chen, M.</strong> and Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - Oct. 30, 2024. </li> 
 <li><strong>Chen, M.</strong>* and Zhu, Z., 2024. AI-Based and Performance-Driven Design for the Optimal Combined Tensegrity and Membrane Structures for Lunar Bases. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
 <li>Zhu, Z.* and <strong>Chen, M.</strong>, 2024. Design of a space station with artificial gravity using a metaheuristic approach. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
@@ -122,8 +122,8 @@ Conference with Full Papers:
 </ol>
 Conference with Abstracts:
 <ol reversed>
-<!-- <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Integrating Structural Design and Control: Efficient Deployment Strategies for Tensegrity-Based Space Antennas. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Submitted. </li>  -->
-<!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Submitted. </li>  -->
+<!-- <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Integrating Structural Design and Control: Efficient Deployment Strategies for Tensegrity-Based Space Antennas. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Submitted. </li>  -->
+<!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Submitted. </li>  -->
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Shape-Change Morphing of Tensegrity V-Expander Plate Metamaterials. <u>ICCS27 - 27th International Conference on Composite Structures</u>. School of Engineering and Architecture, Ravenna Campus of University of Bologna, Italy, Sept. 3 – 6, 2024. Submitted. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. A general empirical framework for modeling and control of tensegrity robots using Markov parameters. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 20-23, 2024.</li>
 <li> Ma, Shuo., <strong>Chen, M.</strong>*. Stability in Tensegrity Systems Considering Member and Global Buckling. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 20-23, 2024.</li>
