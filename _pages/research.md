@@ -9,9 +9,9 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 <!-- ## Research Goal
-The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. Design the structure first, then material studies, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources such that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.   -->
+The existing design approaches mainly deal with what is sufficient rather than necessary, locked into the classical thinking of component technology. Design the structure first, then material studies, and add control and signal processing later. The critical question that we ask is whether dramatic performance improvements are possible by combining different disciplines as a communal pool of resources so that engineers in different disciplines have more freedom and can talk to each other in the design space to solve a joint optimization problem. Our research aims to exploit the integration of disciplines for better performance with fewer resources required of various engineering systems.   -->
 
-<!-- We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes can be found on the [Software](https://muhao-chen.github.io/resources/) page.  -->
+<!-- We would also like to develop and offer more and more software and tools to help engineers knit efficient structures that physics and their imagination allow and motivate students to study structure and control more fundamentally. All the source codes can be found on the [Software](https://muhao-chen.github.io/resources/) page.  -->
 
 <!-- ## Research Interests -->
 <!-- * Mechanics and Lightweight Infrastructures Design for Long-term Planetary Explorations
@@ -20,12 +20,12 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Integrating Structure and Control Theories for Aerospace Applications Using the Least Necessary Resources -->
 * Dynamics and Control of Tensegrity/Origami Systems for Lightweight Flexible Structures
 * Integrating Structure and Control Design for Complex Deployable Systems with Least Resources
-* Bio-Inspired Robotics, Soft/Underwater and Foldable Modular Robots for Various Applications
+* Bio-inspired robotics, Soft/Underwater, and Foldable Modular Robots for Various Applications
 * Data-Driven Control, Model Reduction, System Identification, Sensor and Actuator Selection
 
 
 <!-- * Creating Novel Structure and Material Systems for Aerospace Applications Using the Least Necessary Resources -->
-<!-- Integrating Structure and Materials to  -->
+<!-- Integrating Structure and Materials to  -->
 <!-- Control Theories Using the Least Necessary Resources -->
 
 <!-- Integrating Structure and Control Theories Using the Least Necessary Resources -->
@@ -41,14 +41,14 @@ The existing design approaches mainly deal with what is sufficient rather than n
 
 <!-- ## Research Keywords
 Integrating Structure and Control Design, Robotics and lightweight Automated Systems, Tensegrity and Origami, Space Systems and Deployable Infrastructures, Dynamics and Control Theory
-    -->
+ -->
 <!--
 ## Research Interests
 
 -----
-### Integrating Structure & Control Design    
-* Objective: Using the least amount of resources (structure mass, damper, control energy, sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control objective, accuracy bound, safety and redundancy, and robustness)   
-* Critical problems: Nonlinear and linearized dynamics and control, resource allocation algorithms, theories of integrated disciplines  
+### Integrating Structure & Control Design    
+* Objective: Using the least amount of resources (structure mass, damper, control energy, sensors & actuators, and computational efforts) to achieve the required performance (stiffness, control objective, accuracy bound, safety and redundancy, and robustness)   
+* Critical problems: Nonlinear and linearized dynamics and control, resource allocation algorithms, theories of integrated disciplines  
 
 ### Robotics & Lightweight automated system (i.e., by tensegrity, origami)
 * Design: Lightweight structure design, deployment planning, actuation, and sensing strategy 
@@ -65,13 +65,13 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 ### Dynamical and Control Theory
 * Data-driven control, path planning, finite bit computing of high-dimensional (FEM/FSI) systems
-* Multibody dynamics, rigid and non-rigid body, nonlinear and linearized dynamics with arbitrary shape objects, and modal analysis      
+* Multibody dynamics, rigid and non-rigid body, nonlinear and linearized dynamics with arbitrary shape objects, and modal analysis      
 * Structure redundancy, uncertainty, and robustness, FSI dynamics 
 * Fluid-structure dynamics, structure under extreme fluid loading conditions, biomimetic structure designs, soft actuation strategy, and control
 * Applications: rescue shelters, fish and hydrofoils, etc.
 
 ### Space Systems
-* Lightweight and deployable structure solutions for deep space explorations    
+* Lightweight and deployable structure solutions for deep space explorations    
 * Applications: space habitat design, Moon & Mars towers, drilling rigs, antennas, etc.
 
 -->
@@ -92,9 +92,9 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 ## Research Demonstrations
 
-<!-- All my research mainly focuses on three topics: 2) Lightweight Deployable Automated Space Systems, 2) Integrating Structure and Control Design, and 3) Lightweight Infrastructures. Here are a few examples.  -->
+<!-- All my research mainly focuses on three topics: 2) Lightweight Deployable Automated Space Systems, 2) Integrating Structure and Control Design, and 3) Lightweight Infrastructures. Here are a few examples.  -->
 
-<!-- Black and red lines are bars and strings.  -->
+<!-- Black and red lines are bars and strings.  -->
 <!-- ### An Expandable Shielded Rotating Space Habitat
 (Muhao Chen and Anthony Longman (Images Video Credit)
 
@@ -124,7 +124,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 (Shuo Ma and Muhao Chen)
 <figure><img src="{{ site.url }}/images/rffi/local_global.png" width="800"/></figure>
 
-### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
+### Dynamic Reference Tracking and Obstacle Avoidance Control Based on Reinforcement Learning  
 (Muhao Chen and Robert E. Skelton)
 
 <table>
@@ -142,7 +142,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 
 <!--
-### Integrated Tensegrity and Origami Systems  
+### Integrated Tensegrity and Origami Systems  
 (with Drs. Shuo Ma and Robert E. Skelton)
 -->
 
@@ -188,21 +188,21 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 
 ### Model Reduction of Tensegrity Systems
-(Muhao Chen and Robert E. Skelton)   
+(Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
 
 
 <!-- ### System Identification to Nonlinear Tensegrity Structures
-(Muhao Chen and Robert E. Skelton)   
+(Muhao Chen and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure> -->
 
 
-###  Statics of Integrated Tensegrity and Origami Systems
-(Shuo Ma, Muhao Chen, Hongying Zhang, and Robert E. Skelton)   
+###  Statics of Integrated Tensegrity and Origami Systems
+(Shuo Ma, Muhao Chen, Hongying Zhang, and Robert E. Skelton)   
 <figure><img src="{{ site.url }}/images/rffi/TsgOri.png" width="800"/></figure>
 
 
-###  Clustered Tensegrity Systems Considering Pulley Sizes
+###  Clustered Tensegrity Systems Considering Pulley Sizes
 (Shuo Ma, Yiqian Chen, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/pulley.png" width="800"/></figure>
 
@@ -269,7 +269,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 
 ### Gyroscopic Tensegrity Robots
-(Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
+(Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
 <figure><img src="{{ site.url }}/images/rffi/gyro.png" width="800"/></figure>
 
 
@@ -288,8 +288,8 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 <!--
 <figure class="half">
-    <img src="{{ site.url }}/images/rffi/ball.png" width="200"/><img src="{{ site.url }}/images/rffi/spine.png" width="200"/></figure>-->
-    
+ <img src="{{ site.url }}/images/rffi/ball.png" width="200"/><img src="{{ site.url }}/images/rffi/spine.png" width="200"/></figure>-->
+    
 
 ### Deployable Cable Domes 
 (Shuo Ma, Muhao Chen, Xingfei Yuan, and Robert E. Skelton)
