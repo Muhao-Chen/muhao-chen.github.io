@@ -9,7 +9,7 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ## An Expandable Shielded Rotating Space Habitat 
-The motivation behind designing an Expandable Shielded Rotating Space Habitat is the need for sustainable and habitable environments beyond Earth. By employing innovative expansion techniques and shielded structures, the habitat offers a paradigm shift in space habitation, enabling long-term residency and fostering ecosystem development. Moreover, the habitat's potential to support diverse activities, from agriculture to research, makes it a cornerstone in developing the cislunar economy and future space missions. 
+The motivation behind designing an Expandable Shielded Rotating Space Habitat is the need for sustainable and habitable environments beyond Earth. By employing innovative expansion techniques and shielded structures, the habitat offers a paradigm shift in space habitation, enabling long-term residency, and fostering ecosystem development. Moreover, the habitat's potential to support diverse activities, from agriculture to research, makes it a cornerstone in developing the cislunar economy and future space missions. 
 <!-- (Skyframe Research Collaboration, Images & Video Credit to Anthony Longman <i class="material-symbols-outlined">anthony.longman@skyframeresearch.com</i>) -->
 <!-- (Skyframe Research Collaboration, Images & Video Credit to Anthony Longman <i class="material-symbols-outlined">anthony.longman@skyframeresearch.com</i>) -->
 (Skyframe Research Collaboration, Images & Video Credit to Anthony Longman
