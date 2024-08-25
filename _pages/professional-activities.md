@@ -21,7 +21,7 @@ toc_max_header: 1
 - The 2023 Kentucky Academy of Science (KAS) Annual Meeting, Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023 
 - The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct. 9, 2023 
 - The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, Oct. 17, 2022 
-- The Annual Symposium of the International Association for Shell and Spatial Structures (IASS 2022) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS 2022), Beijing, Sept. 19, 2022 
+- The Annual Symposium of the International Association for Shell and Spatial Structures (IASS) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS), Beijing, Sept. 19, 2022 
 - International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, Surrey, UK, Aug. 23, 2021 
 - The ASCE Earth & Space Conference, A Virtual Conference, Apr. 19, 2021 
 - International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). Porto, Portugal. Sept. 3, 2020 
@@ -29,10 +29,10 @@ toc_max_header: 1
 <!-- </ol> -->
 
 ## Invited Talks
-- Civil and Architectural Engineering, University of Miami, FL, Sept. 27, 2024
+- Department of Civil and Architectural Engineering, University of Miami, FL, Sept. 27, 2024
 - Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
 - Department of Mechanical and Aerospace Engineering, NC State University, Raleigh, NC, Mar. 2024 
-- Tensegrity Robotics Workshop, The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Detroit, MI, Oct. 5, 2023 
+- Tensegrity Robotics Workshop, The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, Oct. 5, 2023 
 - Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 
 - Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
 - #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
@@ -60,7 +60,6 @@ toc_max_header: 1
     - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018
       <!-- * Event participants: Robert E. Skelton, Manoranjan Majji. Muhao Chen, Raman Goyal, Joel Sercel, Jane Shevtsov, and Anthony Longman -->
 
-
 ## Demos
 - IROS Conference, Detroit, MI, Oct. 5, 2023
     - [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)
@@ -76,14 +75,14 @@ toc_max_header: 1
 
 
 ## Poster
-* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Detroit, MI, Oct. 5, 2023
-  - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures
+* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, Oct. 5, 2023
+    - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures
 * NASA's 2021 Moon to Mars Ice & Prospecting Challenge. Hampton, VA, Sept. 23, 2021
-  - DREAMS: Drilling and Extraction Automated System
+    - DREAMS: Drilling and Extraction Automated System
 * TAMU Physics & Engineering Festival. College Station, TX, Apr. 10, 2021
-  - Tensegrity System Research Snapshots at Land, Air, and Space Robotics (LASR) Laboratory 
+    - Tensegrity System Research Snapshots at Land, Air, and Space Robotics (LASR) Laboratory 
 * TAMU Physics & Engineering Festival. College Station, TX, Apr. 6, 2019
-  - In-Space Construction of a 1g Growable Habitat
+    - In-Space Construction of a 1g Growable Habitat
 
 <!-- , ASCE Aerospace Division -->
 ## Services
