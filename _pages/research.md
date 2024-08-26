@@ -110,10 +110,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <!-- <figure><img src="{{ site.url }}/images/rffi/habitat_full.png" width="800"/></figure>
 <figure><img src="{{ site.url }}/images/rffi/habitat_half.png" width="800"/></figure> -->
 
-![alt text](image.png)
-
-
-
 
 ## Dynamical and Control Theory
 
@@ -140,7 +136,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 ### System Identification (QMC, LS, and ERA) to Tensegrity Systems 
 (Muhao Chen, Yuling Shen and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure>
-
 
 
 ### Model-Based and Data-Based Shape Control of Tensegrity Structures
@@ -177,11 +172,9 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 </table>
 
 
-
 ### Rigid Body Tensegrity
 (Shuo Ma, Muhao Chen, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
-
 
 
 ### Gyroscopic Tensegrity Robots
