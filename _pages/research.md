@@ -110,6 +110,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <!-- <figure><img src="{{ site.url }}/images/rffi/habitat_full.png" width="800"/></figure>
 <figure><img src="{{ site.url }}/images/rffi/habitat_half.png" width="800"/></figure> -->
 
+<!-- _includes/tabs.html -->
 <div class="tab-container">
   <div class="tabs">
     <button class="tab-button active" onclick="openTab(event, 'Tab1')">Tab 1</button>
@@ -118,36 +119,18 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
   </div>
 
   <div id="Tab1" class="tab-content active">
-    <h3>Tab 1</h3>
-    <p>This is Tab 1 content.</p>
+    {% include tab1.md %}
   </div>
 
   <div id="Tab2" class="tab-content">
-    <h3>Tab 2</h3>
-    <p>This is Tab 2 content.</p>
+    {% include tab2.md %}
   </div>
 
   <div id="Tab3" class="tab-content">
-    <h3>Tab 3</h3>
-    <p>This is Tab 3 content.</p>
+    {% include tab3.md %}
   </div>
 </div>
 
-<script>
-  function openTab(evt, tabName) {
-    // Get all elements with class="tab-content" and hide them
-    const tabContents = document.querySelectorAll('.tab-content');
-    tabContents.forEach(content => content.classList.remove('active'));
-
-    // Get all elements with class="tab-button" and remove the class "active"
-    const tabButtons = document.querySelectorAll('.tab-button');
-    tabButtons.forEach(button => button.classList.remove('active'));
-
-    // Show the current tab, and add an "active" class to the button that opened the tab
-    document.getElementById(tabName).classList.add('active');
-    evt.currentTarget.classList.add('active');
-  }
-</script>
 
 
 
