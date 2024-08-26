@@ -247,18 +247,12 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 -->
 
 
-
-
-
 <!-- 
 ### Robust $\mathcal{L}_{\infty}$ Performance for Structure Passive Control
 <!-- (with Dr. Robert E. Skelton) -->
 <!-- (Muhao Chen and Robert E. Skelton) -->
 
 <!-- <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure> -->
-
-
-
 
 
 <!-- ### System Identification to Nonlinear Tensegrity Structures
