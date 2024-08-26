@@ -109,16 +109,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 <!-- <figure><img src="{{ site.url }}/images/rffi/habitat_full.png" width="800"/></figure>
 <figure><img src="{{ site.url }}/images/rffi/habitat_half.png" width="800"/></figure> -->
-
-
-
-### Growable Space Habitat with 1G Artificial Gravity in Deep Space
-(Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
-<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
-
-### Automated Drilling Rig
-(Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
-<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+## Dynamical and Control Theory
 
 ### Stability Conditions of Tensegrity Structures subject to Local and Global Buckling
 (Shuo Ma and Muhao Chen)
@@ -136,20 +127,10 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 </tr>
 </table>
 
-### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
-(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
+### Economic Sensor & Actuator Selection for Tensegrity Robots Based on the Information Architecture
+(Muhao Chen, Yuling Shen, Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/sas.png" width="800"/></figure>
 
-
-<!--
-### Integrated Tensegrity and Origami Systems  
-(with Drs. Shuo Ma and Robert E. Skelton)
--->
-
-
-### Mass Efficient Double-Helix Tensegrity and Origami
-(Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
 
 
 ### Model-Based and Data-Based Shape Control of Tensegrity Structures
@@ -163,15 +144,42 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 </tr>
 </table>
 
+## Lightweight Deployable Automated Space Systems
+
+### Growable Space Habitat with 1G Artificial Gravity in Deep Space
+(Muhao Chen, Raman Goyal, Yuling Shen, Manoranjan Majji, Robert E. Skelton, Joel Sercel, Jane Shevtsov, and Anthony Longman)
+<figure><img src="{{ site.url }}/images/rffi/habitat.png" width="800"/></figure>
+
+### Automated Drilling Rig
+(Mohamed S Khaled, Muhao Chen, Enrique Z Losoya, Arturo Lopez Nava Jr., Alkassoum Toure, Salim Al Kharsa, Tom Nan, Ran Wang, Luis A Rodriguez, Eduardo Gildin, Robert E. Skelton, Sam Noynaert, and George Moridis)
+<figure><img src="{{ site.url }}/images/rffi/rig.png" width="800"/></figure>
+
+
+### Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization
+(Joel Sercel, Craig Peterson, Anthony Longman, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/mining_moon.png" width="800"/></figure>
+
+### Double-Helix Tensegrity Spherical Planetary Lander
+(Muhao Chen and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
+
+<!--
+### Integrated Tensegrity and Origami Systems  
+(with Drs. Shuo Ma and Robert E. Skelton)
+-->
+
+
+### Mass Efficient Double-Helix Tensegrity and Origami
+(Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
+
+
+
 <!--
 ### Locomotion of A Tensegrity Spherical Robot 
 (with Dr. Robert E. Skelton)
 -->
 
-
-### Economic Sensor & Actuator Selection for Tensegrity Robots Based on the Information Architecture
-(Muhao Chen, Yuling Shen, Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/sas.png" width="800"/></figure>
 
 
 ### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
@@ -263,9 +271,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
 
 
-### Double-Helix Tensegrity Spherical Planetary Lander
-(Muhao Chen and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
 
 ### Gyroscopic Tensegrity Robots
