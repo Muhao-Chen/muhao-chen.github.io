@@ -131,6 +131,10 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 (Muhao Chen, Yuling Shen, Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/sas.png" width="800"/></figure>
 
+### System Identification (QMC, LS, and ERA) to Tensegrity Systems 
+(Muhao Chen, Yuling Shen and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure>
+
 
 
 ### Model-Based and Data-Based Shape Control of Tensegrity Structures
@@ -143,6 +147,50 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <td><figure><img src="{{ site.url }}/images/rffi/arm.gif" width="100"/></figure></td>
 </tr>
 </table>
+
+### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
+(Yuling Shen, Muhao Chen, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
+
+
+### Energy-Efficient Cable-actuation Strategies of the V-Expander Tensegrity 
+(Muhao Chen, Aguinaldo Fraddosio, Andrea Micheletti, Gaetano Pavone, Mario Daniele Piccioni, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/V_Expander.png" width="800"/></figure>
+
+
+### Tensegrity System Dynamics in Fluids (FSI: Fluid-Structure Interaction)
+(Muhao Chen, Jun Chen, Manoranjan Majji, and Robert E. Skelton)
+<table>
+<tr>
+<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land1.gif" width="80"/></figure></td>
+<td><figure><img src="{{ site.url }}/images/rffi/land2.gif" width="80"/></figure></td>
+</tr>
+</table>
+
+
+
+### Rigid Body Tensegrity
+(Shuo Ma, Muhao Chen, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
+
+
+
+### Gyroscopic Tensegrity Robots
+(Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
+<figure><img src="{{ site.url }}/images/rffi/gyro.png" width="800"/></figure>
+
+
+### Deployable Lightweight Tensegrity Cable Net
+(Shuo Ma, Muhao Chen, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
+
+### Deployable Clustered Cable Nets
+(Shuo Ma, Kai Lu, Muhao Chen, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
+
 
 ## Lightweight Deployable Automated Space Systems
 
@@ -163,16 +211,27 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 (Muhao Chen and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/lander.png" width="800"/></figure>
 
+
+### Electromagnetic Lunar Launcher
+(Xiaowen Su, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/propulsion.png" width="800"/></figure>
+
+
 <!--
 ### Integrated Tensegrity and Origami Systems  
 (with Drs. Shuo Ma and Robert E. Skelton)
 -->
 
+## Engineering Mechanics and Lightweight Infrastructures
+
+### Minimal Mass Design for Clustered Tensegrity 
+(Muhao Chen, Xiaolong Bai, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/clu_min.png" width="800"/></figure>
+
 
 ### Mass Efficient Double-Helix Tensegrity and Origami
 (Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/DHT.png" width="800"/></figure>
-
 
 
 <!--
@@ -182,9 +241,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 
 
-### Finite-Word Length Optimal Simulation for High-Dimensional Dynamical Systems
-(Yuling Shen, Muhao Chen, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/model_error.png" width="800"/></figure>
 
 
 <!-- 
@@ -220,10 +276,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
-### System Identification (QMC, LS, and ERA) to Tensegrity Systems 
-(Muhao Chen, Yuling Shen and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/system_id.png" width="800"/></figure>
-
 
 ### Low-cost, Lightweight, Deployable Shelter subject to Extreme Environments
 (Muhao Chen and Robert E. Skelton)
@@ -237,54 +289,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 </tr>
 </table>
 
-
-### Minimal Mass Design for Clustered Tensegrity 
-(Muhao Chen, Xiaolong Bai, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/clu_min.png" width="800"/></figure>
-
-
-### Electromagnetic Lunar Launcher
-(Xiaowen Su, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/propulsion.png" width="800"/></figure>
-
-
-### Energy-Efficient Cable-actuation Strategies of the V-Expander Tensegrity 
-(Muhao Chen, Aguinaldo Fraddosio, Andrea Micheletti, Gaetano Pavone, Mario Daniele Piccioni, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/V_Expander.png" width="800"/></figure>
-
-
-### Tensegrity System Dynamics in Fluids (FSI: Fluid-Structure Interaction)
-(Muhao Chen, Jun Chen, Manoranjan Majji, and Robert E. Skelton)
-<table>
-<tr>
-<td><figure><img src="{{ site.url }}/images/rffi/prism1.gif" width="80"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/prism2.gif" width="80"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/prism3.gif" width="80"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/land1.gif" width="80"/></figure></td>
-<td><figure><img src="{{ site.url }}/images/rffi/land2.gif" width="80"/></figure></td>
-</tr>
-</table>
-
-
-### Rigid Body Tensegrity
-(Shuo Ma, Muhao Chen, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
-
-
-
-
-### Gyroscopic Tensegrity Robots
-(Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
-<figure><img src="{{ site.url }}/images/rffi/gyro.png" width="800"/></figure>
-
-
-### Deployable Lightweight Tensegrity Cable Net
-(Shuo Ma, Muhao Chen, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/cable_roof.png" width="800"/></figure>
-
-### Deployable Clustered Cable Nets
-(Shuo Ma, Kai Lu, Muhao Chen, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
 
 <!--
 <br />
