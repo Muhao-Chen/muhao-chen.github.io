@@ -133,6 +133,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
   </div>
 </div>
 
+
 ## Dynamical and Control Theory
 
 ### Stability Conditions of Tensegrity Structures subject to Local and Global Buckling
