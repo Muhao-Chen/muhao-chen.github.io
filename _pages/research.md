@@ -109,6 +109,30 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 
 <!-- <figure><img src="{{ site.url }}/images/rffi/habitat_full.png" width="800"/></figure>
 <figure><img src="{{ site.url }}/images/rffi/habitat_half.png" width="800"/></figure> -->
+
+<div class="tab-container">
+  <div class="tabs">
+    <button class="tab-button active" onclick="openTab(event, 'Tab1')">Tab 1</button>
+    <button class="tab-button" onclick="openTab(event, 'Tab2')">Tab 2</button>
+    <button class="tab-button" onclick="openTab(event, 'Tab3')">Tab 3</button>
+  </div>
+
+  <div id="Tab1" class="tab-content active">
+    <h3>Tab 1</h3>
+    <p>This is Tab 1 content.</p>
+  </div>
+
+  <div id="Tab2" class="tab-content">
+    <h3>Tab 2</h3>
+    <p>This is Tab 2 content.</p>
+  </div>
+
+  <div id="Tab3" class="tab-content">
+    <h3>Tab 3</h3>
+    <p>This is Tab 3 content.</p>
+  </div>
+</div>
+
 ## Dynamical and Control Theory
 
 ### Stability Conditions of Tensegrity Structures subject to Local and Global Buckling
@@ -190,6 +214,11 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 ### Deployable Clustered Cable Nets
 (Shuo Ma, Kai Lu, Muhao Chen, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/cable_net.png" width="800"/></figure>
+
+
+### Deployable Cable Domes 
+(Shuo Ma, Muhao Chen, Xingfei Yuan, and Robert E. Skelton)
+<figure><img src="{{ site.url }}/images/rffi/dome.png" width="800"/></figure>
 
 
 ## Lightweight Deployable Automated Space Systems
@@ -276,7 +305,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <figure><img src="{{ site.url }}/images/rffi/Tenseg_Roof.png" width="800"/></figure>
 
 
-
 ### Low-cost, Lightweight, Deployable Shelter subject to Extreme Environments
 (Muhao Chen and Robert E. Skelton)
 <table>
@@ -299,10 +327,6 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <figure class="half">
  <img src="{{ site.url }}/images/rffi/ball.png" width="200"/><img src="{{ site.url }}/images/rffi/spine.png" width="200"/></figure>-->
     
-
-### Deployable Cable Domes 
-(Shuo Ma, Muhao Chen, Xingfei Yuan, and Robert E. Skelton)
-<figure><img src="{{ site.url }}/images/rffi/dome.png" width="800"/></figure>
 
 <!--We are always keen to apply our knowledge to practical applications. Hence, we have created several demonstration videos to present our applied research.-->
 
