@@ -176,6 +176,9 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 (Shuo Ma, Muhao Chen, Zhangli Peng, Xingfei Yuan, and Robert E. Skelton)
 <figure><img src="{{ site.url }}/images/rffi/BallSpine.png" width="800"/></figure>
 
+### Model Reduction of Tensegrity Systems
+(Muhao Chen and Robert E. Skelton)   
+<figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
 
 ### Gyroscopic Tensegrity Robots
 (Raman Goyal, Muhao Chen, Manoranjan Majji, and Robert E. Skelton)      
@@ -255,9 +258,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <!-- <figure><img src="{{ site.url }}/images/rffi/Passive_ctrl.png" width="800"/></figure> -->
 
 
-### Model Reduction of Tensegrity Systems
-(Muhao Chen and Robert E. Skelton)   
-<figure><img src="{{ site.url }}/images/rffi/model_reduction.png" width="800"/></figure>
+
 
 
 <!-- ### System Identification to Nonlinear Tensegrity Structures
