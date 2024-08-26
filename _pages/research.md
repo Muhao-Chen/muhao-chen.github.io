@@ -110,26 +110,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 <!-- <figure><img src="{{ site.url }}/images/rffi/habitat_full.png" width="800"/></figure>
 <figure><img src="{{ site.url }}/images/rffi/habitat_half.png" width="800"/></figure> -->
 
-<!-- _includes/tabs.html -->
-<div class="tab-container">
-  <div class="tabs">
-    <button class="tab-button active" onclick="openTab(event, 'Tab1')">Tab 1</button>
-    <button class="tab-button" onclick="openTab(event, 'Tab2')">Tab 2</button>
-    <button class="tab-button" onclick="openTab(event, 'Tab3')">Tab 3</button>
-  </div>
-
-  <div id="Tab1" class="tab-content active">
-    {% include tab1.md %}
-  </div>
-
-  <div id="Tab2" class="tab-content">
-    {% include tab2.md %}
-  </div>
-
-  <div id="Tab3" class="tab-content">
-    {% include tab3.md %}
-  </div>
-</div>
+![alt text](image.png)
 
 
 
