@@ -42,7 +42,7 @@ toc_max_header: 1
 - Halliburton Company, Houston, TX, Sept. 30, 2021 
 - Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021 
 - Soft Robotics Research Center at Shenzhen Institutes of Advanced Technology (SIAT), Jul. 2021 
-- Department of Engineering Mechanics, Dalian University of Technology, Dalian, Jul. 2021 
+- Department of Engineering Mechanics, Dalian University of Technology, Jul. 2021 
 
 
 ## News 
