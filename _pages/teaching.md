@@ -30,7 +30,7 @@ toc: true
 
 <!-- (committee member) -->
 
-### Dartmouth College
+<!-- ### Dartmouth College
 - Student Mentoring (with [Prof. Devin Balkcom](https://web.cs.dartmouth.edu/people/devin-j-balkcom))
     * Luyang Zhao, Ph.D. in Computer Science (Feb. 2024 - Pressent)
     * Yitao Jiang, Ph.D. in Computer Science (Feb. 2024 - Pressent)
@@ -39,14 +39,14 @@ toc: true
 ### University of Maryland, Baltimore County
 - Student Mentored (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
     * Abhinav Bharata, M.S. in Mechanical Engineering (Spet. 2022 - Aug. 2024)
-    * Mohammad Riyaz Ur Rehman, M.S. in Mechanical Engineering (Spet. 2022 - May. 2024)
+    * Mohammad Riyaz Ur Rehman, M.S. in Mechanical Engineering (Spet. 2022 - May. 2024) -->
 
 ### Texas A&M University, College Station, TX
-- Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
-    * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)
-        <!-- - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure -->
-- Student Mentoring (with [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
-    * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present)
+<!-- - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
+    * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)              
+     - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure -->
+<!-- - Student Mentoring (with [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
+    * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present) -->
 - Students Mentored (Co-supervision with [Prof. Robert E. Skelton](https://bobskelton.github.io/))
     * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)
         <!-- - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin -->
