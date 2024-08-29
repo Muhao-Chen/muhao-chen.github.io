@@ -57,6 +57,8 @@ Conference with Abstracts:
 </ol>
 </font>
 
+## Published
+
 ## Journal Articles 
 <font size=3>
 <ol reversed>
