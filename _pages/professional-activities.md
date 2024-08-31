@@ -24,7 +24,7 @@ toc_max_header: 1
 - College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022 
 - Halliburton Company, Houston, TX, Sept. 30, 2021 
 - Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021 
-- Soft Robotics Research Center, Shenzhen Institutes of Advanced Technology (SIAT), Jul. 2021 
+- Soft Robotics Research Center, Shenzhen Institute of Advanced Technology (SIAT), Jul. 2021 
 - Department of Engineering Mechanics, Dalian University of Technology, Jul. 2021 
 
 
@@ -49,10 +49,13 @@ toc_max_header: 1
 * Aerospace Advanced Materials And Structures Committee ([ASCE](https://www.asce.org/communities/institutes-and-technical-groups/aerospace-engineering/committees/aerospace-executive-committee/aerospace-advanced-materials-and-structures-committee)), 2024 - Present
 * Guest Editor, [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics), 2023 -Present
 * Editorial Committee, ASCE Texas Section ([TexASCE](https://www.texasce.org/)), 2021 - Present
-* Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
-* Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015
+
 <!-- , [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration -->
 
+
+## Outreach
+* Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015
+* Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
 
 <!-- ## News  -->
 
