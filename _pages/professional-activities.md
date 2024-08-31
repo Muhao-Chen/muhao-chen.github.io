@@ -54,8 +54,11 @@ toc_max_header: 1
 
 ## Outreach
 * #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
-* Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015
+<!-- * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015 -->
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
+* Wuhan Foreign Languages School (Public High School), 2014 - 2015    
+    - Advisor of the FIRST Robotics Competition ([FRC](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)) Team    
+    - Led the School Team to the National Championship
 
 <!-- ## News  -->
 
