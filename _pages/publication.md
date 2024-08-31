@@ -75,8 +75,7 @@ Published
 ## Conferences
 <font size=3>
 
-<strong>Conference with Full Papers. </strong>     
-
+<strong>Conference with Full Papers. </strong>   <br/>
 Submitted 
 <ol reversed>
 <li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of a Lightweight Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum)</u>. Orlando, FL, Jan. 6-10, 2025. Accepted. </li>
@@ -109,9 +108,7 @@ Published
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
 
-<strong>Conference with Abstracts.</strong>        
-
-
+<strong>Conference with Abstracts.</strong><br/>
 Submitted 
 <ol reversed>
 <!-- <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Integrating Structural Design and Control: Efficient Deployment Strategies for Tensegrity-Based Space Antennas. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Submitted. </li>  -->
