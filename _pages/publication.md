@@ -75,6 +75,7 @@ Published
 
 ## Conferences
 <font size=3>
+
 <strong>Conference with Full Papers. </strong>     
 
 Submitted 
@@ -108,7 +109,9 @@ Published
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE International Conference on Robotics and Automation (ICRA)</u>. May 31 to Aug. 31, 2020.</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
+
 <strong>Conference with Abstracts.</strong>        
+
 
 Submitted 
 <ol reversed>
