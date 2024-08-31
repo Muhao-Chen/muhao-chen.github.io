@@ -46,12 +46,12 @@ Published
 <li>Ma, S., Chen, Y., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Equilibrium and Stiffness Study of Clustered Tensegrity Structures with the Consideration of Pulley Sizes. <u>Engineering Structures</u>. 282, p115796.</li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analyses of Cable-actuation of the V-Expander Tensegrity Structure subject to five basic loading conditions. <u>Mechanics Research Communications</u>. 127, p104026.</li>
 <li>Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2023. Design and Control Analysis of A Clustered Hyperbolic Paraboloid Cable Net. <u>Engineering Structures</u>. 279, p115569. </li>
-<li><strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2023. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. 404, p115832. </li>  
+<li><strong>Chen, M.</strong>*, Bai, M. and Skelton, R.E., 2023. Minimal mass design of clustered tensegrity structures. <u>Computer Methods in Applied Mechanics and Engineering</u>. 404, p115832. </li>
 <li>Liu, Q.*, <strong>Chen, M.</strong> and Skelton, R.E., 2023. An extended ordinary state-based peridynamics for non-spherical horizons. <u>Computer Methods in Applied Mechanics and Engineering</u>. 403, p115712.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., and Skelton, R.E., 2022. The Equilibrium and Form-Finding of General Tensegrity Systems with Rigid Bodies. <u>Engineering Structures</u>. 266, p114618.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. 7(74), 3390.</li>
 <li>Khaled, M.S., <strong>Chen, M.</strong>, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. 252, p111785.</li>
- <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. 264, p.114391.</li>
+<li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. 264, p.114391.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p100692.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>. 280, p114838.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. <u>Aerospace Science and Technology</u>. 106, p106147.</li>
@@ -77,7 +77,7 @@ Published
 
 ## Conferences
 <font size=3>
-Conference with Full Papers.      
+<strong>Conference with Full Papers. </strong>     
 
 Submitted 
 <ol reversed>
@@ -110,7 +110,7 @@ Published
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE International Conference on Robotics and Automation (ICRA)</u>. May 31 to Aug. 31, 2020.</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
-Conference with Abstracts.        
+<strong>Conference with Abstracts.</strong>        
 
 Submitted 
 <ol reversed>
