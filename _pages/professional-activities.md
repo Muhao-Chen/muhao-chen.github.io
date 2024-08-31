@@ -12,20 +12,19 @@ toc_max_header: 1
 <div style="text-align: justify;" markdown="1">
 
 ## Invited Talks
-- Department of Civil and Architectural Engineering, University of Miami, FL, Sept. 27, 2024
-- Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
-- Department of Mechanical and Aerospace Engineering, NC State University, Raleigh, NC, Mar. 2024 
-- Tensegrity Robotics Workshop, The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, Oct. 5, 2023 
-- Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 
-- Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
-- #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
-- Department of Mechanical Engineering, New York Institute of Technology, New York, NY, Apr. 6, 2022 
-- College of Engineering, Peking University, Mar. 8, 2022 
-- College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022 
-- Halliburton Company, Houston, TX, Sept. 30, 2021 
-- Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021 
-- Soft Robotics Research Center, Shenzhen Institute of Advanced Technology (SIAT), Jul. 2021 
-- Department of Engineering Mechanics, Dalian University of Technology, Jul. 2021 
+* Department of Civil and Architectural Engineering, University of Miami, FL, Sept. 27, 2024
+* Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
+* Department of Mechanical and Aerospace Engineering, NC State University, Raleigh, NC, Mar. 2024 
+* Tensegrity Robotics Workshop, The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, Oct. 5, 2023 
+* Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 
+* Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
+* Department of Mechanical Engineering, New York Institute of Technology, New York, NY, Apr. 6, 2022 
+* College of Engineering, Peking University, Mar. 8, 2022 
+* College of Civil Engineering, Shaoxing University, Shaoxing, Feb. 26, 2022 
+* Halliburton Company, Houston, TX, Sept. 30, 2021 
+* Patterson-UTI Energy, Inc., Houston, TX, Sept. 9, 2021 
+* Soft Robotics Research Center, Shenzhen Institute of Advanced Technology (SIAT), Jul. 2021 
+* Department of Engineering Mechanics, Dalian University of Technology, Jul. 2021 
 
 
 <!-- ## Conference talks -->
@@ -54,6 +53,7 @@ toc_max_header: 1
 
 
 ## Outreach
+* #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
 * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
 
