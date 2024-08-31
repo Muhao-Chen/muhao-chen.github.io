@@ -12,15 +12,13 @@ toc: true
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
-    * Randall M. Tomlinson, Aerospace Engineering 
+    * Youyun Xu, Ph.D. in Mechanical Engineering 
     * Kyle Hampton, M.S. in Aerospace Engineering 
-    * Cong Wang, Electrical Engineering
-    * Junheng Yao, Mechanical Engineering
-    * Alex Arber, Pre-Engineering Program at Lafayette High School
-    * Youyun Xu, Mechanical Engineering 
+    * Junheng Yao, BS in Mechanical Engineering
+    * Cong Wang, BS in Electrical Engineering
+    * Randall M. Tomlinson, BS in Aerospace Engineering 
 - Students Mentored
     * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
-    * Siddharth Sundar, Engineering Internship Program at Lafayette High School
 - Class Teaching
     * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall, Undergraduates)
     * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, Graduates)
