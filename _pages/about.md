@@ -76,7 +76,7 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 ## Awards
 <div style="text-align: justify;" markdown="1">
 * Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024
-* Outstanding Academic Paper, Natural Sciences from Suzhou, 2024 
+<!-- * Outstanding Award, Natural Science Academic Papers, Suzhou City, 2024  -->
 * Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, 2023
 * First Prize, 11th International Conference on Rehabilitation Medicine and Engineering, 2022
 * Finalist, NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, 2021
