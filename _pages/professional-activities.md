@@ -53,6 +53,8 @@ toc_max_header: 1
 
 
 ## Outreach
+* Lafayette High School
+    - Siddharth Sundar, Engineering Internship Program 
 * #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
 <!-- * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015 -->
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
