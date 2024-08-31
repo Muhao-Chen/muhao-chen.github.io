@@ -19,8 +19,8 @@ main:
 #    url: /opportunities/
 
 
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"
+  #   url: /awards/
 
   - title: "Professional Activity"
     url: /professional-activities/
