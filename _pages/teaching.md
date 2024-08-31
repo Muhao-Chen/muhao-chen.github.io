@@ -61,8 +61,6 @@ toc: true
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012
     * Awarded National Excellent LabView Club and Individual
 
-### Wuhan Foreign Languages School (Public High School)
-- Advisor of the FIRST Robotics Competition ([FRC](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)) Team 
-    * Led the School Team to the National Championship
+
 
 </div>
