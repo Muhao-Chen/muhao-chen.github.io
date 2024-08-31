@@ -20,9 +20,6 @@ Please get in touch with me directly (muhaochen@uky.edu) if you are keen on tens
 
 <!-- ## Research Keywords -->
 
-
-
-
 <!--<div style="text-align: justify">  </div> -->
 <!-- Muhao Chen, Ph.D., is a postdoctoral researcher at the Department of Aerospace Engineering, Texas A&M University, College Station. I am affiliated with the [Tensegrity Lab](https://bobskelton.github.io/) and [Land Air & Space Robotics (LASR) Laboratory](https://lasr.tamu.edu/) at Texas A&M University, College Station, TX.  -->
 <!-- Muhao Chen, Ph.D., is an assistant professor at the Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY. His research can be found on the [Research](https://muhao-chen.github.io/research/) page.  -->
@@ -79,7 +76,7 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 ## Awards
 <div style="text-align: justify;" markdown="1">
 * Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024
-* Selected as Outstanding Academic Papers in Natural Sciences from Suzhou, 2024 
+* Outstanding Academic Paper, Natural Sciences from Suzhou, 2024 
 * Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, 2023
 * First Prize, 11th International Conference on Rehabilitation Medicine and Engineering, 2022
 * Finalist, NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, 2021
