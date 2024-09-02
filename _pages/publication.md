@@ -74,7 +74,6 @@ Published
 
 ## Conferences
 <font size=3>
-
 <strong>Conference with Full Papers. </strong>   <br/>
 Submitted 
 <ol reversed>
