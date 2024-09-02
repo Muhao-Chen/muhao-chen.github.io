@@ -18,11 +18,11 @@ toc: true
     * Cong Wang, BS in Electrical Engineering
     * Randall M. Tomlinson, BS in Aerospace Engineering 
 - Students Mentored
-    * Ryan A. Kodura, Civil Engineering and Mathematics (Minor)
+    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor)
 - Class Teaching
-    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall, Undergraduates)
-    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring, Graduates)
-    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall, Undergraduates & Graduates)
+    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)
+    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)
+    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)
 - Faculty Advisor
     * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 
