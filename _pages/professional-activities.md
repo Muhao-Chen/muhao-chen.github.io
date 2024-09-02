@@ -63,7 +63,7 @@ toc_max_header: 1
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
 * Advisor, Wuhan Foreign Languages School (Public High School), 2014 - 2015    
     - Led the FIRST Robotics Competition ([FRC](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)) team to the National Championship
-* Advisor, Lafayette High School (Pre-Engineering Program)
+* Advisor, Lafayette High School (Pre-Engineering Program), Lexington, KY
     - Alex Arber, May 2024 - Present
     - Siddharth Sundar, Sept. - Dec. 2023
 
