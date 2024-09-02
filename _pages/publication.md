@@ -112,11 +112,11 @@ Published
 Submitted 
 <ol reversed>
 <!-- <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Integrating Structural Design and Control: Efficient Deployment Strategies for Tensegrity-Based Space Antennas. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Submitted. </li>  -->
-<!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Submitted. </li>  -->
-<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Shape-Change Morphing of Tensegrity V-Expander Plate Metamaterials. <u>ICCS27 - 27th International Conference on Composite Structures</u>. School of Engineering and Architecture, Ravenna Campus of University of Bologna, Italy, Sept. 3 – 6, 2024. Accepted. </li> 
+<li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Submitted. </li>  
 </ol>
 Publsihed
 <ol reversed>
+<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Shape-Change Morphing of Tensegrity V-Expander Plate Metamaterials. <u>ICCS27 - 27th International Conference on Composite Structures</u>. School of Engineering and Architecture, Ravenna Campus of University of Bologna, Italy, Sept. 3 – 6, 2024. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. A general empirical framework for modeling and control of tensegrity robots using Markov parameters. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 22, 2024.</li>
 <li> Ma, Shuo., <strong>Chen, M.</strong>*. Stability in Tensegrity Systems Considering Member and Global Buckling. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 21, 2024.</li>
 <li> Chen, Y., <strong>Chen, M.</strong>*, Xia, X., Hermanson, J.C., and Qi, F. A General Framework to Population Balance-Monte Carlo Simulations for Particle Breakage, Coagulation and Nucleation. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 23, 2024.</li>
