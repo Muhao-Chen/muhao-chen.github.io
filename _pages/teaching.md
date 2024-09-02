@@ -23,8 +23,7 @@ toc: true
     * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)
     * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)
-- Faculty Advisor
-    * [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
+
 
 <!-- (committee member) -->
 
