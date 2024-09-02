@@ -61,6 +61,7 @@ toc_max_header: 1
     - [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html), Feb. 5, 2019
     - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018 
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
+* Faculty Advisor, [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 * Advisor, Wuhan Foreign Languages School (Public High School), 2014 - 2015    
     - Led the FIRST Robotics Competition ([FRC](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)) team to the National Championship
 * Advisor, Lafayette High School (Pre-Engineering Program), Lexington, KY
