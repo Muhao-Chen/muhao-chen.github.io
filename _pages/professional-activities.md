@@ -15,6 +15,7 @@ toc_max_header: 1
 * Department of Civil and Architectural Engineering, University of Miami, FL, Sept. 27, 2024
 * Department of Mathematics, University of Kentucky, Lexington, KY, Apr. 11, 2024 
 * Department of Mechanical and Aerospace Engineering, NC State University, Raleigh, NC, Mar. 2024 
+* Kentucky Academy of Science (KAS), Northern Kentucky University, Highland Heights, KY, Nov. 3, 2023 
 * Tensegrity Robotics Workshop, The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, Oct. 5, 2023 
 * Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 
 * Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
