@@ -9,6 +9,10 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### University of Kentucky, Lexington, KY
+- Class Teaching
+    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)
+    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)
+    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)
 - Recruiting
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.
 - Students Mentoring
@@ -19,11 +23,6 @@ toc: true
     * Randall M. Tomlinson, BS in Aerospace Engineering 
 - Students Mentored
     * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor)
-- Class Teaching
-    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)
-    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)
-    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)
-
 
 <!-- (committee member) -->
 
