@@ -74,7 +74,7 @@ Published
 
 ## Conferences
 <font size=3>
-<strong>Conference with Full Papers. </strong>   <br/>
+<strong>Conference with Full Papers </strong>   <br/>
 Submitted 
 <ol reversed>
 <LI> Shi, L., <strong>Chen, M.</strong>, Shen, Y*, 2025. On the Invariance of Markov Parameters under Finite Word-Length Effects. <u>The American Control Conference (ACC)</u>. Denver, CO, Jul. 8 - 10, 2025. Submitted. </li>
@@ -101,9 +101,10 @@ Published
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE International Conference on Robotics and Automation (ICRA)</u>. May 31 to Aug. 31, 2020.</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
-<strong>Conference with Abstracts.</strong><br/>
+<strong>Conference with Abstracts</strong><br/>
 Submitted 
 <ol reversed>
+<li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. Submitted. </li>
 <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Submitted. </li>
 </ol>
 Published
