@@ -107,7 +107,7 @@ Submitted
 <ol reversed>
 <li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. Submitted. </li>
 <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Submitted. </li>
-<li> <strong>Chen, M.</strong>* and Ma, S., 2024. Buckling and Stability Evaluation of Tensegrity Aerospace Structures. Kentucky Academy of Science (<u>KAS</u>) Annual Meeting, Kentucky State University, Frankfort, KY, Nov. 1, 2024.</li>
+<li> <strong>Chen, M.</strong>* and Ma, S., 2024. Buckling and Stability Evaluation of Tensegrity Aerospace Structures. Kentucky Academy of Science (<u>KAS</u>) Annual Meeting, Kentucky State University, Frankfort, KY, Nov. 1, 2024. Submitted. </li>
 </ol>
 Published
 <ol reversed>
