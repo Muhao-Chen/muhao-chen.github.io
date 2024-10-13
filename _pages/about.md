@@ -18,11 +18,12 @@ toc: true
 <!-- Tensegrity Lab seeks to develop new analytical tools to merge structure and control design with material science to create new structures and material systems. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that allow minimal control energy within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy with material science to create new material systems. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to build tensegrity structures in space autonomously. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at the impact on the moon or Mars. These studies employ data-based as well as model-based control methods. -->
 <!-- : Structures, Dynamics, and Controls. Each area aims for optimal performance using minimal resources—including mass, dampers, sensors, actuators, computational cost, and control energy—according to specific loading and control requirements -->
 
-The Space Structures, Dynamics, and Control (SSDC) Lab is structured into three primary focus areas. 
-* **Structures**: We aim to design lightweight, deployable structures, which is critical in space systems to reduce launch costs and payload volume. 
-* **Dynamics**: We prioritize precise, cost-effective dynamics modeling, both model- and data-based, to ensure optimal simulation of multi-body dynamical systems. 
+The Space Structures, Dynamics, and Control (SSDC) Lab focuses on three primary areas:
+- **Structures**: We design lightweight, deployable structures essential for space systems to minimize launch costs and payload volume.
+- **Dynamics**: We emphasize precise, cost-effective modeling, both model- and data-based, to optimally analyze multi-body dynamical systems.
+- **Controls**: Our strategy includes advanced control techniques for deployable structures and robots. Passive control stabilizes structures against disturbances and uncertainties, while active control focuses on robust and precise control laws and path planning to reduce control energy and sensor and actuator costs while maintaining performance.
 <!-- performance in space systems. This precision reduces computational demands, enabling real-time computing and control despite communication delays in orbit.  -->
-* **Controls**: Our approach advanced control strategies for deployable structures and robots. Passive control aims to stabilize structures with minimal dampers to manage disturbances and uncertainties. Active control emphasizes robust and precise control laws, and path planning to reduce control energy and the costs of sensors and actuators while maintaining performance.
+
 <!-- integrates passive and active -->
 <!-- manipulation and reference tracking, using efficient  -->
 
