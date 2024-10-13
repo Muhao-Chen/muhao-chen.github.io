@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Tensegrity Lab"
+# title: "Tensegrity Lab"
+$ title: "Space Structures, Dynamics, and Control Lab"
 # excerpt: "About me"
 author_profile: true
 redirect_from:
