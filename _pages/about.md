@@ -20,7 +20,7 @@ toc: true
 
 The Space Structures, Dynamics, and Control (SSDC) Lab focuses on three primary areas:
 - **Structures**: We design lightweight, deployable structures essential for space systems to minimize launch costs and payload volume.
-- **Dynamics**: We emphasize precise, cost-effective modeling, both model- and data-based, to optimally analyze multi-body dynamical systems.
+- **Dynamics**: We focus on precise, cost-effective modeling, both model- and data-based, to optimally analyze multi-body dynamical systems.
 - **Controls**: Our strategy includes advanced control techniques for deployable structures and robots. Passive control stabilizes structures against disturbances and uncertainties, while active control focuses on robust and precise control laws and path planning to reduce control energy and sensor and actuator costs while maintaining performance.
 <!-- performance in space systems. This precision reduces computational demands, enabling real-time computing and control despite communication delays in orbit.  -->
 
