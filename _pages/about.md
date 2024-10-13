@@ -99,7 +99,8 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 </div>
 
 ## Contact
-Email: muhaochen@uky.edu        
+Email: muhaochen@uky.edu    
+Office: +1 859-2577-2233    
 Tel: +1 979-985-8285            
 Grehan 113A, Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY 40506
 
