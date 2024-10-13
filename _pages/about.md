@@ -17,7 +17,13 @@ toc: true
 <!-- rewrite -->
 <!-- Tensegrity Lab seeks to develop new analytical tools to merge structure and control design with material science to create new structures and material systems. The structural paradigm for this research is tensegrity systems, creating minimal mass systems that allow minimal control energy within the constraints of allowable computational and sensing/actuating resources. The lab builds physical demonstrations of this integrated system design philosophy with material science to create new material systems. Robots are designed to deploy from small stowed packages. Robots are designed to harvest rocks and regolith from asteroids or the moon. Tensegrity structures are designed for deployment in space. Tensegrity Robots are designed to build tensegrity structures in space autonomously. Wings are designed without hinged surfaces to controllable shapes. Antennas are designed for deployment in space within operational accuracies. Impact tensegrity structures are designed to protect payloads at the impact on the moon or Mars. These studies employ data-based as well as model-based control methods. -->
 
-Space Structures, Dynamics, and Control Lab is organized into three key areas: Structures, Dynamics, and Controls. For each area, we aim to achieve optimal performance with minimal resources—such as mass, dampers, sensors, actuators, computational cost, and control energy—under given loading and control requirements. 
+The Space Structures, Dynamics, and Control Lab is structured into three primary focus areas: Structures, Dynamics, and Controls. Each area aims for optimal performance using minimal resources—including mass, dampers, sensors, actuators, computational cost, and control energy—according to specific loading and control requirements.
+
+- **Structures**: Our aim is to design lightweight, deployable structures that minimize mass, which is critical in space systems to reduce both launch costs and payload volume. 
+- **Dynamics**: We prioritize precise, cost-effective dynamics modeling, both data-based and model-based. This precision is crucial for ensuring optimal performance in space systems, where reduced computational demands facilitate real-time computing and control, critical given the communication delays to in-orbit spacecraft. 
+- **Controls**: Our approach includes both passive and active control strategies. For passive control, the goal is to stabilize structures using the minimum number of dampers needed to handle disturbances, noise, and uncertainties. In active control, we focus on robust, precise manipulation and reference tracking, employing efficient control laws and path planning to minimize control energy and sensor and actuator costs while ensuring performance.
+
+
 
 Please get in touch with me directly (muhaochen@uky.edu) if you are keen on tensegrity and require assistance. I am willing to offer guidance and support within my capabilities.
 
