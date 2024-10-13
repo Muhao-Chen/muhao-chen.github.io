@@ -25,7 +25,7 @@ The Space Structures, Dynamics, and Control (SSDC) Lab is structured into three 
 
 
 
-Please get in touch with me directly (muhaochen@uky.edu) if you are keen on tensegrity and require assistance. I am willing to offer guidance and support within my capabilities.
+<!-- Please get in touch with me directly (muhaochen@uky.edu) if you are keen on tensegrity and require assistance. I am willing to offer guidance and support within my capabilities. -->
 
 <!-- ## Research Keywords -->
 
