@@ -9,7 +9,7 @@
 locale                   : "en-US"
 # title                   : "Tensegrity Lab"
 # title                    : "Space Structures, Dynamics, and Control Lab"
-# title                  : "SSDC Lab"
+title                    : "SSDC Lab"
 title_separator          : "-"
 name                     : &name "Muhao Chen"
 description              : &description "Positive and Energetic."
