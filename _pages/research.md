@@ -18,10 +18,10 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Modeling of Deployable/Flexible/Foldable Space Robotics and Structures
 * Deployable Modular Space Structures/Robotics for Landing, Self-Deployment, and In-Situ Assembly
 * Integrating Structure and Control Theories for Aerospace Applications Using the Least Necessary Resources -->
-* Dynamics and Control of Tensegrity/Origami Systems for Lightweight Flexible Structures
+<!-- * Dynamics and Control of Tensegrity/Origami Systems for Lightweight Flexible Structures
 * Integrating Structure and Control Design for Complex Deployable Systems with Least Resources
 * Bio-inspired robotics, Soft/Underwater, and Foldable Modular Robots for Various Applications
-* Data-Driven Control, Model Reduction, System Identification, Sensor and Actuator Selection
+* Data-Driven Control, Model Reduction, System Identification, Sensor and Actuator Selection -->
 
 
 <!-- * Creating Novel Structure and Material Systems for Aerospace Applications Using the Least Necessary Resources -->
