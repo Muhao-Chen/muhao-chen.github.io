@@ -35,7 +35,7 @@ The existing design approaches mainly deal with what is sufficient rather than n
 * Robotics, Reinforcement Learning, System Identification, Model Reduction, Sensor and actuator Selections
 * Data-Driven Control, Path Planning, Finite Bit Computing of High-Dimensional (FEM, FSI, Real-Time Control) Systems -->
 
-## Deployable Automated Space Systems 
+## Deployable Automated Aerospace Systems 
 
 <figure><img src="{{ site.url }}/images/rffi/Space.png" width="800"/></figure>
 
