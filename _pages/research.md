@@ -229,7 +229,7 @@ Integrating Structure and Control Design, Robotics and lightweight Automated Sys
 (with Drs. Shuo Ma and Robert E. Skelton)
 -->
 
-## Engineering Mechanics and Lightweight Infrastructures
+<!-- ## Engineering Mechanics and Lightweight Infrastructures -->
 
 ### Minimal Mass Design for Clustered Tensegrity 
 (Muhao Chen, Xiaolong Bai, and Robert E. Skelton)
