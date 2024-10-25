@@ -36,6 +36,7 @@ toc: true
 - Student Mentored (with [Prof. Weidong Zhu](https://me.umbc.edu/dr-weidong-zhu/))
     * Abhinav Bharata, M.S. in Mechanical Engineering (Spet. 2022 - Aug. 2024)
     * Mohammad Riyaz Ur Rehman, M.S. in Mechanical Engineering (Spet. 2022 - May. 2024) -->
+<!-- ](https://bobskelton.github.io/)) -->
 
 ### Texas A&M University, College Station, TX
 <!-- - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
@@ -43,7 +44,7 @@ toc: true
      - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure -->
 <!-- - Student Mentoring (with [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
     * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present) -->
-- Students Mentored (Co-supervision with Dr. [Robert E. Skelton](https://bobskelton.github.io/))
+- Students Mentored (Co-supervision with Dr. Robert E. Skelton)
     * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)
         <!-- - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin -->
     * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)
