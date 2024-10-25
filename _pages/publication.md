@@ -10,7 +10,7 @@ toc: true
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=2g3lz0AAAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@uky.edu) for a copy of the paper. *Corresponding author.
 
-
+ <!-- and [ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2)  -->
 ## Journal Articles 
 <font size=3>
 Submitted 
