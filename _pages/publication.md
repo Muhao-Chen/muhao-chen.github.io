@@ -31,8 +31,8 @@ Submitted
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
 <li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
-<!-- <li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>.  -->
- <!-- Submitted.</li> -->
+<!-- <li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>.  -->
+ <!-- Submitted.</li> -->
 </ol>
 Published
 <ol reversed>
@@ -80,7 +80,7 @@ Published
 Submitted 
 <ol reversed>
 <li> Shi, L., <strong>Chen, M.</strong>, Shen, Y*, 2025. On the Invariance of Markov Parameters under Finite Word-Length Effects. <u>The American Control Conference (ACC)</u>. Denver, CO, Jul. 8 - 10, 2025. Submitted. </li>
-<li> Li, Z.,  Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li>
+<li> Li, Z.,  Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li>
 <!-- <li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of a Lightweight Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum)</u>. Orlando, FL, Jan. 6-10, 2025. Accepted. </li> -->
 <li> Ma, S.* and <strong>Chen, M.</strong>, 2024. Dynamics of Tensegrity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024. Accepted.</li> 
 <li> <strong>Chen, M.</strong> and Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - 30, 2024. Accepted.</li> 
@@ -109,14 +109,14 @@ Submitted
 <ol reversed>
 <li>Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, June 9-12, 2025, 
 Submitted. </li>
-<li> Yazbeck, R.*, El-Borgi, S., Boyd, J.G., <strong>Chen, M.</strong>, Lagoudas, D.C., 2025. Wave Propagation in Tensegrity Structures. <u>ASME's 3rd Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. Houston, TX, May 5 – 7, 2025. Submitted. </li>
-<li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. Submitted. </li>
+<li> Yazbeck, R.*, El-Borgi, S., Boyd, J.G., <strong>Chen, M.</strong>, Lagoudas, D.C., 2025. Wave Propagation in Tensegrity Structures. <u> ASME's 3rd Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. Houston, TX, May 5 – 7, 2025. Submitted. </li>
+<li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration, and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. Submitted. </li>
 <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Accepted. </li>
 <li> <strong>Chen, M.</strong>* and Ma, S., 2024. Buckling and Stability Evaluation of Tensegrity Aerospace Structures. <u>Kentucky Academy of Science (KAS) Annual Meeting</u>. Kentucky State University, Frankfort, KY, Nov. 1, 2024. Accepted. </li>
 </ol>
 Published
 <ol reversed>
-<li><strong>Chen, M.</strong>* and Shen, Y., 2024. Model Reduction under Finite Word-Length Constraints for Large-Scale Computing. <u>The 8th Annual Commonwealth Computational Summit</u>. The University of Kentucky’s Center for Computational Science (CCS) and ITS/Research Computing Infrastructure (ITS-RCI), Lexington, KY, Oct. 16, 2024. </li>
+<li><strong>Chen, M.</strong>* and Shen, Y., 2024. Model Reduction under Finite Word-Length Constraints for Large-Scale Computing. <u>The 8th Annual Commonwealth Computational Summit</u>. The University of Kentucky's Center for Computational Science (CCS) and ITS/Research Computing Infrastructure (ITS-RCI), Lexington, KY, Oct. 16, 2024. </li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Shape-Change Morphing of Tensegrity V-Expander Plate Metamaterials. <u>ICCS27 - 27th International Conference on Composite Structures</u>. School of Engineering and Architecture, Ravenna Campus of University of Bologna, Italy, Sept. 3 – 6, 2024. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. A general empirical framework for modeling and control of tensegrity robots using Markov parameters. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 22, 2024.</li>
 <li> Ma, S., <strong>Chen, M.</strong>*, 2024. Stability in Tensegrity Systems Considering Member and Global Buckling. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 21, 2024.</li>
