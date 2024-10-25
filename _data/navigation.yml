@@ -31,8 +31,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Software"
-    url: /resources/
+  # - title: "Software"
+  #   url: /resources/
 
 #  - title: "Blog"
 #    url: /archive-year/
