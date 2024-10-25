@@ -1,10 +1,6 @@
 # main links links
 main:
 
-  - title: "Space Habitat"
-    url: /habitat/
-
-
   - title: "Research"
     url: /research/
     
@@ -36,3 +32,7 @@ main:
 
 #  - title: "Blog"
 #    url: /archive-year/
+
+  - title: "Space Habitat"
+    url: /habitat/
+
