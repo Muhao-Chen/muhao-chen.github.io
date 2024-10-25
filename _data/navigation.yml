@@ -18,7 +18,8 @@ main:
   # - title: "Awards"
   #   url: /awards/
 
-  - title: "Professional Activity"
+  # - title: "Professional Activity"
+  - title: "Activity"
     url: /professional-activities/
 
 #  - title: "CV"
