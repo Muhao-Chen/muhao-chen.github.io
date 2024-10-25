@@ -84,10 +84,10 @@ Submitted
 <!-- <li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of a Lightweight Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum)</u>. Orlando, FL, Jan. 6-10, 2025. Accepted. </li> -->
 <li> Ma, S.* and <strong>Chen, M.</strong>, 2024. Dynamics of Tensegrity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024. Accepted.</li> 
 <li> <strong>Chen, M.</strong> and Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - 30, 2024. Accepted.</li> 
-<li>Zhu, Z.* and <strong>Chen, M.</strong>, 2024. Design of a space station with artificial gravity using a metaheuristic approach. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li>
 </ol>
 Published
 <ol reversed>
+<li>Zhu, Z.* and <strong>Chen, M.</strong>, 2024. Design of a space station with artificial gravity using a metaheuristic approach. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 17, 2024. </li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., and Piccioni, M., 2024. Lightweight Design of Tensegrity V-Expander Structures. <u>The International Association for Shell and Spatial Structures (IASS) Annual Symposium</u>. ETH Hönggerberg, Zurich, Aug. 26 – 30, 2024. </li> 
 <li> Ma, S.*, <strong>Chen, M.</strong>, 2024. Prestressed cable-strut structures stability analysis under local and global buckling conditions. <u>The 2024 Investigation on Structure Stability and Fatigue (ISSF)</u>. Guangzhou, Aug. 16-19, 2024.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, Habtour, E., and Skelton, R.E., 2024. Sensor Fault Detection to Tensegrity Structures Using Eigensystem Realization Algorithm. <u>ASCE Earth & Space 2024</u>. Miami, FL, April 15-18, 2024.</li>
