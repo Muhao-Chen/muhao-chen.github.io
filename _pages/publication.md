@@ -8,7 +8,7 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
-[ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=2g3lz0AAAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@tamu.edu) for a copy of the paper. *Corresponding author.
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=2g3lz0AAAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@uky.edu) for a copy of the paper. *Corresponding author.
 
 
 ## Journal Articles 
