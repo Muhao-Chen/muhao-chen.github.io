@@ -15,7 +15,7 @@ toc: true
 <font size=3>
 Submitted 
 <ol reversed>
-<li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, and Balkcom, D.*, 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Submitted. </li>
+<!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, and Balkcom, D.*, 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Submitted. </li> -->
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. <u>Composite Structures</u>. Submitted. </li> -->
 <li>Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. Submitted. </li>
