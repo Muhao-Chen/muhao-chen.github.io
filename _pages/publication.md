@@ -19,7 +19,6 @@ Submitted
 
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. <u>Composite Structures</u>. Submitted. </li> -->
 <li> Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
-<li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. Submitted. </li>
 <!-- <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D-bar based metamaterials with negative Poisson's ratio. <u>Mechanics Research Communications</u>. Submitted. </li> -->
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., and Balkcom, D.*, 2024. Modular Shape-Changing Lightweight Blocks for Robotic Locomotion, Manipulation, and Structure Formation. <u>Science Robotics</u>. Submitted. </li>
 <!-- <li> Dong, H., Gan, J., Xia, R., Lu, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Adaptive tensegrity foot design for quadruped robots in unstructured terrains. <u>Smart Materials and Structures</u>. Submitted. </li> -->
@@ -36,6 +35,7 @@ Submitted
 </ol>
 Published
 <ol reversed>
+<li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. </li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> 215, p111415.</li>
 <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., and Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. 442, p119870. </li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> 112, p7215-7231. </li>
