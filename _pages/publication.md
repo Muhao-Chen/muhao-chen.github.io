@@ -34,7 +34,7 @@ Submitted
 </ol>
 Published
 <ol reversed>
-<li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. </li>
+<li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. p118694.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> 215, p111415.</li>
 <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., and Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. 442, p119870. </li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> 112, p7215-7231. </li>
