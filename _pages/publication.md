@@ -106,8 +106,8 @@ Published
 <strong>Conference with Abstracts</strong><br/>
 Submitted 
 <ol reversed>
-<li>Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, June 9-12, 2025, 
-Submitted. </li>
+<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and Analysis of Deployable Clustered Tensegrity V-Expander Plates. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Submitted.</li>
+<li>Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, June 9-12, 2025, Submitted. </li>
 <li> Yazbeck, R.*, El-Borgi, S., Boyd, J.G., <strong>Chen, M.</strong>, Lagoudas, D.C., 2025. Wave Propagation in Tensegrity Structures. <u> ASME's 3rd Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. Houston, TX, May 5 – 7, 2025. Submitted. </li>
 <li>Shen, Y.*, <strong>Chen, M.</strong>, and Skelton, R.E., 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration, and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. Submitted. </li>
 <!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Accepted. </li> -->
