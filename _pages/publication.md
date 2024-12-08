@@ -10,7 +10,7 @@ toc: true
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=wHj-vD8AAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@uky.edu) for a copy of the paper. *Corresponding author.
 
- <!-- and [ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2)  -->
+ <!-- and [ResearchGate](https://www.researchgate.net/profile/Muhao-Chen-2)  -->
 ## Journal Articles 
 <font size=3>
 Submitted 
@@ -30,6 +30,7 @@ Submitted
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, and Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>Nature Communications</u>. Submitted. </li>
+<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, and Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Submitted. </li>
 <li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
 </ol>
 Published
