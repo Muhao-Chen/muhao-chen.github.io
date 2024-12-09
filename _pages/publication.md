@@ -15,6 +15,7 @@ toc: true
 <font size=3>
 Submitted 
 <ol reversed>
+<li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., and Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Submitted. </li>
 <!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, and Balkcom, D.*, 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Submitted. </li> -->
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. <u>Composite Structures</u>. Submitted. </li> -->
@@ -26,7 +27,6 @@ Submitted
 <!-- <li> <strong>Chen, M.</strong>*, and Skelton, R.E., 2022. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
 <li>Bai, M. and <strong>Chen, M</strong>*, 2024. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. Submitted.</li>
-<li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, and Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>Nature Communications</u>. Submitted. </li>
