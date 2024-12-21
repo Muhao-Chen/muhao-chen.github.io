@@ -31,15 +31,15 @@ Submitted
 <li>Ma, S., <strong>Chen, M.</strong>*, and Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, and Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. Submitted. </li>
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, and Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Submitted. </li>
-<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li>
+<!-- <li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li> -->
 </ol>
 Published
 <ol reversed>
 <li> Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. p109894.</li>
-<li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. 228, p442-452.</li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. p118694.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> 215, p111415.</li>
 <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., and Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. 442, p119870. </li>
+<li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. 228, p442-452.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> 215, p111415.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, and Skelton, R.E., 2024. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> 112, p7215-7231. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., and Skelton, R.E., 2024. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. 130, p378-400.</li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., and Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. 296, p116868.</li>
