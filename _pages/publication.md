@@ -6,6 +6,14 @@ author_profile: true
 toc: true
 ---
 
+  <style>
+    /* Ensure no CSS is hiding list numbers */
+    ol {
+      list-style-type: decimal;
+      padding-left: 40px;
+    }
+  </style>
+
 <div style="text-align: justify;" markdown="1">
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=wHj-vD8AAAAJ&view_op=list_works&sortby=pubdate). Please [email me](mailto:muhaochen@uky.edu) for a copy of the paper. *Corresponding author.
