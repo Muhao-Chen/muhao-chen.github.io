@@ -22,6 +22,7 @@ toc: true
 ## Journal Articles 
 <font size=3>
 Submitted 
+<body>
 <ul>
 <ol reversed>
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
@@ -43,6 +44,7 @@ Submitted
 <!-- <li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li> -->
 </ol>
 </ul>
+</body>
 Published
 <ul>
 <ol reversed>
