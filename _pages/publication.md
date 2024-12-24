@@ -23,7 +23,6 @@ toc: true
 <font size=3>
 Submitted 
 <body>
-<ul>
 <ol reversed>
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. Submitted. </li>
@@ -43,7 +42,6 @@ Submitted
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Submitted. </li>
 <!-- <li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li> -->
 </ol>
-</ul>
 </body>
 Published
 <ul>
