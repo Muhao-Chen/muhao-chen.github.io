@@ -44,6 +44,7 @@ Submitted
 </ol>
 </ul>
 Published
+<ul>
 <ol reversed>
 <li> Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. 286, p109894.</li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. p118694.</li>
@@ -74,15 +75,18 @@ Published
 <li><strong>Chen, M.</strong>*, Liu, J. and Skelton, R.E., 2020. Design and control of tensegrity morphing airfoils. <u>Mechanics Research Communications</u>. 103, p103480.</li>
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2019. MOTES: Modeling of Tensegrity Structures. <u>Journal of Open Source Software</u>. 4(42), p.1613.</li>
 </ol>
+</ul>
 </font>
 
 ## Books & Chapters
 <font size=3>
+<ul>
 <ol reversed>
 <!-- <li><strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2024. Tensegrity Systems: Analysis and Synthesis. <u>New York: Springer.</u> In preparation. (A textbook for undergraduate and graduate students).</li> -->
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., Skelton, R.E., 2023. Analysis of Optimal Deployment Strategy for Large Deployable Tensegrity Space Antennas. Vol 437. <u>Springer</u>.</li>
 <!-- <li><strong>Chen, M.</strong>, Chen, B. and Skelton, R.E., 2024. Tensegrity Structures and Engineering Application. <u>Higher Education Press</u>. In preparation.</li> -->
 </ol>
+</ul>
 </font>
 
 
@@ -90,12 +94,15 @@ Published
 <font size=3>
 <strong>Conference with Full Papers </strong>   <br/>
 Submitted 
+<ul>
 <ol reversed>
 <li> Shi, L., <strong>Chen, M.</strong>, Shen, Y*, 2025. On the Invariance of Markov Parameters under Finite Word-Length Effects. <u>The American Control Conference (ACC)</u>. Denver, CO, Jul. 8 - 10, 2025. Submitted. </li>
 <li> Li, Z.,  Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li>
 <!-- <li> Zhao, L., Jiang Y., She, S., Balkcom, D, Dong, H., <strong>Chen, M.</strong>*, 2025. Design and Experiment of a Lightweight Robotic Tensegrity Morphing Wing. <u>The AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum)</u>. Orlando, FL, Jan. 6-10, 2025. Accepted. </li> -->
 </ol>
+</ul>
 Published
+<ul>
 <ol reversed>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Experimental study of tensegrity D-Bar based metamaterials.<u> The 5th International Conference on Mechanical Engineering, Intelligent Manufacturing and Automation Technology (MEMAT 2024)</u>. Nanjing, Dec 27, 2024. </li>
 <li> Ma, S.* and <strong>Chen, M.</strong>, 2024. Dynamics of Tensegrity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024.</li> 
@@ -117,8 +124,10 @@ Published
 <li>Goyal, R.*, <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E., 2020. Gyroscopic Tensegrity Robots. <u>IEEE International Conference on Robotics and Automation (ICRA)</u>. May 31 to Aug. 31, 2020.</li>
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
+</ul>
 <strong>Conference with Abstracts</strong><br/>
 Submitted 
+<ul>
 <ol reversed>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and Analysis of Deployable Clustered Tensegrity V-Expander Plates. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Submitted.</li>
 <li>Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, June 9-12, 2025, Submitted. </li>
@@ -129,7 +138,9 @@ Submitted
 <li> Yazbeck, R.*, El-Borgi, S., Boyd, J.G., <strong>Chen, M.</strong>, Lagoudas, D.C., 2025. Wave Propagation in Tensegrity Structures. <u> ASME's 3rd Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. Houston, TX, May 5 – 7, 2025. Submitted. </li>
 <!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Accepted. </li> -->
 </ol>
+</ul>
 Published
+<ul>
 <ol reversed>
 <li>Shen, Y.*, <strong>Chen, M.</strong>, 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration, and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. </li>
 <li> <strong>Chen, M.</strong>* and Ma, S., 2024. Buckling and Stability Evaluation of Tensegrity Aerospace Structures. <u>Kentucky Academy of Science (KAS) Annual Meeting</u>. Kentucky State University, Frankfort, KY, Nov. 1, 2024. </li>
@@ -154,6 +165,7 @@ Published
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., Skelton, R.E., 2022. Dynamics and Nonlinear Statics Analyses of Cable-actuation of the V-Expander Tensegrity Structure. <u>The 2022 International Workshop on Multiscale Innovative Materials and Structure (MIMS)</u>. Cetara (Amalfi Coast) - Salerno, Italy, Oct. 1, 2022.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2020. Finite element analytical formulation for nonlinear tensegrity dynamics. <u> In ICCS23 & MECHCOMP6-23rd</u>. International Conference on Composite Structures & 6th International Conference on Mechanics of Composites. p. 194. Porto, Portugal, Sept. 1–4, 2020. </li>
 </ol>
+</ul>
 </font>
 
 <!-- <li><strong>Chen, M.</strong>* and Zhu, Z., 2024. AI-Based and Performance-Driven Design for the Optimal Combined Tensegrity and Membrane Structures for Lunar Bases. <u>The 75th International Astronautical Congress (IAC)</u>. Milan, Italy, Oct. 14 – 18, 2024. Accepted. </li> -->
