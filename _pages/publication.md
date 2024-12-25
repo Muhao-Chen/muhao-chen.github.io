@@ -5,8 +5,7 @@ permalink: /publication/
 author_profile: true
 toc: true
 ---
-<html>
-<body>
+
 
 <div style="text-align: justify;" markdown="1">
 
@@ -16,8 +15,7 @@ toc: true
 ## Journal Articles 
 <font size=3>
 Submitted 
-<!-- <ol reversed> -->
-<ol reversed style="list-style-type:decimal">
+<ol reversed>
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2024. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Submitted.</li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. Submitted. </li>
 <!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D.*, 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Submitted. </li> -->
@@ -181,6 +179,3 @@ Published
 </font> -->
 
 </div>
-
-</body>
-</html>
