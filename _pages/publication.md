@@ -16,7 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. Under Review. </li>
+<li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Under Review. </li>
 <!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D.*, 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Submitted. </li> -->
 <li> Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2024. Lightweight designs of simply supported tensegrity structures and their applications to bridges. <u>Composite Structures</u>. Under Review. </li>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Under Review. </li>
@@ -34,7 +34,7 @@ Submitted
 </ol>
 Published
 <ol reversed>
-<li>Ma, S. and <strong>Chen, M.</strong>*, 2025. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. Accepted.</li>
+<li>Ma, S. and <strong>Chen, M.</strong>*, 2025. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. p109951.</li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. p118694.</li>
 <li> Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. 286, p109894.</li>
 <li> Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. 442, p119870. </li>
