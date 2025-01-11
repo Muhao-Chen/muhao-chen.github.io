@@ -64,6 +64,7 @@ toc_max_header: 1
     - [VOA](https://www.voanews.com/a/science-health_futuristic-space-habitat-solves-problems-human-space-travel/6172519.html), Jul. 26 2019                     
     - [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html), Feb. 5, 2019                  
     - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018 
+* Exhibitor, Open Labs for Reunion Visitors, UKY, Aug 15, 2024        
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
 * Advisor, [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)        
 * Advisor, Wuhan Foreign Languages School (Public High School), 2014 - 2015             
@@ -72,7 +73,6 @@ toc_max_header: 1
     - Alex Arber, May 2024 - Present     
     - Siddharth Sundar, Sept. - Dec. 2023       
 * Mentor, Exemplar Scholars Program, Lexington Catholic High School, KY. Sept. 2024- Present               
-* Exhibitor, Open Labs for Reunion Visitors, UKY, Aug 15, 2024
 
 
 <!-- * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015 -->
