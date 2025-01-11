@@ -80,8 +80,7 @@ toc_max_header: 1
 <!-- ## News  -->
 
 <!-- - [NASA Moon to Mars Ice and Prospecting Challenge](https://www.nasa.gov/solve/nasas-lunar-loo-challenge/Moon_to_Mars_Ice_Prospecting_Challenge/) -->
-<!-- - NASA Moon to Mars Ice and Prospecting Challenge
- - [TAMU Engineering News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), Jan. 25, 2021 -->
+<!-- - NASA Moon to Mars Ice and Prospecting Challenge  - [TAMU Engineering News](https://engineering.tamu.edu/news/2021/01/aggie-engineering-students-produce-advanced-prototype-for-NASA-challenge.html), Jan. 25, 2021 -->
  <!-- * Event Participants: Eduardo Gildin, Robert E. Skelton, George Moridis, Sam Noynaert. Mohamed S. Khaled, Muhao Chen, Enrique Z. Losoya. Srivignesh Srinivasan, Alkassoum Toure, Luis Rodriguez, Ayodeji A. Adeniran, Le Linh, Uthej Vattipalli, Thomas J. Lopez. Jessica Ezemba, Emily Kincaid, and Teresa Valdez -->
    
 <!-- - [Building A Growable Habitat for Sustainable Life in Space](https://catalog.data.gov/dataset/tensegrity-approaches-to-in-space-construction-of-a-1g-growable-habitat) -->
