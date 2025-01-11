@@ -107,6 +107,8 @@ Published
 <strong>Conference with Abstracts</strong><br/>
 Submitted 
 <ol reversed>
+<!-- <li>Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
+<!-- <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and Analysis of Deployable Clustered Tensegrity V-Expander Plates. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Submitted.</li>
 <li>Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, June 9-12, 2025, Submitted. </li>
 <li>Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025, Submitted. </li>
