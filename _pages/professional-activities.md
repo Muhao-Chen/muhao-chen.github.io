@@ -71,7 +71,7 @@ toc_max_header: 1
 * Mentor, Lafayette High School (Pre-Engineering Program), Lexington, KY      
     - Alex Arber, May 2024 - Present     
     - Siddharth Sundar, Sept. - Dec. 2023       
-* Mentor, Exemplar Scholars Program, Lexington Catholic High School, KY. Sept. 2024        - Present       
+* Mentor, Exemplar Scholars Program, Lexington Catholic High School, KY. Sept. 2024- Present               
 * Exhibitor, Open Labs for Reunion Visitors, UKY, Aug 15, 2024
 
 
