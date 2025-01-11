@@ -53,7 +53,11 @@ toc_max_header: 1
 <!-- , [Special Issue](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/call-for-papers#biomimetic-soft-robotics-actuation-sensing-and-integration): Biomimetic Soft Robotics: Actuation, Sensing and Integration -->
 
 
+
+
 ## Outreach
+* Organizer, IASS Annual Symposium, Oct 2025
+* Organizer, Engineering Mechanics Institute (EMI), Tensegrity Mini-Symposium, May, 2025
 * News and Media
     - #VdoorLocksmith Show - Gibson Reports, TX, Sept. 9, 2022 
     - [PYHS.org](https://phys.org/news/2020-09-space-habitat-artificial-gravity-enlarged.html), Sept. 21 2020
@@ -61,12 +65,15 @@ toc_max_header: 1
     - [TAMU Engineering News](https://engineering.tamu.edu/news/2019/02/building-a-growable-habitat-for-sustainable-life-in-space.html), Feb. 5, 2019
     - [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016), May 17, 2018 
 * Judge, Texas A&M University Student Research Week ([SRW](https://srw.tamu.edu/)), 2021 - 2022
-* Faculty Advisor, [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
+* Advisor, [SpaceLex](https://spacelex.engr.uky.edu/projects/meridian) (the University of Kentucky's Rocketry and Propulsion Team)
 * Advisor, Wuhan Foreign Languages School (Public High School), 2014 - 2015    
     - Led the FIRST Robotics Competition ([FRC](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)) team to the National Championship
-* Advisor, Lafayette High School (Pre-Engineering Program), Lexington, KY
+* Mentor, Lafayette High School (Pre-Engineering Program), Lexington, KY
     - Alex Arber, May 2024 - Present
     - Siddharth Sundar, Sept. - Dec. 2023
+* Mentor, Exemplar Scholars Program, Lexington Catholic High School, KY. Sept. 2024 - Present    
+* Exhibitor, Open Labs for Reunion Visitors, UKY, Aug. 15, 2024
+
 
 <!-- * Advisor, FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)), 2014 - 2015 -->
 
