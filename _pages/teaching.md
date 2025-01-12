@@ -9,20 +9,20 @@ toc: true
 <div style="text-align: justify;" markdown="1">
 
 ### University of Kentucky, Lexington, KY
-- Class Teaching   
-    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)    
-    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)    
-    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)               
+- Class Teaching       
+    * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)    
+    * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)    
+    * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)     
 - Recruiting               
-    * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.        
+    * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.        
 - Students Mentoring       
-    * Youyun Xu, Ph.D. in Mechanical Engineering    
-    * Kyle Hampton, M.S. in Aerospace Engineering     
-    * Junheng Yao, BS in Mechanical Engineering    
-    * Cong Wang, BS in Electrical Engineering      
-    * Randall M. Tomlinson, BS in Aerospace Engineering    
+    * Youyun Xu, Ph.D. in Mechanical Engineering    
+    * Kyle Hampton, M.S. in Aerospace Engineering     
+    * Junheng Yao, BS in Mechanical Engineering    
+    * Cong Wang, BS in Electrical Engineering      
+    * Randall M. Tomlinson, BS in Aerospace Engineering    
 - Students Mentored    
-    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor)
+    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor)
 
 <!-- (committee member) -->
 
@@ -45,19 +45,16 @@ toc: true
 <!-- - Student Mentoring (with [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
  * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present) -->
 - Students Mentored (Co-supervision with Dr. Robert E. Skelton)     
-    * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)    
-    * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)      
-    * Xiaolong Bai, MEng in Aerospace Engineering (Sept. 2017 - Dec. 2019)    
+    * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)    
+    * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)      
+    * Xiaolong Bai, MEng in Aerospace Engineering (Sept. 2017 - Dec. 2019)    
         <!-- - Research Topic: Experiment Design of A Tensegrity Morphing Airfoil -->
         <!-- - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin -->
         <!-- - Research Topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures -->
 
 ### Huazhong University of Science and Technology       
 - Class Advisor, B.S. Students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016   
-    * Awarded Excellent Class and Individual    
+    * Awarded Excellent Class and Individual    
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012   
-    * Awarded National Excellent LabView Club and Individual   
-
-
-
+    * Awarded National Excellent LabView Club and Individual   
 </div>
