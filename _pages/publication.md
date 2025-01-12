@@ -25,7 +25,7 @@ Submitted
 <li>Bai, M. and <strong>Chen, M</strong>*, 2024. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. Under Review.</li>
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2023. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Skelton, R.E., 2023. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
-<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. Under Review. </li>
+<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>npj Robotics</u>. Under Review. </li>
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Under Review. </li>
 <!-- <li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Submitted.</li> -->
 </ol>
