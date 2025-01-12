@@ -88,9 +88,7 @@ toc_max_header: 1
 
 <!-- ## Demos
 - IROS Conference, Detroit, MI, Oct 5, 2023
- - [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/) -->
- <!-- - Tensegrity Actuated Origami Systems for Deployable Aerospace Structures 
- * Event Participants: Idris Hussain, Muhao Chen, David Capps, Manoranjan Majji -->
+ - [Tensegrity Robotics Workshop](https://www.eng.yale.edu/faboratory/tensegrityworkshop/)  Tensegrity Actuated Origami Systems for Deployable Aerospace Structures  * Event Participants: Idris Hussain, Muhao Chen, David Capps, Manoranjan Majji -->
 
 <!-- - NIAC Symposium, Huntsville, AL, Sept 24, 2019     
  - [Lunar-Polar Propellant Mining Outpost (LPMO): Affordable Exploration and Industrialization](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Lunar_Polar_Propellant_Mining_Outpost/) -->
