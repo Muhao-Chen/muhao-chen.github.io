@@ -32,6 +32,7 @@ Submitted
 </ol>
 Published
 <ol reversed>
+<li>Jiang, M. and <strong>Chen, M.</strong>, Zhou, D., Mao, Z.*, 2025. Editorial for the special issue on biomimetic soft robotics: Actuation, sensing, and integration. <u>Biomimetic Intelligence and Robotics</u>. p100211.</li>
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2025. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. p109951.</li>
 <li> Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. p118694.</li>
 <li> Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. 286, p109894.</li>
