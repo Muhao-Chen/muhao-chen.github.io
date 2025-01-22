@@ -94,10 +94,12 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 <!-- International Conference on Rehabilitation Medicine and Engineering, 2022     -->
 * Finalist, NASA RASC-AL, 2021   
  <!-- Special Edition: Moon to Mars Ice & Prospecting Challenge, 2021 -->
-* AERO Graduate Excellence Fellowship Award, 2020    
+* AERO Graduate Excellence Fellowship, TAMU, 2020     
+ <!-- Award, 2020     -->
 <!-- * AERO Travel Grant, Texas A&M University, College Station, 2018-2019 -->
 <!-- * First Prize, National Marine Vehicle Design Competition, Jul. 2015 -->
-* National Scholarship (the Highest Honor for Students in China), Dec. 2014
+* National Scholarship (Highest Honor, China), 2014
+ <!-- (the Highest Honor for Students in China), Dec. 2014 -->
 <!-- * The Unique National Special Prize, Sunbird Cup Yacht Design Contest, Dec. 2014 -->
 <!-- * First Prize, 6th National Contest on Energy Saving and Emission Reduction, Aug. 2013 -->
 <!-- * Second Prize, the National Virtual Instrument Contest, May 2013 -->
