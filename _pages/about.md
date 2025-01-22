@@ -84,12 +84,17 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 
 ## Awards
 <div style="text-align: justify;" markdown="1">
-* Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024
+* Outstanding Guest Editor, BIROB, 2025   
+* Best Paper Award, 18th SFSS, 2024       
+<!-- * Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024       -->
 <!-- * Outstanding Award, Natural Science Academic Papers, Suzhou City, 2024  -->
-* Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, 2023
-* First Prize, 11th International Conference on Rehabilitation Medicine and Engineering, 2022
-* Finalist, NASA RASC-AL Special Edition: Moon to Mars Ice & Prospecting Challenge, 2021
-* AERO Graduate Excellence Fellowship Award, 2020
+<!-- * Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, 2023 -->
+* Best Presentation Award, EMI-IC, 2023      
+* First Prize, 11th ICRME, 2022   
+<!-- International Conference on Rehabilitation Medicine and Engineering, 2022     -->
+* Finalist, NASA RASC-AL, 2021   
+ <!-- Special Edition: Moon to Mars Ice & Prospecting Challenge, 2021 -->
+* AERO Graduate Excellence Fellowship Award, 2020    
 <!-- * AERO Travel Grant, Texas A&M University, College Station, 2018-2019 -->
 <!-- * First Prize, National Marine Vehicle Design Competition, Jul. 2015 -->
 * National Scholarship (the Highest Honor for Students in China), Dec. 2014
