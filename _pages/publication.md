@@ -79,10 +79,10 @@ Published
 ## Conferences
 <font size=3>
 <strong>Conference with Full Papers </strong>   <br/>
-Submitted 
-<ol reversed>
+<!-- Submitted  -->
+<!-- <ol reversed> -->
 <!-- <li> Shi, L., <strong>Chen, M.</strong>, Shen, Y*, 2025. On the Invariance of Markov Parameters under Finite Word-Length Effects. <u>The American Control Conference (ACC)</u>. Denver, CO, Jul. 8 - 10, 2025. Submitted. </li> -->
-<li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li>
+<!-- <li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li> -->
 </ol>
 Published
 <ol reversed>
