@@ -83,7 +83,7 @@ Published
 <!-- <ol reversed> -->
 <!-- <li> Shi, L., <strong>Chen, M.</strong>, Shen, Y*, 2025. On the Invariance of Markov Parameters under Finite Word-Length Effects. <u>The American Control Conference (ACC)</u>. Denver, CO, Jul. 8 - 10, 2025. Submitted. </li> -->
 <!-- <li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li> -->
-</ol>
+<!-- </ol> -->
 Published
 <ol reversed>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Experimental study of tensegrity D-Bar based metamaterials.<u> The 5th International Conference on Mechanical Engineering, Intelligent Manufacturing and Automation Technology (MEMAT 2024)</u>. Nanjing, Dec 27, 2024. </li>
