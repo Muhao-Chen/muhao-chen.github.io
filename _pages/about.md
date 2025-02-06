@@ -85,7 +85,7 @@ B.S., Naval Architecture and Ocean Engineering / Minor: English, 2013
 ## Awards
 <div style="text-align: justify;" markdown="1">
 * Outstanding Guest Editor, BIROB, 2025   
-* 2024 Reviewers of the Year Award, ASME JMR      
+* 2024 Reviewers of the Year Award, ASME J. Mechanisms Robotics         
 * Best Paper Award, 18th SFSS, 2024       
 <!-- * Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024       -->
 <!-- * Outstanding Award, Natural Science Academic Papers, Suzhou City, 2024  -->
