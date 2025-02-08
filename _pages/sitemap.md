@@ -52,7 +52,7 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 
 Longman, A., Chen, M.*, 2024. A revolutionary expandable rotating shielded space habitat. <u>Aerospace Science and Technology</u>. In Preparation.
 
-Zhu, Z.* and Chen, M., 2024. Design of a space station with artificial gravity using a metaheuristic approach. The 75th International Astronautical Congress (<u>IAC 2024</u>). Milan, Italy, Oct. 17, 2024.
+Zhu, Z.* and Chen, M., 2024. Simulating the gravity by rotation as a multi-objective design problem: A metaheuristic approach toward the design of a space station with artificial gravity. The 75th International Astronautical Congress (<u>IAC 2024</u>). Milan, Italy, Oct. 17, 2024.
 
 <!-- <ol reversed> -->
 <!-- <li> -->
