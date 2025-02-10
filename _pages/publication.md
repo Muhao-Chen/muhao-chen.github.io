@@ -19,7 +19,7 @@ Submitted
 <!-- <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Powder Technology</u>. Under Review. </li> -->
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Under Review. </li>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Under Review. </li>
-<li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Engineering Structures</u>. Submitted.</li>
+<li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Computers & Structures</u>. Submitted.</li>
 <li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Collision resistant study of spherical tensegrity structures for protective drone shells. <u>Extreme Mechanics Letters</u>. Under Review. </li>
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li> <strong>Chen, M.</strong>*, Shen, Y., Majji, M. and Skelton, R.E. Integrated economic sensor/actuator selection and covariance control for tensegrity robots. 2023. <u>Automatica</u>. </li> -->
@@ -32,7 +32,7 @@ Submitted
 Published
 <ol reversed>
 <li>Jiang, M. and <strong>Chen, M.</strong>, Zhou, D., Mao, Z.*, 2025. Editorial for the special issue on biomimetic soft robotics: Actuation, sensing, and integration. <u>Biomimetic Intelligence and Robotics</u>. p100211.</li>
-<li>Bai, M. and <strong>Chen, M</strong>*, 2025. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. Accepted.</li>
+<li>Bai, M. and <strong>Chen, M</strong>*, 2025. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. p118925.</li>
 <li>Zhang, G., <strong>Chen, M.</strong>*, Chen, D., Shen, Y.*, 2025. Lightweight designs of simply supported tensegrity structures and their applications to bridges. <u>Composite Structures</u>. p118923.</li>
 <li>Ma, S. and <strong>Chen, M.</strong>*, 2025. Stability conditions of tensegrity structures considering local and global buckling. <u>International Journal of Mechanical Sciences</u>. 287, p109951.</li>
 <li>Yazbeck, R., El-Borgi, S., Boyd, J.G.*, <strong>Chen, M.</strong>, Lagoudas, D.C., 2024. Non-dimensional linear analysis of one-dimensional wave propagation in D-bar tensegrity structures. <u>Composite Structures</u>. 353, p118694.</li>
