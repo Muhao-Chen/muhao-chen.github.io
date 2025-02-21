@@ -16,6 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
+<li> <strong>Chen, M.</strong>*, Shen, Y., 2025. An optimal sensor and actuator selection framework to tensegrity systems. <u>Mechanical Systems and Signal Processing</u>. Under Review. </li>
 <!-- <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Powder Technology</u>. Under Review. </li> -->
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Under Review. </li>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Under Review. </li>
@@ -40,7 +41,7 @@ Published
 <li>Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. 442, p119870.</li>
 <li>Hui, D., Gan, J., Xia, R., Lu, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Adaptive tensegrity foot design for quadruped robots in unstructured terrains. <u>Smart Materials and Structures</u>. 34, p117274.</li>
 <li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. 228, p442-452.</li>
-<li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing.</u> 215, p111415.</li>
+<li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing</u>. 215, p111415.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2024. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> 112, p7215-7231.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Dong, Y., Yuan, X., Skelton, R.E., 2024. Statics and dynamics of pulley-driven tensegrity structures with sliding cable modeling. <u>Applied Mathematical Modelling</u>. 130, p378-400.</li>
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., Skelton, R.E., 2023. Analysis of clustered cable-actuation strategies of V-Expander tensegrity structures. <u>Engineering Structures</u>. 296, p116868.</li>
