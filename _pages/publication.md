@@ -16,7 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li> <strong>Chen, M.</strong>*, Shen, Y., 2025. An optimal sensor and actuator selection framework to tensegrity systems. <u>Mechanical Systems and Signal Processing</u>. Under Review. </li>
+<li> <strong>Chen, M.</strong>*, Shen, Y., 2025. An optimal sensor and actuator selection framework to tensegrity systems. <u>IEEE Transactions on Automatic Control</u>. Under Review. </li>
 <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Computers & Structures</u>. Submitted.</li>
 <!-- <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Powder Technology</u>. Under Review. </li> -->
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Under Review. </li>
