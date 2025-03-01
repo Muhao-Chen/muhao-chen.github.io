@@ -81,13 +81,14 @@ Published
 ## Conferences
 <font size=3>
 <strong>Conference with Full Papers </strong>   <br/>
-<!-- Submitted  -->
-<!-- <ol reversed> -->
-<!-- <li> Shi, L., <strong>Chen, M.</strong>, Shen, Y*, 2025. On the Invariance of Markov Parameters under Finite Word-Length Effects. <u>The American Control Conference (ACC)</u>. Denver, CO, Jul. 8 - 10, 2025. Submitted. </li> -->
-<!-- <li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted. </li> -->
-<!-- </ol> -->
+Submitted 
+<ol reversed> 
+<li> Jiang, Y.*, Zhao, L., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Submitted. </li>
+<li> Shi, L., Cao, W., <strong>Chen, M.</strong>, Shen, Y*, 2025. Markov parameters generation for data-based modeling of tensegrity robots considering finite word-length effects. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Submitted. </li>
+<li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Submitted. </li>
+</ol>
 Published
-<ol reversed>
+<ol reversed> 
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Experimental study of tensegrity D-Bar based metamaterials.<u> The 5th International Conference on Mechanical Engineering, Intelligent Manufacturing and Automation Technology (MEMAT 2024)</u>. Nanjing, Dec 27, 2024. </li>
 <li> Ma, S.* and <strong>Chen, M.</strong>, 2024. Dynamics of Tensegrity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024.</li> 
 <li> <strong>Chen, M.</strong> and Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - 30, 2024.</li> 
