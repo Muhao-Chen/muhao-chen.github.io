@@ -10,6 +10,7 @@ toc: true
 
 ### University of Kentucky, Lexington, KY
 - Class Teaching       
+    * ME/AER 599/699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2025 Spring)    
     * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)    
     * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)    
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)     
