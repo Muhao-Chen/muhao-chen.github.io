@@ -16,7 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li> <strong>Chen, M.</strong>*, Shen, Y., 2025. An optimal sensor and actuator selection framework to tensegrity systems. <u>IEEE Transactions on Automatic Control</u>. Under Review. </li>
+<li> <strong>Chen, M.</strong>, Shen, Y., 2025. Resource efficient covariance control of tensegrity robots with optimal sensor and actuator selection. <u>IEEE Transactions on Robotics</u>. Submitted. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Computers & Structures</u>. Submitted.</li>
 <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Advanced Powder Technology</u>. Under Review. </li>
