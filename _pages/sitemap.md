@@ -47,7 +47,6 @@ The motivation behind designing an Expandable Shielded Rotating Space Habitat is
 [The Wall Street Journal](https://www.wsj.com/articles/space-village-one-a-vision-for-life-beyond-earth-1526567016): Space Village One: A Vision for Life Beyond Earth (By Daniela Hernandez, May 17, 2018)
 
 
-
 ### Research Publications 
 
 Longman, A., Chen, M.*, 2024. A revolutionary expandable rotating shielded space habitat. <u>Aerospace Science and Technology</u>. In Preparation.
