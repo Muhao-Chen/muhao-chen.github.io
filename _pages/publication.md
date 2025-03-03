@@ -112,6 +112,7 @@ Published
 <strong>Conference with Abstracts</strong><br/>
 Submitted 
 <ol reversed>
+<li>Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Dynamic Modeling of Integrated Tensegrity and Membrane Systems for Lightweight Deployable Structures. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025, Submitted. </li>
 <li>Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Design and Analysis of Tensegrity Flywheels Based on Michell Truss Topologies. <u>The 76th International Astronautical Congress (IAC)</u>. Sydeny, Australia, Sep. 29 – Otc. 3, 2025. Submitted. </li>
 <!-- <li>Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <!-- <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
