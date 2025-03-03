@@ -73,6 +73,8 @@ Huazhong University of Science and Technology
 M.S., Design and Manufacture of Ships and Marine Structures, 2016      
 B.S., Naval Architecture and Ocean Engineering, 2013
 <!-- / Minor: English -->
+
+
 <!--
 ## Research Interest
 * Integrating Structure & Control Design    
