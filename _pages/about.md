@@ -71,8 +71,9 @@ Ph.D., Aerospace Engineering. Advisors: Drs. [Robert Skelton](https://bobskelton
 
 Huazhong University of Science and Technology    
 M.S., Design and Manufacture of Ships and Marine Structures, 2016      
-B.S., Naval Architecture and Ocean Engineering, 2013
-<!-- / Minor: English -->
+B.S., Naval Architecture and Ocean Engineering, 2013     
+
+<!-- / Minor: English -->     
 
 
 <!--
