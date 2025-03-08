@@ -100,8 +100,10 @@ B.S., Naval Architecture and Ocean Engineering, 2013                  
 * First Prize, 11th ICRME, 2022   
 * Finalist, NASA RASC-AL, 2021   
 * AERO Graduate Excellence Fellowship, TAMU, 2020     
-* National Scholarship (Highest Honor, China), 2014
+* National Scholarship, 2014
 </div>
+
+<!-- (Highest Honor, China) -->
 <!-- * Best Paper Award, 18th Sub-association for Stability and Fatigue of Steel Structures, CSCS, 2024       -->
 <!-- * Outstanding Award, Natural Science Academic Papers, Suzhou City, 2024  -->
 <!-- * Best Presentation Award, Multiscale Mechanics & Nanostructures, EMI-IC, 2023 -->
