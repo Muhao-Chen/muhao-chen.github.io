@@ -16,17 +16,17 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
+<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2025. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Under Review. </li>
+<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Computers & Structures</u>. Under Review.</li>
 <li> <strong>Chen, M.</strong>, Shen, Y., 2025. Resource efficient covariance control of tensegrity robots with optimal sensor and actuator selection. <u>IEEE Transactions on Robotics</u>. Submitted. </li>
 <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Advanced Powder Technology</u>. Under Review. </li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D.*, 2024. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Under Review. </li>
-<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2024. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Under Review. </li>
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, 2025. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, 2025. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>npj Robotics</u>. Under Review. </li>
-<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Under Review. </li>
 </ol>
 Published
 <ol reversed>
@@ -116,12 +116,12 @@ Submitted
 <li> Shen, Y.*, <strong>Chen, M.</strong>, 2025. Data-Driven Modeling and Control Framework for Tensegrity Robots Using Markov Parameters. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. </li>
 <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. The minimal mass tensegrity solutions to simply supported loads. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. </li>
 <li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Dynamic Modeling of Integrated Tensegrity and Membrane Systems for Lightweight Deployable Structures. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. </li>
-<li> Su, L., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Parametric Studies of Hoberman Spheres for the Design of Scalable and Deployable Structures. <u>The 76th International Astronautical Congress (IAC)</u>. Sydeny, Australia, Sep. 29 – Otc. 3, 2025. Submitted. </li>
-<li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Design and Analysis of Tensegrity Flywheels Based on Michell Truss Topologies. <u>The 76th International Astronautical Congress (IAC)</u>. Sydeny, Australia, Sep. 29 – Otc. 3, 2025. Submitted. </li>
+<li> Su, L., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Parametric Studies of Hoberman Spheres for the Design of Scalable and Deployable Structures. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Otc 3, 2025. Submitted. </li>
+<li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Design and Analysis of Tensegrity Flywheels Based on Michell Truss Topologies. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Otc 3, 2025. Submitted. </li>
 <!-- <li>Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <!-- <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and Analysis of Deployable Clustered Tensegrity V-Expander Plates. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Accepted.</li>
-<li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, June 9-12, 2025, Accepted. </li>
+<li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, Jun. 9-12, 2025, Accepted. </li>
 <li> Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025, Accepted. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025, Accepted. </li>
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SMILE: Soft Modular Intelligent Lattice for Entertainment. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted.</li>
