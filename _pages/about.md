@@ -55,11 +55,12 @@ My research focuses on three primary areas: Dynamics: Focus on precise, cost-eff
 ---
 
 ## Work Experience
-Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY    
+Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY               
 Assistant Professor, Aug. 2023 - Present
 
-Department of Aerospace Engineering, Texas A&M University, College Station, TX    
-Postdoctoral Researcher, May 2021 - July 2023 (Advisor: Dr. [Robert Skelton](https://bobskelton.github.io/))
+Department of Aerospace Engineering, Texas A&M University, College Station, TX               
+Postdoctoral Researcher, May 2021 - July 2023 
+<!-- (Advisor: Dr. [Robert Skelton](https://bobskelton.github.io/)) -->
 
 <!-- Think -->
 <!-- National Instruments Corporation
@@ -70,7 +71,8 @@ Assistant Application Engineer, July 2013 - Jan. 2015 -->
 
 ## Education 
 Texas A&M University, College Station, May 2021          
-Ph.D., Aerospace Engineering. Advisors: Drs. [Robert Skelton](https://bobskelton.github.io/) and [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html)
+Ph.D., Aerospace Engineering
+<!-- Advisors: Drs. [Robert Skelton](https://bobskelton.github.io/) and [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html) -->
 
 Huazhong University of Science and Technology              
 M.S., Design and Manufacture of Ships and Marine Structures, 2016                             
@@ -118,9 +120,9 @@ B.S., Naval Architecture and Ocean Engineering, 2013                  
 
 
 ## Contact
-Email: muhaochen@uky.edu                     
-Office: +1 859-2577-2233                     
-Tel: +1 979-985-8285                         
+Email: muhaochen@uky.edu                               
+Office: +1 859-2577-2233               
+Tel: +1 979-985-8285               
 Grehan 113A, Mechanical and Aerospace Engineering               
 University of Kentucky, Lexington, KY 40506
 
