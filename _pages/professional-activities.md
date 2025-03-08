@@ -41,7 +41,7 @@ toc_max_header: 1
 - The 2023 Society of Engineering Science (SES) Annual Conference, Minneapolis, MN, Oct 9, 2023 
 - The 2022 Annual Technical Meeting of the Society of Engineering Science (SES), College Station, TX, Oct 17, 2022 
 - The Annual Symposium of the International Association for Shell and Spatial Structures (IASS) & 13th Asian-Pacific Conference on Shell and Spatial Structures (APCS), Beijing, Sept 19, 2022 
-- International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spacial Structures Conference, Surrey, UK, Aug 23, 2021 
+- International Association for Shell and Spatial Structures (IASS) Annual Symposium and Spatial Structures Conference, Surrey, UK, Aug 23, 2021 
 - The ASCE Earth & Space Conference, A Virtual Conference, Apr 19, 2021 
 - International Conference on Composite Structures 23rd & International Conference on Mechanics of Composites 6th (ICCS23 & MECHCOMP6). Porto, Portugal. Sept 3, 2020 
 - AIAA SPACE and Astronautics Forum and Exposition, Orlando, FL, Sept 17, 2018  -->
