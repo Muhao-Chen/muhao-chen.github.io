@@ -39,7 +39,7 @@ Published
 <li>Xu, Y. and <strong>Chen, M.</strong>*, 2024. The minimal mass tensegrity solutions to compressive and tensile loads. <u>International Journal of Mechanical Sciences</u>. 286, p109894.</li>
 <li>Chen, Y., <strong>Chen, M</strong>, Xia, X.*, Hermanson, J.C., Qi, F., 2024. Refinement reconstruction-based Monte Carlo methods for solving the breakage population balance equation. <u>Powder Technology</u>. 442, p119870.</li>
 <li>Hui, D., Gan, J., Xia, R., Lu, Z., Chen, B.*, <strong>Chen, M</strong>*, 2024. Adaptive tensegrity foot design for quadruped robots in unstructured terrains. <u>Smart Materials and Structures</u>. 34, p117274.</li>
-<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. Accepted.</li>
+<li>Chen, J., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Tensegrity system dynamics in fluids. <u>Nonlinear Dynamics</u>. p11096.</li>
 <li>Su, X., <strong>Chen, M.</strong>*, Majji, M., Skelton, R.E., 2024. Minimal mass design of a tensegrity tower for lunar electromagnetic launching. <u>Acta Astronautica</u>. 228, p442-452.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2024. Finite word-length optimal simulation for high dimensional dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing</u>. 215, p111415.</li>
 <li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2024. A Markov data-based approach to system identification and output error covariance analysis for tensegrity structures. <u>Nonlinear Dynamics.</u> 112, p7215-7231.</li>
