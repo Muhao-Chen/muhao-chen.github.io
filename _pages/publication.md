@@ -16,7 +16,6 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2025. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Accepted. </li>
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Thin-Walled Structures</u>. Under Review.</li>
@@ -30,6 +29,7 @@ Submitted
 </ol>
 Published
 <ol reversed>
+<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2025. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Accepted. </li>
 <li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2025. Collision resistant study of spherical tensegrity structures for protective drone shells. <u>Extreme Mechanics Letters</u>. p102312. </li>
 <li>Jiang, M. and <strong>Chen, M.</strong>, Zhou, D., Mao, Z.*, 2025. Editorial for the special issue on biomimetic soft robotics: Actuation, sensing, and integration. <u>Biomimetic Intelligence and Robotics</u>. p100211.</li>
 <li>Bai, M. and <strong>Chen, M</strong>*, 2025. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. p118925.</li>
@@ -125,8 +125,8 @@ Submitted
 <li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, Jun. 9-12, 2025, Accepted. </li>
 <li> Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025, Accepted. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025, Accepted. </li>
-<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SMILE: Soft Modular Intelligent Lattice for Entertainment. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Submitted.</li>
-<li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D., 2025. StarBot: Self-Assembled Transformative Adaptive Robot. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Accepted.</li>
+<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SMILE: Soft Modular Intelligent Lattice for Entertainment. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Accepted.</li>
+<!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D., 2025. StarBot: Self-Assembled Transformative Adaptive Robot. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Accepted.</li> -->
 <li> Yazbeck, R.*, El-Borgi, S., Boyd, J.G., <strong>Chen, M.</strong>, Lagoudas, D.C., 2025. Wave Propagation in Tensegrity Structures. <u> ASME's 3rd Annual Aerospace Structures, Structural Dynamics, and Materials Conference (SSDM)</u>. Houston, TX, May 5 – 7, 2025. Accepted. </li>
 <!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Accepted. </li> -->
 </ol>
