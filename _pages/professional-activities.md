@@ -12,6 +12,7 @@ toc_max_header: 1
 <div style="text-align: justify;" markdown="1">
 
 ## Invited Talks
+<li> Engineering Mechanics Institute (EMI). University of California, Irvine, CA, May 27, 2025. </li>
 <!-- * Tensegrity Robotics Workshop, The 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025), Lausanne, SWI, Apr 23, 2025  -->
 * Department of Mechanical and Aerospace Engineering, University of Houston, TX, Feb, 2025
 * Department of Civil and Architectural Engineering, University of Miami, FL, Sept 27, 2024
