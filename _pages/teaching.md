@@ -18,10 +18,12 @@ toc: true
     * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.        
 - Students Mentoring       
     * Youyun Xu, Ph.D. in Mechanical Engineering    
-    * Kyle Hampton, M.S. in Aerospace Engineering     
-    * Junheng Yao, BS in Mechanical Engineering    
-    * Cong Wang, BS in Electrical Engineering      
-    * Randall M. Tomlinson, BS in Aerospace Engineering    
+    * Kyle Hampton, M.S. in Aerospace Engineering   
+    * Alex McCray, BS in Mechanical Engineering     
+    * Junheng Yao, BS in Mechanical Engineering   
+    * Graham Wilson,  BS in Mechanical Engineering   
+    <!-- * Cong Wang, BS in Electrical Engineering       -->
+    <!-- * Randall M. Tomlinson, BS in Aerospace Engineering     -->
 - Students Mentored    
     * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor)
 
