@@ -22,11 +22,12 @@ toc: true
     * Rayan Pasha, M.S. in Aerospace Engineering
     * Junheng Yao, BS in Mechanical Engineering  
     * Alex McCray, BS in Mechanical Engineering      
-    * Graham Wilson,  BS in Mechanical Engineering   
+    * Graham Wilson,  BS in Mechanical Engineering      
+
+    
     <!-- * Cong Wang, BS in Electrical Engineering       -->
     <!-- * Randall M. Tomlinson, BS in Aerospace Engineering     -->
-<!-- - Students Mentored    
-    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor) -->
+<!-- - Students Mentored    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor) -->
 
 <!-- (committee member) -->
 
