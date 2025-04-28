@@ -24,8 +24,8 @@ toc: true
     * Graham Wilson,  BS in Mechanical Engineering   
     <!-- * Cong Wang, BS in Electrical Engineering       -->
     <!-- * Randall M. Tomlinson, BS in Aerospace Engineering     -->
-- Students Mentored    
-    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor)
+<!-- - Students Mentored    
+    * Ryan A. Kodura, B.S. in Civil Engineering and Mathematics (Minor) -->
 
 <!-- (committee member) -->
 
@@ -43,11 +43,11 @@ toc: true
 
 ### Texas A&M University, College Station, TX
 <!-- - Student Mentoring (with [Prof. Sami El Borgi](https://www.qatar.tamu.edu/programs/mechanical-engineering/faculty-and-staff/dr.-sami-el-borgi))
- * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)              
+ * Rawad Yazbeck, Ph.D. in Aerospace Engineering (Jan. 2022 - Present)              (Co-supervision with Dr. Robert E. Skelton)
  - Research Topic: Adaptive Bandgap Formation in a Periodic Tensegrity Structure -->
 <!-- - Student Mentoring (with [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html))
- * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present) -->
-- Students Mentored (Co-supervision with Dr. Robert E. Skelton)     
+ * Idris Hussain, Aerospace Engineering (Sept. 2023 - Present) --> 
+- Students Mentored      
     * Chris Plantz, M.S. in Ocean Engineering (Sept. 2019 - Jun. 2021)    
     * Jason Liu, MEng in Ocean Engineering (Sept. 2017 - Dec. 2020)      
     * Xiaolong Bai, MEng in Aerospace Engineering (Sept. 2017 - Dec. 2019)    
@@ -55,9 +55,9 @@ toc: true
         <!-- - Research Topic: Design and Experiment of A Robotic Tensegrity Dolphin -->
         <!-- - Research Topic: Software Development of Dynamics, Control, and Animation of Deployable Tensegrity Structures -->
 
-### Huazhong University of Science and Technology       
+<!-- ### Huazhong University of Science and Technology       
 - Class Advisor, B.S. Students in Class 1301, Naval Architecture and Ocean Engineering, Sep. 2013 - Jul. 2016   
     * Awarded Excellent Class and Individual    
 - From Beginner to Master in Virtual Instruments (LabVIEW, Signal Processing, and DAQ), Fall 2011 & Spring 2012   
-    * Awarded National Excellent LabView Club and Individual   
+    * Awarded National Excellent LabView Club and Individual    -->
 </div>
