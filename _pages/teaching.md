@@ -14,8 +14,7 @@ toc: true
     * AER447 - Orbital Mechanics and Spacecraft Dynamics (2024 Fall)    
     * AER699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2024 Spring)    
     * AER599 - Orbital Mechanics and Spacecraft Dynamics (2023 Fall)     
-<!-- - Recruiting               
-    * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.         -->
+<!-- - Recruiting  * If you are interested in exploring research opportunities within our lab, kindly forward your CV to muhaochen@uky.edu.         -->
 - Students Mentoring       
     * Youyun Xu, Ph.D. in Mechanical Engineering    
     * Rayan Pasha, M.S. in Aerospace Engineering
