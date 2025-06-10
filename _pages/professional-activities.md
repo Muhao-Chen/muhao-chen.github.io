@@ -11,7 +11,7 @@ toc_max_header: 1
 
 <div style="text-align: justify;" markdown="1">
 
-## Invited Talks
+## Talks
 <li> Engineering Mechanics Institute (EMI). University of California, Irvine, CA, May 27, 2025. </li>
 <!-- * Tensegrity Robotics Workshop, The 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025), Lausanne, SWI, Apr 23, 2025  -->
 * Department of Mechanical and Aerospace Engineering, University of Houston, TX, Feb, 2025
@@ -23,12 +23,12 @@ toc_max_header: 1
 * Department of Aeronautics & Astronautics, University of Washington, Seattle, WA, Mar. 2023 
 * Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, Feb. 2023
 * Department of Mechanical Engineering, New York Institute of Technology, New York, NY, Apr 6, 2022 
-* College of Engineering, Peking University, Mar 8, 2022 
-* College of Civil Engineering, Shaoxing University, Feb 26, 2022 
+<!-- * College of Engineering, Peking University, Mar 8, 2022  -->
+<!-- * College of Civil Engineering, Shaoxing University, Feb 26, 2022  -->
 * Halliburton Company, Houston, TX, Sept 30, 2021 
 * Patterson-UTI Energy, Inc., Houston, TX, Sept 9, 2021 
-* Soft Robotics Research Center, Shenzhen Institute of Advanced Technology (SIAT), Jul. 2021 
-* Department of Engineering Mechanics, Dalian University of Technology, Jul. 2021 
+<!-- * Soft Robotics Research Center, Shenzhen Institute of Advanced Technology (SIAT), Jul. 2021 
+* Department of Engineering Mechanics, Dalian University of Technology, Jul. 2021  -->
 
 
 <!-- ## Conference talks -->
