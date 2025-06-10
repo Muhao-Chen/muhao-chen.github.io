@@ -20,7 +20,7 @@ toc: true
     * Rayan Pasha, M.S. in Aerospace Engineering
     * Alex McCray, BS in Mechanical Engineering      
     * Graham Wilson, BS in Mechanical Engineering  
-    * Samuel McNabb，BS in Mechanical Engineering  
+    * Samuel McNabb, BS in Mechanical Engineering  
 - Students Mentored      
     * Kyle Hampton, M.S. in Aerospace Engineering
     * Junheng Yao, BS in Mechanical Engineering  
