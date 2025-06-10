@@ -26,7 +26,6 @@ toc: true
     * Kyle Hampton, M.S. in Aerospace Engineering
     * Junheng Yao, BS in Mechanical Engineering  
 
-
     
     <!-- * Cong Wang, BS in Electrical Engineering       -->
     <!-- * Randall M. Tomlinson, BS in Aerospace Engineering     -->
