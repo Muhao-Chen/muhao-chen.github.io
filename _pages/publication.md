@@ -16,7 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2024. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>npj Robotics</u>. Under Review. </li>
+<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>npj Robotics</u>. Under Review. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Engineering Structures</u>. Under Review.</li>
 <li> <strong>Chen, M.</strong>, Shen, Y., 2025. Resource-Efficient Covariance Control with Optimal Sensor and Actuator Selection for Tensegrity Structures. <u>Automation in Construction</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
@@ -31,7 +31,7 @@ Published
 <ol reversed>
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Accepted. </li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D., 2025. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Accepted. </li>
-<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2025. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. Accepted. </li>
+<li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2025. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. p055023. </li>
 <li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2025. Collision resistant study of spherical tensegrity structures for protective drone shells. <u>Extreme Mechanics Letters</u>. p102312. </li>
 <li>Jiang, M. and <strong>Chen, M.</strong>, Zhou, D., Mao, Z.*, 2025. Editorial for the special issue on biomimetic soft robotics: Actuation, sensing, and integration. <u>Biomimetic Intelligence and Robotics</u>. p100211.</li>
 <li>Bai, M. and <strong>Chen, M</strong>*, 2025. Lightweight design of tensegrity Michell truss subject to cantilever loads. <u>Composite Structures</u>. p118925.</li>
