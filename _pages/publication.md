@@ -95,7 +95,7 @@ Submitted
 </ol>
 Published
 <ol reversed> 
-<li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, Jun. 9-12, 2025. </li>
+<li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Statics and dynamics of integrated tensegrity and origami structures based on plate-hinge model. <u>The 14th Asian Pacific Conference on Shell and Spatial Structures (APCS 2025).</u> Design and Construction Technology Toward Low-Carbon Society, Kanazawa, Japan, Jun. 9, 2025. </li>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M.</strong>*, 2024. Experimental study of tensegrity D-Bar based metamaterials.<u> The 5th International Conference on Mechanical Engineering, Intelligent Manufacturing and Automation Technology (MEMAT 2024)</u>. Nanjing, Dec 27, 2024. </li>
 <li> Ma, S.* and <strong>Chen, M.</strong>, 2024. Dynamics of Tensegrity Structures with Membranes based on Finite Element Method. <u>20th Conference on Spatial Structures</u>. Tianjin, Nov., 2024.</li> 
 <li> <strong>Chen, M.</strong> and Qin, J., 2024. Form-Finding and Physical Properties Prediction of Tensegrity Structures Using Deep Neural Networks. <u>The 58th Annual Asilomar Conference on Signals, Systems, and Computers (ACSSC)</u>. Pacific Grove, CA, Oct. 27 - 30, 2024.</li> 
