@@ -119,6 +119,7 @@ Published
 <strong>Conference with Abstracts</strong><br/>
 Submitted 
 <ol reversed>
+<li> Jiang, Y., Huang, W., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>, 2026. Design, Fabrication, and Testing of a Deformable Tensegrity Wing.<u> The 20th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environments (Earth & Space 2026) Conference.</u> College Station, TX, Apr. 13 - 16, 2026. </li>
 <!-- <li> Cao, W., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Model-Based and Data-Based Linearization of Nonlinear Tensegrity Dynamics. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Shen, Y.*, <strong>Chen, M.</strong>, 2025. Data-Driven Modeling and Control Framework for Tensegrity Robots Using Markov Parameters. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. The minimal mass tensegrity solutions to simply supported loads. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
