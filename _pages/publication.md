@@ -93,7 +93,7 @@ Submitted
 <!-- <li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Submitted. </li> -->
 <li> Su, L., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Parametric Studies of Hoberman Spheres for the Design of Scalable and Deployable Structures. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Otc 3, 2025. Accepted. </li>
 <li> Xu, Y., Aono, H., <strong>Chen, M.</strong>, Qin, J.*, 2025. Predicting Dynamics of Tensegrity Structures Using Physics-Informed Neural Networks. <u>IEEE  National Aerospace and Electronics Conference (NAECON)</u>. Fairborn, OH. July 28-31, 2025. Accepted. </li>
-
+<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and Analysis of Deployable Clustered Tensegrity V-Expander Plates. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Accepted.</li>
 </ol>
 Published
 <ol reversed> 
@@ -128,7 +128,6 @@ Submitted
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Design and Analysis of Tensegrity Flywheels Based on Michell Truss Topologies. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Otc 3, 2025. Submitted. </li> -->
 <!-- <li>Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <!-- <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
-<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and Analysis of Deployable Clustered Tensegrity V-Expander Plates. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Accepted.</li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamic Modeling of Integrated Tensegrity and Membrane Systems for Lightweight Deployable Structures. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025. Accepted.</li>
 <!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D., 2025. StarBot: Self-Assembled Transformative Adaptive Robot. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Accepted.</li> -->
 <!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Accepted. </li> -->
