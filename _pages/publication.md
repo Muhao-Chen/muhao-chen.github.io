@@ -122,6 +122,7 @@ Published
 <strong>Conference with Abstracts</strong><br/>
 Submitted 
 <ol reversed>
+<li> Qin, J.*, <strong>Chen, M.</strong>, 2025. Form-Finding and Physical Property Predictions of Tensegrity Structures Using Deep Neural Networks. <u>2025 Efficient and Reliable Deep Learning Methods and their Scientific Applications.</u> Banff International Research Station, Canada, June 26, 2025. </li>
 <!-- <li> Cao, W., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Model-Based and Data-Based Linearization of Nonlinear Tensegrity Dynamics. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Shen, Y.*, <strong>Chen, M.</strong>, 2025. Data-Driven Modeling and Control Framework for Tensegrity Robots Using Markov Parameters. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. The minimal mass tensegrity solutions to simply supported loads. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
@@ -134,7 +135,6 @@ Submitted
 </ol>
 Published
 <ol reversed>
-<li> Qin, J.*, <strong>Chen, M.</strong>, 2025. Form-Finding and Physical Property Predictions of Tensegrity Structures Using Deep Neural Networks. <u>2025 Efficient and Reliable Deep Learning Methods and their Scientific Applications.</u> Banff International Research Station, Canada, June 26, 2025. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamic Modeling of Integrated Tensegrity and Membrane Systems for Lightweight Deployable Structures. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025.</li>
 <li> Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025. </li>
