@@ -20,7 +20,7 @@ Submitted
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Engineering Structures</u>. Under Review.</li>
 <li> <strong>Chen, M.</strong>, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
-<li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Advanced Powder Technology</u>. Under Review. </li>
+<!-- <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Advanced Powder Technology</u>. Under Review. </li> -->
 <!-- <li> Cao, W., <strong>Chen, M.</strong>*, Shen, Y., 2025. Synthesis of tensegrity linearization using model and data-based approaches. <u>International Journal of Mechanical Sciences</u>. Submitted. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, 2025. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
