@@ -20,7 +20,6 @@ Submitted
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Engineering Structures</u>. Under Review.</li>
 <li> <strong>Chen, M.</strong>, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
-<!-- <li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Advanced Powder Technology</u>. Under Review. </li> -->
 <!-- <li> Cao, W., <strong>Chen, M.</strong>*, Shen, Y., 2025. Synthesis of tensegrity linearization using model and data-based approaches. <u>International Journal of Mechanical Sciences</u>. Submitted. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, 2025. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
@@ -32,6 +31,7 @@ Published
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. Accepted. </li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D., 2025. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. Accepted. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Thin-Walled Structures</u>. Accepted.</li>
+<li> Chen, Y.*, <strong>Chen, M.</strong>, Xia, X., Hermanson, J.C., Qi, F., 2025. Efficient Monte Carlo Simulations of Coagulation Based on Weighted Particle Strategies. <u>Advanced Powder Technology</u>. Accepted. </li>
 <li> Zheng, K., Zhang, Y., Zhang, Z., Yang, Y., Chen, B.*, <strong>Chen, M</strong>*, 2025. Design and analysis of tensegrity D–Bar based metamaterials with negative Poisson’s ratio. <u>Smart Materials and Structures</u>. p055023. </li>
 <li> Zhang, Y., Zheng, K., Zhao, Y., Zheng, Z., Chen, B.*, <strong>Chen, M</strong>*, 2025. Collision resistant study of spherical tensegrity structures for protective drone shells. <u>Extreme Mechanics Letters</u>. p102312. </li>
 <li>Jiang, M. and <strong>Chen, M.</strong>, Zhou, D., Mao, Z.*, 2025. Editorial for the special issue on biomimetic soft robotics: Actuation, sensing, and integration. <u>Biomimetic Intelligence and Robotics</u>. p100211.</li>
