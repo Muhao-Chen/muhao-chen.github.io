@@ -60,7 +60,7 @@ Published
 <li>Ma, S., <strong>Chen, M.</strong>*, Skelton, R.E., 2022. TsgFEM: Tensegrity Finite Element Method. <u>Journal of Open Source Software</u>. 7(74), 3390.</li>
 <li>Khaled, M.S., <strong>Chen, M.</strong>, Losoya, E.Z., Rodriguez, L.A., Gildin E.*, Skelton, R.E., 2022. Tensegrity laboratory drilling rig for earth and space drilling, mining, and exploration. <u>International Journal of Solids and Structures</u>. 252, p111785.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Skelton, R.E., 2022. Dynamics and control of clustered tensegrity systems. <u>Engineering Structures</u>. 264, p.114391.</li>
-<li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E, 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p100692.</li>
+<li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2021. Review of space habitat designs for long-term space explorations. <u>Progress in Aerospace Sciences</u>. 122, p100692.</li>
 <li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Tensegrity system dynamics based on finite element method. <u>Composite Structures</u>. 280, p114838.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Design and analysis of a growable artificial gravity space habitat. <u>Aerospace Science and Technology</u>. 106, p106147.</li>
 <li><strong>Chen, M.</strong>* and Skelton, R.E., 2020. A general approach to minimal mass tensegrity. <u>Composite Structures</u>. 248, p112454.</li>
@@ -91,8 +91,8 @@ Submitted
 <li> Jiang, Y.*, Zhao, L., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Accepted. </li>
 <li> Shi, L., Cao, W., <strong>Chen, M.</strong>, Shen, Y*, 2025. Markov parameters generation for data-based modeling of tensegrity robots considering finite word-length effects. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Accepted. </li>
 <!-- <li> Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient Gait Planning Incorporating Locomotion Dynamics for Six-Bar Spherical Tensegrity Robots. <u>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</u>. Hangzhou, Oct 19 – 25, 2025. Submitted. </li> -->
-<li> Su, L., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Parametric Studies of Hoberman Spheres for the Design of Scalable and Deployable Structures. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Otc 3, 2025. Accepted. </li>
-<li> Xu, Y., Aono, H., <strong>Chen, M.</strong>, Qin, J.*, 2025. Predicting Dynamics of Tensegrity Structures Using Physics-Informed Neural Networks. <u>IEEE  National Aerospace and Electronics Conference (NAECON)</u>. Fairborn, OH. July 28-31, 2025. Accepted. </li>
+<li> Su, L., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Parametric Studies of Hoberman Spheres for the Design of Scalable and Deployable Structures. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Oct 3, 2025. Accepted. </li>
+<li> Xu, Y., Aono, H., <strong>Chen, M.</strong>, Qin, J.*, 2025. Predicting Dynamics of Tensegrity Structures Using Physics-Informed Neural Networks. <u>IEEE  National Aerospace and Electronics Conference (NAECON)</u>. Fairborn, OH. July 28-31, 2025. Accepted. </li>
 </ol>
 Published
 <ol reversed> 
@@ -112,7 +112,7 @@ Published
 <li>Shen, Y., <strong>Chen, M.</strong>*, Skelton, R.E., 2023. Optimal simulation model for tensegrity systems in the presence of finite precision computing. <u>The 21st European Control Conference (ECC)</u>. Bucharest, Romania, June 13 - 16, 2023.</li>
 <li>Ma, S., Lu, K., <strong>Chen, M.</strong>* and Skelton, R.E., 2022. Deployment Analysis of A Clustered Tensegrity Hyperbolic Paraboloid Cable Net. <u>IASS Annual Symposium Affiliated with 13th APCS</u>. Beijing, China, Sept. 19-22, 2022.</li>
 <li>Ma, S., <strong>Chen, M.</strong>*, Peng, Z., Yuan, X., Skelton, R.E., 2022. Statics of Tensegrity Systems with Arbitrary Rigid Bodies. <u>IASS Annual Symposium Affiliated with 13th APCS</u>. Beijing, China, Sept. 19-22, 2022.</li>
-<li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spacial Structures Conference 2020/21. Surrey, UK, Aug. 23, 2021.</li>
+<li>Ma, S., <strong>Chen, M.</strong>* and Skelton, R.E., 2021. Design and analysis of deployable clustered tensegrity cable domes. <u>International Association for Shell and Spatial Structures (IASS)</u>. Annual Symposium and Spatial Structures Conference 2020/21. Surrey, UK, Aug. 23, 2021.</li>
 <li> <strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2021. Deployable Tensegrity Lunar Tower. <u>ASCE Earth & Space Conference</u>. April 18-23, 2021.</li>
 <li><strong>Chen, M.</strong>*, Goyal, R., Majji, M. and Skelton, R.E., 2020. Growth Adaptable Artificial Gravity Space Habitat from Tensegrity Structures. <u>ASCE Earth & Space Conference</u>. April 18-23, 2021.</li>
 <li>Longman, A.*, Skelton, R.E., Majji, M., Sercel, J., Peterson, C., Shevtsov, J., <strong>Chen, M.</strong> and Goyal, R., 2020. In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats. <u>In ASCEND 2020</u>. Nov. 16-18, 2020. </li>
@@ -127,7 +127,7 @@ Submitted
 <!-- <li> Shen, Y.*, <strong>Chen, M.</strong>, 2025. Data-Driven Modeling and Control Framework for Tensegrity Robots Using Markov Parameters. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. The minimal mass tensegrity solutions to simply supported loads. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Ma, S.*, Hu, S., <strong>Chen, M.</strong>, 2025. Dynamic Modeling of Integrated Tensegrity and Membrane Systems for Lightweight Deployable Structures. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
-<!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Design and Analysis of Tensegrity Flywheels Based on Michell Truss Topologies. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Otc 3, 2025. Submitted. </li> -->
+<!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Design and Analysis of Tensegrity Flywheels Based on Michell Truss Topologies. <u>The 76th International Astronautical Congress (IAC)</u>. Sydney, Australia, Sep 29 – Oct 3, 2025. Submitted. </li> -->
 <!-- <li>Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <!-- <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D., 2025. StarBot: Self-Assembled Transformative Adaptive Robot. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Accepted.</li> -->
@@ -143,7 +143,7 @@ Published
 <li>Shen, Y.*, <strong>Chen, M.</strong>, 2024. Dynamics Modeling and Control of Tensegrity Morphing Airfoils. <u>The 7th Cross-Strait Symposium on Dynamics, Vibration, and Control (SDVC)</u>. Macao, Dec. 20 – 22, 2024. </li>
 <li> <strong>Chen, M.</strong>* and Ma, S., 2024. Buckling and Stability Evaluation of Tensegrity Aerospace Structures. <u>Kentucky Academy of Science (KAS) Annual Meeting</u>. Kentucky State University, Frankfort, KY, Nov. 1, 2024. </li>
 <li><strong>Chen, M.</strong>* and Shen, Y., 2024. Model Reduction under Finite Word-Length Constraints for Large-Scale Computing. <u>The 8th Annual Commonwealth Computational Summit</u>. The University of Kentucky's Center for Computational Science (CCS) and ITS/Research Computing Infrastructure (ITS-RCI), Lexington, KY, Oct. 16, 2024. </li>
-<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2024. Shape-Change Morphing of Tensegrity V-Expander Plate Metamaterials. <u>ICCS27 - 27th International Conference on Composite Structures</u>. School of Engineering and Architecture, Ravenna Campus of University of Bologna, Italy, Sept. 3 – 6, 2024. </li> 
+<li><strong>Chen, M.</strong>*, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2024. Shape-Change Morphing of Tensegrity V-Expander Plate Metamaterials. <u>ICCS27 - 27th International Conference on Composite Structures</u>. School of Engineering and Architecture, Ravenna Campus of the University of Bologna, Italy, Sept. 3 – 6, 2024. </li> 
 <li> Shen, Y.*, <strong>Chen, M.</strong>, Skelton, R.E., 2024. A general empirical framework for modeling and control of tensegrity robots using Markov parameters. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 22, 2024.</li>
 <li> Ma, S., <strong>Chen, M.</strong>*, 2024. Stability in Tensegrity Systems Considering Member and Global Buckling. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 21, 2024.</li>
 <li> Chen, Y., <strong>Chen, M.</strong>*, Xia, X., Hermanson, J.C., Qi, F, 2024. A General Framework to Population Balance-Monte Carlo Simulations for Particle Breakage, Coagulation and Nucleation. <u>The 2024 Annual Technical Meeting of the Society of Engineering Science (SES)</u>. Hangzhou, Aug. 23, 2024.</li>
@@ -180,11 +180,11 @@ Published
 <!-- ## Patents
 <font size=3>
 <ol reversed>
-<li>Khaled, M., Srinivasan, S., <strong>Chen, M.</strong>, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A. and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review.</li>
+<li>Khaled, M., Srinivasan, S., <strong>Chen, M.</strong>, Rodriguez, L., Gildin, E., Skelton, R.E., Kincaid, E., Lopaz, T., Ezemba, J., Adeniran, A., Vattipalli, U., Toure, A., and Madi, A. Drilling and Extraction Automated System. U.S. Patent. Under review.</li>
 <!-- <li> Plantz, C.L., <strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Robotic Dolphin. U.S. Patent. In preparation. </li> -->
 <!-- <li><strong>Chen, M.</strong>, Majji, M. and Skelton, R.E. Tensegrity Morphing Airfoil. U.S. Patent. In preparation. </li> -->
 <!-- <li> <strong>Chen, M.</strong>, Li, X., Gong, C., Xia, L., Zhou, L. A data-adjustable harvester. Patent No.: CN204630594U, Sept.9, 2015.</li> -->
-<!-- <li><strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M. and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, Mar. 2, 2016.</li> -->
+<!-- <li><strong>Chen, M.</strong>, Gong, C., Xia, L., Zhou, L., Li, M., and Xia, W. A hybrid propulsion system based on waterjet & propeller. Patent No.: CN205059973U, Mar. 2, 2016.</li> -->
 <!-- <li><strong>Chen, M.</strong>, Gong, C., Xia, L. and Huang, J. A data acquisition device. Patent No.: CN204595855U, Aug. 26, 2015.</li> -->
 <!-- </ol> -->
 <!-- </font> --> 
