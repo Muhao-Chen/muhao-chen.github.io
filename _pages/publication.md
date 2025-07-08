@@ -120,9 +120,8 @@ Published
 <li><strong>Chen, M.</strong>*, Shen, Y., Goyal, R., Majji, M. and Skelton, R.E., 2018. Energy analysis of growth adaptable artificial gravity space habitat. <u>In 2018 AIAA SPACE and Astronautics Forum and Exposition</u>. p. 5109. Orlando, FL, Sept. 17-19, 2018.</li>
 </ol>
 <strong>Conference with Abstracts</strong><br/>
-Submitted 
-<ol reversed>
-<li> Qin, J.*, <strong>Chen, M.</strong>, 2025. Form-Finding and Physical Property Predictions of Tensegrity Structures Using Deep Neural Networks. <u>2025 Efficient and Reliable Deep Learning Methods and their Scientific Applications.</u> Banff International Research Station, Canada, June 26, 2025. </li>
+<!-- Submitted  -->
+<!-- <ol reversed> -->
 <!-- <li> Cao, W., <strong>Chen, M.</strong>, Shen, Y.*, 2025. Model-Based and Data-Based Linearization of Nonlinear Tensegrity Dynamics. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Shen, Y.*, <strong>Chen, M.</strong>, 2025. Data-Driven Modeling and Control Framework for Tensegrity Robots Using Markov Parameters. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
 <!-- <li> Zhang, G., <strong>Chen, M.</strong>, Shen, Y.*, 2025. The minimal mass tensegrity solutions to simply supported loads. <u>Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC).</u> Tsinghua University, Beijing, Jul 17 - 20, 2025. Submitted. </li> -->
@@ -132,9 +131,10 @@ Submitted
 <!-- <li>Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u>Engineering Mechanics Institute Conference 2025 (EMI 2025)</u>. Anaheim, CA, May 27, 2025. Submitted.</li> -->
 <!-- <li> Zhao, L.*, Jiang, Y., She, C., <strong>Chen, M.</strong>, Balkcom, D., 2025. StarBot: Self-Assembled Transformative Adaptive Robot. <u>IEEE International Conference on Robotics & Automation (ICRA)</u>. Atlanta, GA, May 19 – 23, 2025. Accepted.</li> -->
 <!-- <li>Zhu, Z.*, <strong>Chen, M.</strong>, 2024. Simulating Gravity by Rotation in Space Station Design: A Multi-Objective and Metaheuristic Approach. <u>XXVIII Conference of the Ibero-American Society of Digital Graphics (SIGraDi 2024)</u>. The iNSTITUTE FOR BiODiGITAL ARCHITECTURE & GENETICS (iBAG), Universitat Internacional de Catalunya, Barcelona, Spain, Nov. 13 – 15, 2024. Accepted. </li> -->
-</ol>
+<!-- </ol> -->
 Published
 <ol reversed>
+<li> Qin, J.*, <strong>Chen, M.</strong>, 2025. Form-Finding and Physical Property Predictions of Tensegrity Structures Using Deep Neural Networks. <u>2025 Efficient and Reliable Deep Learning Methods and their Scientific Applications.</u> Banff International Research Station, Canada, June 26, 2025. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamic Modeling of Integrated Tensegrity and Membrane Systems for Lightweight Deployable Structures. <u>The Fourth International Nonlinear Dynamics Conference (NODYCON).</u> Stevens Institute of Technology, Hoboken, NJ, Jun. 22 - 25, 2025.</li>
 <li> Jiang, Y., Zhao, L., Balkcom, D., <strong>Chen, M.</strong>*, 2025. A Numerical and Experimental Tensegrity Robot Platform for Space Landing and Locomotion. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Dynamics of integrated tensegrity and membrane systems based on finite element method. <u> The Engineering Mechanics Institute 2025 Conference (EMI 2025).</u> University of California, Irvine, CA, May 27 - 30, 2025. </li>
