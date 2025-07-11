@@ -24,7 +24,7 @@ Submitted
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, 2025. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, 2025. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
-<!-- <li> Huang, W., <strong>Chen, M.</strong>*, 2025. Optimal damper design for robust passive control in dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing</u>. Under Review. </li> -->
+<li> Huang, W., <strong>Chen, M.</strong>*, 2025. Optimal damper design for robust passive control in dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing</u>. Under Review. </li>
 </ol>
 Published
 <ol reversed>
