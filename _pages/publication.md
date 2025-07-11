@@ -16,9 +16,9 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>npj Robotics</u>. Under Review. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Engineering Structures</u>. Under Review.</li>
-<li> <strong>Chen, M.</strong>, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li>
+<li> <strong>Chen, M.</strong>*, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li>
+<li>Xu, Y. and <strong>Chen, M.</strong>*, 2025. A modular assembly fabrication approach to tensegrity prism domes. <u>Engineering Structures</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
 <!-- <li> Cao, W., <strong>Chen, M.</strong>*, Shen, Y., 2025. Synthesis of tensegrity linearization using model and data-based approaches. <u>International Journal of Mechanical Sciences</u>. Submitted. </li> -->
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
@@ -28,6 +28,7 @@ Submitted
 </ol>
 Published
 <ol reversed>
+<li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftRafts: Floating and Adaptive Soft Modular Robots. <u>npj Robotics</u>. Accepted. </li>
 <li> Zhao, L.*, Jiang, Y., She, C., Quattrini Li, A., <strong>Chen, M.</strong>, Balkcom, D., 2025. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. <u>Soft Robotics</u>. </li>
 <li> Zhao, L.*, Jiang, Y., <strong>Chen, M.</strong>, Bekris, K., Balkcom, D., 2025. Tensegrity-Blocks: Modular Shape-changing Blocks Enable Self-assembling Robotic Structures. <u>Nature Communications</u>. p5888. </li>
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear statics and dynamics of membrane systems based on positional FEM. <u>Thin-Walled Structures</u>. p113620.</li>
