@@ -16,6 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
+<!-- <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G., Piccioni, M., 2025. Design and self-stress analysis of a family of core-expander tensegrity structures. <u>Engineering Structures</u>. Under Review.</li>  -->
 <li>Xu, Y., Hampton, J.K., Altamneh, H., <strong>Chen, M.</strong>*, 2025. Design and control of an adaptive deployable tensegrity satellite frame. <u>Acta Astronautica</u>. Under Review.</li> 
 <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Computer Methods in Applied Mechanics and Engineering</u>. Under Review.</li> 
 <li> <strong>Chen, M.</strong>*, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li>
