@@ -8,6 +8,11 @@ toc: true
 
 <div style="text-align: justify;" markdown="1">
 
+### University of Houston, Houston, TX
+- Class Teaching       
+    * MECE 5397 - Tensegrity Engineering for Space Systems 
+
+
 ### University of Kentucky, Lexington, KY
 - Class Teaching       
     * ME/AER 599/699 - Tensegrity Engineering: Solutions to Lightweight Automated Space Systems (2025 Spring)    
