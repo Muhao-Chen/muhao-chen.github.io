@@ -10,7 +10,7 @@ toc: true
 
 ### University of Houston, Houston, TX
 - Class Teaching       
-    * MECE 5397 - Tensegrity Engineering for Space Systems 
+    * MECE 5397 - Tensegrity Engineering for Space Systems (2025 Fall)
 
 
 ### University of Kentucky, Lexington, KY
