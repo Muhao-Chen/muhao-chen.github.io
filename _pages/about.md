@@ -55,8 +55,12 @@ My research focuses on three primary areas: Dynamics: Focus on precise, cost-eff
 ---
 
 ## Work Experience
+Department of Mechanical and Aerospace Engineering, University of Houston, Houston, TX               
+Assistant Professor, Aug. 2025 - Present
+
+
 Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY               
-Assistant Professor, Aug. 2023 - Present
+Assistant Professor, Aug. 2023 - July 2025
 
 Department of Aerospace Engineering, Texas A&M University, College Station, TX               
 Postdoctoral Researcher, May 2021 - July 2023 
