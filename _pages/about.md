@@ -126,11 +126,12 @@ B.S., Naval Architecture and Ocean Engineering, 2013                  
 
 
 ## Contact
-Email: muhaochen@uky.edu                               
-Office: +1 859-2577-2233               
+Email: muhaochen@uh.edu                               
+<!-- Office: +1 859-2577-2233                -->
 Tel: +1 979-985-8285               
-Grehan 113A, Mechanical and Aerospace Engineering               
-University of Kentucky, Lexington, KY 40506
+Engineering Building 2, Room W204   
+4226 Martin Luther King Boulevard    
+Houston, TX 77204-4006
 
 <!-- ](https://engineering.tamu.edu/aerospace/about/facts.html), [TAMU](https://www.tamu.edu/)       -->
 
