@@ -16,7 +16,7 @@ toc: true
 <font size=3>
 Submitted
 <ol reversed>
-<li>Ma, W.*, She, C., <strong>Chen, M.</strong>, Zhao, L.*, 2025. Large Language Models Enable Instruction-Driven Soft Modular Robotics Design. <u>Smart Materials and Structrues</u>.</li>
+<!-- <li>Ma, W.*, She, C., <strong>Chen, M.</strong>, Zhao, L.*, 2025. Large Language Models Enable Instruction-Driven Soft Modular Robotics Design. <u>Smart Materials and Structrues</u>.</li> -->
 <!-- <li>Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient gait planning incorporating structure and locomotion dynamics for six-bar spherical tensegrity robots. <u>Extreme Mechanics Letters</u>.</li> -->
 <!-- <li>Zhang, G., <strong>Chen, M.</strong>*, Shen, Y., 2025. Lightweight design of a tensegrity retractable roof subject to distributed loads. <u>Engineering Structures</u>.</li> -->
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., 2025. Design and self-stress analysis of a family of core-expander tensegrity structures. <u>Engineering Structures</u>. Under Review.</li> 
