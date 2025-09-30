@@ -17,19 +17,19 @@ toc: true
 Submitted
 <ol reversed>
 <li>Ma, W.*, She, C., <strong>Chen, M.</strong>, Zhao, L.*, 2025. Large Language Models Enable Instruction-Driven Soft Modular Robotics Design. <u>Smart Materials and Structrues</u>.</li>
-<li>Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient gait planning incorporating structure and locomotion dynamics for six-bar spherical tensegrity robots. <u>Extreme Mechanics Letters</u>.</li>
-<li>Zhang, G., <strong>Chen, M.</strong>*, Shen, Y., 2025. Lightweight design of a tensegrity retractable roof subject to distributed loads. <u>Engineering Structures</u>.</li>
+<!-- <li>Li, Z., Xu, H., <strong>Chen, M.</strong>*, 2025. Efficient gait planning incorporating structure and locomotion dynamics for six-bar spherical tensegrity robots. <u>Extreme Mechanics Letters</u>.</li> -->
+<!-- <li>Zhang, G., <strong>Chen, M.</strong>*, Shen, Y., 2025. Lightweight design of a tensegrity retractable roof subject to distributed loads. <u>Engineering Structures</u>.</li> -->
 <li><strong>Chen, M.</strong>, Fraddosio, A., Micheletti, A., Pavone, G.*, Piccioni, M., 2025. Design and self-stress analysis of a family of core-expander tensegrity structures. <u>Engineering Structures</u>. Under Review.</li> 
 <li>Xu, Y., Hampton, J.K., Altamneh, H., <strong>Chen, M.</strong>*, 2025. Design and control of an adaptive deployable tensegrity satellite frame. <u>Acta Astronautica</u>. Under Review.</li> 
-<li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Computer Methods in Applied Mechanics and Engineering</u>. Under Review.</li> 
-<li> <strong>Chen, M.</strong>*, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li>
+<!-- <li> Ma, S., Hu, S., <strong>Chen, M.</strong>*, 2025. Nonlinear dynamics of integrated tensegrity and membrane systems. <u>Computer Methods in Applied Mechanics and Engineering</u>. Under Review.</li>  -->
+<!-- <li> <strong>Chen, M.</strong>*, Shen, Y., 2025. Resource-efficient covariance control with optimal sensor and actuator selection for tensegrity structures. <u>Engineering Structures</u>. Under Review. </li> -->
 <li>Xu, Y. and <strong>Chen, M.</strong>*, 2025. A modular assembly fabrication approach to tensegrity prism domes. <u>Engineering Structures</u>. Under Review. </li>
 <!-- <li> Zhu, Z.*, <strong>Chen, M.</strong>, 2025. A metaheuristic approach to the design of a space station with artificial gravity. <u>Acta Astronautica</u>. Under Review. </li> -->
 <li> Cao, W., <strong>Chen, M.</strong>*, Shen, Y., 2025. Synthesis of tensegrity linearization using model and data-based approaches. <u>Applied Mathematical Modelling</u>. Under Review.</li> 
 <!-- <li> <strong>Chen, M.</strong>*, 2024. Mass efficient Double-Helix Tensegrity for underwater, land, air, and space applications. <u>Computer Methods in Applied Mechanics and Engineering</u>.-->
 <!-- <li>Shen, Y., <strong>Chen, M.</strong>*, 2025. TsgDMC: Tensegrity Data-based Modeling and Control. <u>Journal of Open Source Software</u>. </li>
 <li>Ma, S., <strong>Chen, M.</strong>*, 2025. OriTsgEFA: Origami and Tensegrity Equilibrium and Form-finding Analysis. <u>Journal of Open Source Software</u>. </li> -->
-<li> Huang, W., <strong>Chen, M.</strong>*, 2025. Optimal damper design for robust passive control in dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing</u>. Under Review. </li>
+<!-- <li> Huang, W., <strong>Chen, M.</strong>*, 2025. Optimal damper design for robust passive control in dynamical systems: examples of tensegrity structures. <u>Mechanical Systems and Signal Processing</u>. Under Review. </li> -->
 </ol>
 Published
 <ol reversed>
